@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: 0a283dce8cb922f4bacd5a3edc7f1a10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2067769934002593896
+    second: Minerals 01.01 - Iron Tileset 01.00_0
+  - first:
+      213: 8258638403095979937
+    second: Minerals 01.01 - Iron Tileset 01.00_1
+  - first:
+      213: 3815644487197166792
+    second: Minerals 01.01 - Iron Tileset 01.00_2
+  - first:
+      213: 4849886436859812758
+    second: Minerals 01.01 - Iron Tileset 01.00_3
+  - first:
+      213: 1197260932225108616
+    second: Minerals 01.01 - Iron Tileset 01.00_4
+  - first:
+      213: 3941835819259769782
+    second: Minerals 01.01 - Iron Tileset 01.00_5
+  - first:
+      213: 3159515276391326163
+    second: Minerals 01.01 - Iron Tileset 01.00_6
+  - first:
+      213: -757461519206468317
+    second: Minerals 01.01 - Iron Tileset 01.00_7
+  - first:
+      213: 5168519058247483007
+    second: Minerals 01.01 - Iron Tileset 01.00_8
+  - first:
+      213: 4317509738027939507
+    second: Minerals 01.01 - Iron Tileset 01.00_9
+  - first:
+      213: -7772373156740159165
+    second: Minerals 01.01 - Iron Tileset 01.00_10
+  - first:
+      213: -3984834554939194302
+    second: Minerals 01.01 - Iron Tileset 01.00_11
+  - first:
+      213: 1838060657826966580
+    second: Minerals 01.01 - Iron Tileset 01.00_12
+  - first:
+      213: -4336832426372616588
+    second: Minerals 01.01 - Iron Tileset 01.00_13
+  - first:
+      213: 8350728726337708838
+    second: Minerals 01.01 - Iron Tileset 01.00_14
+  - first:
+      213: 2493930027946543724
+    second: Minerals 01.01 - Iron Tileset 01.00_15
+  - first:
+      213: -2378382973544592374
+    second: Minerals 01.01 - Iron Tileset 01.00_16
+  - first:
+      213: 5145280192301439462
+    second: Minerals 01.01 - Iron Tileset 01.00_17
+  - first:
+      213: -4471046958038195382
+    second: Minerals 01.01 - Iron Tileset 01.00_18
+  - first:
+      213: -2132499708450042312
+    second: Minerals 01.01 - Iron Tileset 01.00_19
+  - first:
+      213: 5465997400742701477
+    second: Minerals 01.01 - Iron Tileset 01.00_20
+  - first:
+      213: 5336205513799246198
+    second: Minerals 01.01 - Iron Tileset 01.00_21
+  - first:
+      213: -4837433031826315226
+    second: Minerals 01.01 - Iron Tileset 01.00_22
+  - first:
+      213: -5932601892230906347
+    second: Minerals 01.01 - Iron Tileset 01.00_23
+  - first:
+      213: -3382355787427922487
+    second: Minerals 01.01 - Iron Tileset 01.00_24
+  - first:
+      213: -2907731213014026264
+    second: Minerals 01.01 - Iron Tileset 01.00_25
+  - first:
+      213: -2552305201603239601
+    second: Minerals 01.01 - Iron Tileset 01.00_26
+  - first:
+      213: -6782077348910611288
+    second: Minerals 01.01 - Iron Tileset 01.00_27
+  - first:
+      213: 4355945019478431993
+    second: Minerals 01.01 - Iron Tileset 01.00_28
+  - first:
+      213: -7177238870844575585
+    second: Minerals 01.01 - Iron Tileset 01.00_29
+  - first:
+      213: 1143400912350429986
+    second: Minerals 01.01 - Iron Tileset 01.00_30
+  - first:
+      213: 5754436327707740532
+    second: Minerals 01.01 - Iron Tileset 01.00_31
+  - first:
+      213: 2466339160696433990
+    second: Minerals 01.01 - Iron Tileset 01.00_32
+  - first:
+      213: 5204362602896465242
+    second: Minerals 01.01 - Iron Tileset 01.00_33
+  - first:
+      213: -7943197199879322145
+    second: Minerals 01.01 - Iron Tileset 01.00_34
+  - first:
+      213: -4744655708068325639
+    second: Minerals 01.01 - Iron Tileset 01.00_35
+  - first:
+      213: -7517503252195947063
+    second: Minerals 01.01 - Iron Tileset 01.00_36
+  - first:
+      213: -7714440087655306059
+    second: Minerals 01.01 - Iron Tileset 01.00_37
+  - first:
+      213: -39648467779233450
+    second: Minerals 01.01 - Iron Tileset 01.00_38
+  - first:
+      213: 2051882650385941153
+    second: Minerals 01.01 - Iron Tileset 01.00_39
+  - first:
+      213: -2232187994922374875
+    second: Minerals 01.01 - Iron Tileset 01.00_40
+  - first:
+      213: -3459273549377739668
+    second: Minerals 01.01 - Iron Tileset 01.00_41
+  - first:
+      213: 1390032024367084952
+    second: Minerals 01.01 - Iron Tileset 01.00_42
+  - first:
+      213: -7042766728137091384
+    second: Minerals 01.01 - Iron Tileset 01.00_43
+  - first:
+      213: -8772686105470623508
+    second: Minerals 01.01 - Iron Tileset 01.00_44
+  - first:
+      213: -3641224617048689647
+    second: Minerals 01.01 - Iron Tileset 01.00_45
+  - first:
+      213: -8666772570940271986
+    second: Minerals 01.01 - Iron Tileset 01.00_46
+  - first:
+      213: 3208321221871013759
+    second: Minerals 01.01 - Iron Tileset 01.00_47
+  - first:
+      213: 6824280027119686649
+    second: Minerals 01.01 - Iron Tileset 01.00_48
+  - first:
+      213: -6087846393626503285
+    second: Minerals 01.01 - Iron Tileset 01.00_49
+  - first:
+      213: -8439765756500842145
+    second: Minerals 01.01 - Iron Tileset 01.00_50
+  - first:
+      213: 3628649392811651362
+    second: Minerals 01.01 - Iron Tileset 01.00_51
+  - first:
+      213: -3038279066228599008
+    second: Minerals 01.01 - Iron Tileset 01.00_52
+  - first:
+      213: -3200356041244044725
+    second: Minerals 01.01 - Iron Tileset 01.00_53
+  - first:
+      213: 937388056851113387
+    second: Minerals 01.01 - Iron Tileset 01.00_54
+  - first:
+      213: 6347737354849276558
+    second: Minerals 01.01 - Iron Tileset 01.00_55
+  - first:
+      213: 8907219068204886434
+    second: Minerals 01.01 - Iron Tileset 01.00_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fda86533ecd43e0800000000000000
+      internalID: -2067769934002593896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 59
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a76fe81fd39c9270800000000000000
+      internalID: 8258638403095979937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc8098e174e3f430800000000000000
+      internalID: 3815644487197166792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b930eb4024e4340800000000000000
+      internalID: 4849886436859812758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 64
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a0bb879768d9010800000000000000
+      internalID: 1197260932225108616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3b3e9fac634b630800000000000000
+      internalID: 3941835819259769782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 66
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1a9bf676ad8db20800000000000000
+      internalID: 3159515276391326163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 74
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325bba0f2c4fc75f0800000000000000
+      internalID: -757461519206468317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 72
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e7da113b44ab740800000000000000
+      internalID: 5168519058247483007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f1794b30eaeb30800000000000000
+      internalID: 4317509738027939507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 67
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349a8b23bcbf22490800000000000000
+      internalID: -7772373156740159165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 54
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244c528b51603b8c0800000000000000
+      internalID: -3984834554939194302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 55
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ca5690e6a128910800000000000000
+      internalID: 1838060657826966580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 59
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e2aafb2e970d3c0800000000000000
+      internalID: -4336832426372616588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 58
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6236205588fb3e370800000000000000
+      internalID: 8350728726337708838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a0f62a5283c9220800000000000000
+      internalID: 2493930027946543724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 53
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c890a69494efed0800000000000000
+      internalID: -2378382973544592374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 54
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e91bf3f215b76740800000000000000
+      internalID: 5145280192301439462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43ea04fa76a3f1c0800000000000000
+      internalID: -4471046958038195382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 53
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e063a40d6d762e0800000000000000
+      internalID: -2132499708450042312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 53
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a92a760daf1bdb40800000000000000
+      internalID: 5465997400742701477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6712c7274a20e0a40800000000000000
+      internalID: 5336205513799246198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 48
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286041994cfddcb0800000000000000
+      internalID: -4837433031826315226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 43
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e34c3e20a2bada0800000000000000
+      internalID: -5932601892230906347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd3f52f4557f01d0800000000000000
+      internalID: -3382355787427922487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7bbf91ed9a5a7d0800000000000000
+      internalID: -2907731213014026264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41ae0c11f3649cd0800000000000000
+      internalID: -2552305201603239601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 37
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4c5fa859831e1a0800000000000000
+      internalID: -6782077348910611288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8d42b9aec637c30800000000000000
+      internalID: 4355945019478431993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90fe2b0643556c90800000000000000
+      internalID: -7177238870844575585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 42
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2234180621d2edf00800000000000000
+      internalID: 1143400912350429986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 37
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4798f9b0a5ddbdf40800000000000000
+      internalID: 5754436327707740532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d22f046623a3220800000000000000
+      internalID: 2466339160696433990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d98f3a63c993840800000000000000
+      internalID: 5204362602896465242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c0584b3814c190800000000000000
+      internalID: -7943197199879322145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 40
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6de0395c8972eb0800000000000000
+      internalID: -4744655708068325639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd440f1f967ca790800000000000000
+      internalID: -7517503252195947063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bca546fc9dc0f490800000000000000
+      internalID: -7714440087655306059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 27
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659512abde3237ff0800000000000000
+      internalID: -39648467779233450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 28
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a28a013660c97c10800000000000000
+      internalID: 2051882650385941153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a2c268dca501e0800000000000000
+      internalID: -2232187994922374875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646f6ce8013effc0800000000000000
+      internalID: -3459273549377739668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89531dee2c26a4310800000000000000
+      internalID: 1390032024367084952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 20
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d27599f0134e90800000000000000
+      internalID: -7042766728137091384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 10
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce02b6d7778214680800000000000000
+      internalID: -8772686105470623508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 25
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114b769b085c77dc0800000000000000
+      internalID: -3641224617048689647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e829108e34079b780800000000000000
+      internalID: -8666772570940271986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f08f2272f368c20800000000000000
+      internalID: 3208321221871013759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 17
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f313403786b4be50800000000000000
+      internalID: 6824280027119686649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87dfb4b5ff938ba0800000000000000
+      internalID: -6087846393626503285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_50
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e240a2cdefda80800000000000000
+      internalID: -8439765756500842145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_51
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221b9f8b56d8b5230800000000000000
+      internalID: 3628649392811651362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02750f8694dd5d5d0800000000000000
+      internalID: -3038279066228599008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_53
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b429fdef22d0693d0800000000000000
+      internalID: -3200356041244044725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5ed41a875420d00800000000000000
+      internalID: 937388056851113387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82d4431e71b71850800000000000000
+      internalID: 6347737354849276558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Minerals 01.01 - Iron Tileset 01.00_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a920f0dc8ccc9b70800000000000000
+      internalID: 8907219068204886434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

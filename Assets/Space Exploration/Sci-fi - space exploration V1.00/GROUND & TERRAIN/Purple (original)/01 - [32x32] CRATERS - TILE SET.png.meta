@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 0b19eff3f6a1a11448a06f614e57545a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4430874717708537811
+    second: 01 - [32x32] CRATERS - TILE SET_0
+  - first:
+      213: -9215561311342490317
+    second: 01 - [32x32] CRATERS - TILE SET_1
+  - first:
+      213: -3383758253326259661
+    second: 01 - [32x32] CRATERS - TILE SET_2
+  - first:
+      213: -1111528985808378523
+    second: 01 - [32x32] CRATERS - TILE SET_3
+  - first:
+      213: 4750428670588798963
+    second: 01 - [32x32] CRATERS - TILE SET_4
+  - first:
+      213: 5713180361980095866
+    second: 01 - [32x32] CRATERS - TILE SET_5
+  - first:
+      213: -6006512838638986041
+    second: 01 - [32x32] CRATERS - TILE SET_6
+  - first:
+      213: -1001317590510951046
+    second: 01 - [32x32] CRATERS - TILE SET_7
+  - first:
+      213: -6979532717204894050
+    second: 01 - [32x32] CRATERS - TILE SET_8
+  - first:
+      213: 2313973744799919762
+    second: 01 - [32x32] CRATERS - TILE SET_9
+  - first:
+      213: -7298295239541014871
+    second: 01 - [32x32] CRATERS - TILE SET_10
+  - first:
+      213: 3708468826047110791
+    second: 01 - [32x32] CRATERS - TILE SET_11
+  - first:
+      213: 2164779402883674324
+    second: 01 - [32x32] CRATERS - TILE SET_12
+  - first:
+      213: 5786668758033897888
+    second: 01 - [32x32] CRATERS - TILE SET_13
+  - first:
+      213: -2142518506758737478
+    second: 01 - [32x32] CRATERS - TILE SET_14
+  - first:
+      213: 6037571471517803958
+    second: 01 - [32x32] CRATERS - TILE SET_15
+  - first:
+      213: -5300598902775019041
+    second: 01 - [32x32] CRATERS - TILE SET_16
+  - first:
+      213: 3563378823620213679
+    second: 01 - [32x32] CRATERS - TILE SET_17
+  - first:
+      213: 9175011086208500768
+    second: 01 - [32x32] CRATERS - TILE SET_18
+  - first:
+      213: -825977214999372222
+    second: 01 - [32x32] CRATERS - TILE SET_19
+  - first:
+      213: 750944550259547949
+    second: 01 - [32x32] CRATERS - TILE SET_20
+  - first:
+      213: 7184522469484189033
+    second: 01 - [32x32] CRATERS - TILE SET_21
+  - first:
+      213: -6253958443488141355
+    second: 01 - [32x32] CRATERS - TILE SET_22
+  - first:
+      213: -4441262137444195613
+    second: 01 - [32x32] CRATERS - TILE SET_23
+  - first:
+      213: 7696061991396306700
+    second: 01 - [32x32] CRATERS - TILE SET_24
+  - first:
+      213: 4290844715651502031
+    second: 01 - [32x32] CRATERS - TILE SET_25
+  - first:
+      213: -380745350035255979
+    second: 01 - [32x32] CRATERS - TILE SET_26
+  - first:
+      213: -9140470529486001352
+    second: 01 - [32x32] CRATERS - TILE SET_27
+  - first:
+      213: -3836609603101647544
+    second: 01 - [32x32] CRATERS - TILE SET_28
+  - first:
+      213: 5294591617093451019
+    second: 01 - [32x32] CRATERS - TILE SET_29
+  - first:
+      213: -7023890259424969107
+    second: 01 - [32x32] CRATERS - TILE SET_30
+  - first:
+      213: 3945201066199412177
+    second: 01 - [32x32] CRATERS - TILE SET_31
+  - first:
+      213: 7490524138422387985
+    second: 01 - [32x32] CRATERS - TILE SET_32
+  - first:
+      213: -1213150383379529743
+    second: 01 - [32x32] CRATERS - TILE SET_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2039b68bee5282c0800000000000000
+      internalID: -4430874717708537811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d099f30dfbb1080800000000000000
+      internalID: -9215561311342490317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a21b8ebc97a01d0800000000000000
+      internalID: -3383758253326259661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565675bc64e0390f0800000000000000
+      internalID: -1111528985808378523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c64105b9ece140800000000000000
+      internalID: 4750428670588798963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 82
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7daf8df44b494f40800000000000000
+      internalID: 5713180361980095866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc991aa56494aca0800000000000000
+      internalID: -6006512838638986041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ae36e4fa9a12f0800000000000000
+      internalID: -1001317590510951046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e09cc09f7b32f90800000000000000
+      internalID: -6979532717204894050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 85
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e21666cd2ec1020800000000000000
+      internalID: 2313973744799919762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_10
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 64
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aebb3dc52f37ba90800000000000000
+      internalID: -7298295239541014871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 74
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ed52dbfb0277330800000000000000
+      internalID: 3708468826047110791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 81
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0b6fdb567da0e10800000000000000
+      internalID: 2164779402883674324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 66
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9167b83906e4050800000000000000
+      internalID: 5786668758033897888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1f1f705ce3442e0800000000000000
+      internalID: -2142518506758737478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 64
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5e9d1d343c9c350800000000000000
+      internalID: 6037571471517803958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd90547b16d7076b0800000000000000
+      internalID: -5300598902775019041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab3806192aa37130800000000000000
+      internalID: 3563378823620213679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 16
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0248abbb8ff245f70800000000000000
+      internalID: 9175011086208500768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5563691a8984f0800000000000000
+      internalID: -825977214999372222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f5c3cf614eb6a00800000000000000
+      internalID: 750944550259547949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965da6aee1d84b360800000000000000
+      internalID: 7184522469484189033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 36
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df95d73ee97539a0800000000000000
+      internalID: -6253958443488141355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e22f37ed977d52c0800000000000000
+      internalID: -4441262137444195613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fef8e0b97edca60800000000000000
+      internalID: 7696061991396306700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 20
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf05c6f8842c8b30800000000000000
+      internalID: 4290844715651502031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d44451f1257baf0800000000000000
+      internalID: -380745350035255979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6f025b76862180800000000000000
+      internalID: -9140470529486001352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d1649a4ef91cac0800000000000000
+      internalID: -3836609603101647544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_29
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 18
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dbd97160b2a7940800000000000000
+      internalID: 5294591617093451019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef5a1f501268e90800000000000000
+      internalID: -7023890259424969107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_31
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddee46977b20c630800000000000000
+      internalID: 3945201066199412177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115c7247400b3f760800000000000000
+      internalID: 7490524138422387985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [32x32] CRATERS - TILE SET_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffb88367260a2fe0800000000000000
+      internalID: -1213150383379529743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
