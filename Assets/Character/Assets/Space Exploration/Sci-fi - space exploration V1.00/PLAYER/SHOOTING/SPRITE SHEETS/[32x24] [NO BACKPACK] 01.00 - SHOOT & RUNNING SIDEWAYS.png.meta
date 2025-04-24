@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: fee2b6465dcd2ec4197379b0e9258b2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4566794519422645428
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_0'
+  - first:
+      213: -5744334637046457081
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_1'
+  - first:
+      213: -3224362301123981576
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_2'
+  - first:
+      213: 7273345464351566901
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_3'
+  - first:
+      213: -4521107659836624092
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_4'
+  - first:
+      213: -1051651069008878117
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_5'
+  - first:
+      213: -9132440342076509335
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_6'
+  - first:
+      213: -8177228032874202554
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_7'
+  - first:
+      213: -6093533244552612702
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_8'
+  - first:
+      213: -3999848393470302302
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_9'
+  - first:
+      213: 4463015112004891271
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_10'
+  - first:
+      213: -1307347246200178191
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_11'
+  - first:
+      213: -8494358077110582235
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_12'
+  - first:
+      213: -154295039100668616
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_13'
+  - first:
+      213: -4949499053031554504
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_14'
+  - first:
+      213: -2613673277912493549
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_15'
+  - first:
+      213: -1471065858921244930
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_16'
+  - first:
+      213: -8639104391988953188
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_17'
+  - first:
+      213: 5243455832290957992
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_18'
+  - first:
+      213: 1599441419114291322
+    second: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_19'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_0'
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bcc9b949c7f90c0800000000000000
+      internalID: -4566794519422645428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_1'
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d9fd715160840b0800000000000000
+      internalID: -5744334637046457081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_2'
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe085e0293c043d0800000000000000
+      internalID: -3224362301123981576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_3'
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53caf5bf92d10f460800000000000000
+      internalID: 7273345464351566901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_4'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423f328898cc141c0800000000000000
+      internalID: -4521107659836624092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_5'
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5e014bce8c761f0800000000000000
+      internalID: -1051651069008878117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_6'
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963351605ed034180800000000000000
+      internalID: -9132440342076509335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_7'
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aba2dcd66a48e80800000000000000
+      internalID: -8177228032874202554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_8'
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4786b8ccb6f6ba0800000000000000
+      internalID: -6093533244552612702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_9'
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a729c7041fad78c0800000000000000
+      internalID: -3999848393470302302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_10'
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782704a2990dfed30800000000000000
+      internalID: 4463015112004891271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_11'
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f937203b9e5bdde0800000000000000
+      internalID: -1307347246200178191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_12'
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5248ada755afd1a80800000000000000
+      internalID: -8494358077110582235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_13'
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835bccbba75dbddf0800000000000000
+      internalID: -154295039100668616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_14'
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8320ce7b5d8df4bb0800000000000000
+      internalID: -4949499053031554504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_15'
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3125817600e5abbd0800000000000000
+      internalID: -2613673277912493549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_16'
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef65bc53569b59be0800000000000000
+      internalID: -1471065858921244930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_17'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3bf1d35cbb1880800000000000000
+      internalID: -8639104391988953188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_18'
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa17276c4f74c840800000000000000
+      internalID: 5243455832290957992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_19'
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70aa591f7b523610800000000000000
+      internalID: 1599441419114291322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_0': -4566794519422645428
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_1': -5744334637046457081
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_10': 4463015112004891271
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_11': -1307347246200178191
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_12': -8494358077110582235
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_13': -154295039100668616
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_14': -4949499053031554504
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_15': -2613673277912493549
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_16': -1471065858921244930
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_17': -8639104391988953188
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_18': 5243455832290957992
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_19': 1599441419114291322
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_2': -3224362301123981576
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_3': 7273345464351566901
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_4': -4521107659836624092
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_5': -1051651069008878117
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_6': -9132440342076509335
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_7': -8177228032874202554
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_8': -6093533244552612702
+      '[32x24] [NO BACKPACK] 01.00 - SHOOT & RUNNING SIDEWAYS_9': -3999848393470302302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

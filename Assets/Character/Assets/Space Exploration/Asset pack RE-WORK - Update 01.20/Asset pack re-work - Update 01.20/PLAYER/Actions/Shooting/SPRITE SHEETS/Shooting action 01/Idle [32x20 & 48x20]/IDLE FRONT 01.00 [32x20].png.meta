@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 12f9baea2a73d494d9ca2d88625ef9e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -252293016561010014
+    second: IDLE FRONT 01.00 [32x20]_0
+  - first:
+      213: -1494954089703641104
+    second: IDLE FRONT 01.00 [32x20]_1
+  - first:
+      213: -4937934418321744061
+    second: IDLE FRONT 01.00 [32x20]_2
+  - first:
+      213: -1216516677400231681
+    second: IDLE FRONT 01.00 [32x20]_3
+  - first:
+      213: -2372181833471724987
+    second: IDLE FRONT 01.00 [32x20]_4
+  - first:
+      213: 3882322701723601047
+    second: IDLE FRONT 01.00 [32x20]_5
+  - first:
+      213: -6563653664119605828
+    second: IDLE FRONT 01.00 [32x20]_6
+  - first:
+      213: 2778639570532299163
+    second: IDLE FRONT 01.00 [32x20]_7
+  - first:
+      213: -7288568013853517877
+    second: IDLE FRONT 01.00 [32x20]_8
+  - first:
+      213: 2542172892947173030
+    second: IDLE FRONT 01.00 [32x20]_9
+  - first:
+      213: 4751556776662617267
+    second: IDLE FRONT 01.00 [32x20]_10
+  - first:
+      213: 4080557671952632801
+    second: IDLE FRONT 01.00 [32x20]_11
+  - first:
+      213: -9137964599289870062
+    second: IDLE FRONT 01.00 [32x20]_12
+  - first:
+      213: -7011021442082334367
+    second: IDLE FRONT 01.00 [32x20]_13
+  - first:
+      213: 8524707364651682607
+    second: IDLE FRONT 01.00 [32x20]_14
+  - first:
+      213: 7346599760535122155
+    second: IDLE FRONT 01.00 [32x20]_15
+  - first:
+      213: 5373333943760690314
+    second: IDLE FRONT 01.00 [32x20]_16
+  - first:
+      213: 3243409705153563308
+    second: IDLE FRONT 01.00 [32x20]_17
+  - first:
+      213: 937734077037588552
+    second: IDLE FRONT 01.00 [32x20]_18
+  - first:
+      213: 933531787947110243
+    second: IDLE FRONT 01.00 [32x20]_19
+  - first:
+      213: 8069188192643996992
+    second: IDLE FRONT 01.00 [32x20]_20
+  - first:
+      213: -7485668401158500047
+    second: IDLE FRONT 01.00 [32x20]_21
+  - first:
+      213: -8001982487349809603
+    second: IDLE FRONT 01.00 [32x20]_22
+  - first:
+      213: 6438036532106566443
+    second: IDLE FRONT 01.00 [32x20]_23
+  - first:
+      213: 556989647916195734
+    second: IDLE FRONT 01.00 [32x20]_24
+  - first:
+      213: -2333084061936145640
+    second: IDLE FRONT 01.00 [32x20]_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aab19096dcaf7cf0800000000000000
+      internalID: -252293016561010014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff62bf0d2bd04be0800000000000000
+      internalID: -1494954089703641104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd1cf0fcee87bb0800000000000000
+      internalID: -4937934418321744061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0883cf6801e1fe0800000000000000
+      internalID: -1216516677400231681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427849d031541fd0800000000000000
+      internalID: -2372181833471724987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7988ba38de7c0e530800000000000000
+      internalID: 3882322701723601047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5b579a4c739e4a0800000000000000
+      internalID: -6563653664119605828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91fb60b7f5bf8620800000000000000
+      internalID: 2778639570532299163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc79cf4020ec9da90800000000000000
+      internalID: -7288568013853517877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4eb1f6cc974320800000000000000
+      internalID: 2542172892947173030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc431ba6bbe0f140800000000000000
+      internalID: 4751556776662617267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb4b3a359d01a830800000000000000
+      internalID: 4080557671952632801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198b39ac9d6f2180800000000000000
+      internalID: -9137964599289870062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1691908f429d3be90800000000000000
+      internalID: -7011021442082334367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b483cae28dd4670800000000000000
+      internalID: 8524707364651682607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be07aa9ee8d54f560800000000000000
+      internalID: 7346599760535122155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c9761b0cae19a40800000000000000
+      internalID: 5373333943760690314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa8bb841f7e20d20800000000000000
+      internalID: 3243409705153563308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_18
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840ba9bbc20830d00800000000000000
+      internalID: 937734077037588552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f6f1f073294fc00800000000000000
+      internalID: 933531787947110243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d5258a8e38bff60800000000000000
+      internalID: 8069188192643996992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131d49aff309d1890800000000000000
+      internalID: -7485668401158500047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_22
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2e96f25f33f090800000000000000
+      internalID: -8001982487349809603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b1333ad10885950800000000000000
+      internalID: 6438036532106566443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_24
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f5d9b3223dab700800000000000000
+      internalID: 556989647916195734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE FRONT 01.00 [32x20]_25
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bab2928683f9fd0800000000000000
+      internalID: -2333084061936145640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IDLE FRONT 01.00 [32x20]_0: -252293016561010014
+      IDLE FRONT 01.00 [32x20]_1: -1494954089703641104
+      IDLE FRONT 01.00 [32x20]_10: 4751556776662617267
+      IDLE FRONT 01.00 [32x20]_11: 4080557671952632801
+      IDLE FRONT 01.00 [32x20]_12: -9137964599289870062
+      IDLE FRONT 01.00 [32x20]_13: -7011021442082334367
+      IDLE FRONT 01.00 [32x20]_14: 8524707364651682607
+      IDLE FRONT 01.00 [32x20]_15: 7346599760535122155
+      IDLE FRONT 01.00 [32x20]_16: 5373333943760690314
+      IDLE FRONT 01.00 [32x20]_17: 3243409705153563308
+      IDLE FRONT 01.00 [32x20]_18: 937734077037588552
+      IDLE FRONT 01.00 [32x20]_19: 933531787947110243
+      IDLE FRONT 01.00 [32x20]_2: -4937934418321744061
+      IDLE FRONT 01.00 [32x20]_20: 8069188192643996992
+      IDLE FRONT 01.00 [32x20]_21: -7485668401158500047
+      IDLE FRONT 01.00 [32x20]_22: -8001982487349809603
+      IDLE FRONT 01.00 [32x20]_23: 6438036532106566443
+      IDLE FRONT 01.00 [32x20]_24: 556989647916195734
+      IDLE FRONT 01.00 [32x20]_25: -2333084061936145640
+      IDLE FRONT 01.00 [32x20]_3: -1216516677400231681
+      IDLE FRONT 01.00 [32x20]_4: -2372181833471724987
+      IDLE FRONT 01.00 [32x20]_5: 3882322701723601047
+      IDLE FRONT 01.00 [32x20]_6: -6563653664119605828
+      IDLE FRONT 01.00 [32x20]_7: 2778639570532299163
+      IDLE FRONT 01.00 [32x20]_8: -7288568013853517877
+      IDLE FRONT 01.00 [32x20]_9: 2542172892947173030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

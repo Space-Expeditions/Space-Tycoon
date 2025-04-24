@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: df39e264fd2b45048bdaf058849b463c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -217128158133991836
+    second: Front wheel movement - 01_0
+  - first:
+      213: -8960898473502566368
+    second: Front wheel movement - 01_1
+  - first:
+      213: 8529187081408828942
+    second: Front wheel movement - 01_2
+  - first:
+      213: 6366111778868401893
+    second: Front wheel movement - 01_3
+  - first:
+      213: -606523751308377300
+    second: Front wheel movement - 01_4
+  - first:
+      213: 2791887388256167597
+    second: Front wheel movement - 01_5
+  - first:
+      213: -8506732291143902723
+    second: Front wheel movement - 01_6
+  - first:
+      213: 1947659411544036777
+    second: Front wheel movement - 01_7
+  - first:
+      213: -1802307612741038494
+    second: Front wheel movement - 01_8
+  - first:
+      213: 1604755563847700112
+    second: Front wheel movement - 01_9
+  - first:
+      213: -6071941287971957585
+    second: Front wheel movement - 01_10
+  - first:
+      213: 2089975962010380651
+    second: Front wheel movement - 01_11
+  - first:
+      213: 6072687070462725626
+    second: Front wheel movement - 01_12
+  - first:
+      213: -7513013653193520500
+    second: Front wheel movement - 01_13
+  - first:
+      213: 944043775594957075
+    second: Front wheel movement - 01_14
+  - first:
+      213: -4737350416889987912
+    second: Front wheel movement - 01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Front wheel movement - 01_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46640bf271b9cfcf0800000000000000
+      internalID: -217128158133991836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281a82b05e74a380800000000000000
+      internalID: -8960898473502566368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0659320672cd5670800000000000000
+      internalID: 8529187081408828942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e691eb0fe8f85850800000000000000
+      internalID: 6366111778868401893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c234d679cd13597f0800000000000000
+      internalID: -606523751308377300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e6ed99c6ceb620800000000000000
+      internalID: 2791887388256167597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9d5034d0402f980800000000000000
+      internalID: -8506732291143902723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a557886ae9770b10800000000000000
+      internalID: 1947659411544036777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e869676caecf6e0800000000000000
+      internalID: -1802307612741038494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e4976deac354610800000000000000
+      internalID: 1604755563847700112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa45761b1912cbba0800000000000000
+      internalID: -6071941287971957585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69ebb47016110d10800000000000000
+      internalID: 2089975962010380651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdc90357b4864450800000000000000
+      internalID: 6072687070462725626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8db853e96cb790800000000000000
+      internalID: -7513013653193520500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_14
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31981c8efcae91d00800000000000000
+      internalID: 944043775594957075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front wheel movement - 01_15
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc39b835ec814eb0800000000000000
+      internalID: -4737350416889987912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Front wheel movement - 01_0: -217128158133991836
+      Front wheel movement - 01_1: -8960898473502566368
+      Front wheel movement - 01_10: -6071941287971957585
+      Front wheel movement - 01_11: 2089975962010380651
+      Front wheel movement - 01_12: 6072687070462725626
+      Front wheel movement - 01_13: -7513013653193520500
+      Front wheel movement - 01_14: 944043775594957075
+      Front wheel movement - 01_15: -4737350416889987912
+      Front wheel movement - 01_2: 8529187081408828942
+      Front wheel movement - 01_3: 6366111778868401893
+      Front wheel movement - 01_4: -606523751308377300
+      Front wheel movement - 01_5: 2791887388256167597
+      Front wheel movement - 01_6: -8506732291143902723
+      Front wheel movement - 01_7: 1947659411544036777
+      Front wheel movement - 01_8: -1802307612741038494
+      Front wheel movement - 01_9: 1604755563847700112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

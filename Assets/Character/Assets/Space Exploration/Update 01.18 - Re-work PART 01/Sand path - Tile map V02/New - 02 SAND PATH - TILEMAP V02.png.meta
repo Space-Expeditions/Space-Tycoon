@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: de5a3edb5af3c8749b84a92e138c7d8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6042858635604860532
+    second: New - 02 SAND PATH - TILEMAP V02_0
+  - first:
+      213: -2675783982887363576
+    second: New - 02 SAND PATH - TILEMAP V02_1
+  - first:
+      213: 6019130614727526435
+    second: New - 02 SAND PATH - TILEMAP V02_2
+  - first:
+      213: 1492120924439231655
+    second: New - 02 SAND PATH - TILEMAP V02_3
+  - first:
+      213: 6052858640425232059
+    second: New - 02 SAND PATH - TILEMAP V02_4
+  - first:
+      213: -6110623408590510057
+    second: New - 02 SAND PATH - TILEMAP V02_5
+  - first:
+      213: 1611367160659822251
+    second: New - 02 SAND PATH - TILEMAP V02_6
+  - first:
+      213: 7661363482703004672
+    second: New - 02 SAND PATH - TILEMAP V02_7
+  - first:
+      213: 5903048125226158245
+    second: New - 02 SAND PATH - TILEMAP V02_8
+  - first:
+      213: -1320368541174514919
+    second: New - 02 SAND PATH - TILEMAP V02_9
+  - first:
+      213: 1386656720975259843
+    second: New - 02 SAND PATH - TILEMAP V02_10
+  - first:
+      213: 9053939801540650082
+    second: New - 02 SAND PATH - TILEMAP V02_11
+  - first:
+      213: -4827849653919334827
+    second: New - 02 SAND PATH - TILEMAP V02_12
+  - first:
+      213: -7884229882689221870
+    second: New - 02 SAND PATH - TILEMAP V02_13
+  - first:
+      213: 3573518380333089040
+    second: New - 02 SAND PATH - TILEMAP V02_14
+  - first:
+      213: 5242431885283822244
+    second: New - 02 SAND PATH - TILEMAP V02_15
+  - first:
+      213: -3112596618087068199
+    second: New - 02 SAND PATH - TILEMAP V02_16
+  - first:
+      213: -4942516161639670872
+    second: New - 02 SAND PATH - TILEMAP V02_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81eedc5614732ca0800000000000000
+      internalID: -6042858635604860532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c915cf4a4bddad0800000000000000
+      internalID: -2675783982887363576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3284383476f388350800000000000000
+      internalID: 6019130614727526435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acb02f331415b410800000000000000
+      internalID: 1492120924439231655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb623323dd2100450800000000000000
+      internalID: 6052858640425232059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718a6c6a264b23ba0800000000000000
+      internalID: -6110623408590510057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6cbdd25e9bc5610800000000000000
+      internalID: 1611367160659822251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00489a1fe71a25a60800000000000000
+      internalID: 7661363482703004672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a804248ef6dbe150800000000000000
+      internalID: 5903048125226158245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b31b2becb1dade0800000000000000
+      internalID: -1320368541174514919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8632fd0f46e3310800000000000000
+      internalID: 1386656720975259843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264e998974e06ad70800000000000000
+      internalID: 9053939801540650082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e352d9158000db0800000000000000
+      internalID: -4827849653919334827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b0ac2b1b6959290800000000000000
+      internalID: -7884229882689221870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011451a9800b79130800000000000000
+      internalID: 3573518380333089040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa0689260cd0c840800000000000000
+      internalID: 5242431885283822244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd86d9fdd5ddc4d0800000000000000
+      internalID: -3112596618087068199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New - 02 SAND PATH - TILEMAP V02_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab17d0dcb7a86bb0800000000000000
+      internalID: -4942516161639670872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      New - 02 SAND PATH - TILEMAP V02_0: -6042858635604860532
+      New - 02 SAND PATH - TILEMAP V02_1: -2675783982887363576
+      New - 02 SAND PATH - TILEMAP V02_10: 1386656720975259843
+      New - 02 SAND PATH - TILEMAP V02_11: 9053939801540650082
+      New - 02 SAND PATH - TILEMAP V02_12: -4827849653919334827
+      New - 02 SAND PATH - TILEMAP V02_13: -7884229882689221870
+      New - 02 SAND PATH - TILEMAP V02_14: 3573518380333089040
+      New - 02 SAND PATH - TILEMAP V02_15: 5242431885283822244
+      New - 02 SAND PATH - TILEMAP V02_16: -3112596618087068199
+      New - 02 SAND PATH - TILEMAP V02_17: -4942516161639670872
+      New - 02 SAND PATH - TILEMAP V02_2: 6019130614727526435
+      New - 02 SAND PATH - TILEMAP V02_3: 1492120924439231655
+      New - 02 SAND PATH - TILEMAP V02_4: 6052858640425232059
+      New - 02 SAND PATH - TILEMAP V02_5: -6110623408590510057
+      New - 02 SAND PATH - TILEMAP V02_6: 1611367160659822251
+      New - 02 SAND PATH - TILEMAP V02_7: 7661363482703004672
+      New - 02 SAND PATH - TILEMAP V02_8: 5903048125226158245
+      New - 02 SAND PATH - TILEMAP V02_9: -1320368541174514919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

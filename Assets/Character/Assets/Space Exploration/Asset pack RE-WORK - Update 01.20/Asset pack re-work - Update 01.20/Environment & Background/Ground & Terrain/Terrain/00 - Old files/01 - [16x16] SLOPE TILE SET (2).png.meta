@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 10953386819c08e4286088c924e5c238
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7531504079999877638
+    second: 01 - [16x16] SLOPE TILE SET (2)_0
+  - first:
+      213: 4465801055662028105
+    second: 01 - [16x16] SLOPE TILE SET (2)_1
+  - first:
+      213: 5488820180770961291
+    second: 01 - [16x16] SLOPE TILE SET (2)_2
+  - first:
+      213: 8193648010375543236
+    second: 01 - [16x16] SLOPE TILE SET (2)_3
+  - first:
+      213: -143396031751713064
+    second: 01 - [16x16] SLOPE TILE SET (2)_4
+  - first:
+      213: -2634971265713487451
+    second: 01 - [16x16] SLOPE TILE SET (2)_5
+  - first:
+      213: -5651571162562062886
+    second: 01 - [16x16] SLOPE TILE SET (2)_6
+  - first:
+      213: 4450513216687103801
+    second: 01 - [16x16] SLOPE TILE SET (2)_7
+  - first:
+      213: -706376310964828816
+    second: 01 - [16x16] SLOPE TILE SET (2)_8
+  - first:
+      213: 5088521662187192398
+    second: 01 - [16x16] SLOPE TILE SET (2)_9
+  - first:
+      213: 464121393242442277
+    second: 01 - [16x16] SLOPE TILE SET (2)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdb33f51f8ba7790800000000000000
+      internalID: -7531504079999877638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945bc483666b9fd30800000000000000
+      internalID: 4465801055662028105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8739d69fd43c2c40800000000000000
+      internalID: 5488820180770961291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 111
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c93501247fa5b170800000000000000
+      internalID: 8193648010375543236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de0d31a11e820ef0800000000000000
+      internalID: -143396031751713064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a149c13893be6bd0800000000000000
+      internalID: -2634971265713487451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad595a098f59191b0800000000000000
+      internalID: -5651571162562062886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_7
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 47
+        width: 9
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fd0d4d03663cd30800000000000000
+      internalID: 4450513216687103801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 47
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c03bdc727236f0800000000000000
+      internalID: -706376310964828816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404c8add7f0e9640800000000000000
+      internalID: 5088521662187192398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - [16x16] SLOPE TILE SET (2)_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 31
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a00e8b2f3e07600800000000000000
+      internalID: 464121393242442277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01 - [16x16] SLOPE TILE SET (2)_0: -7531504079999877638
+      01 - [16x16] SLOPE TILE SET (2)_1: 4465801055662028105
+      01 - [16x16] SLOPE TILE SET (2)_10: 464121393242442277
+      01 - [16x16] SLOPE TILE SET (2)_2: 5488820180770961291
+      01 - [16x16] SLOPE TILE SET (2)_3: 8193648010375543236
+      01 - [16x16] SLOPE TILE SET (2)_4: -143396031751713064
+      01 - [16x16] SLOPE TILE SET (2)_5: -2634971265713487451
+      01 - [16x16] SLOPE TILE SET (2)_6: -5651571162562062886
+      01 - [16x16] SLOPE TILE SET (2)_7: 4450513216687103801
+      01 - [16x16] SLOPE TILE SET (2)_8: -706376310964828816
+      01 - [16x16] SLOPE TILE SET (2)_9: 5088521662187192398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

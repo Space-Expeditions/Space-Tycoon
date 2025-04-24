@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 8f2f9b3c525174740b8eb5e7bc5c667c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8318057790904696829
+    second: Batteries Only 02.01 - sheet [16x48]_0
+  - first:
+      213: 6852388887780823431
+    second: Batteries Only 02.01 - sheet [16x48]_1
+  - first:
+      213: 7688545757803685010
+    second: Batteries Only 02.01 - sheet [16x48]_2
+  - first:
+      213: -8888917868236799222
+    second: Batteries Only 02.01 - sheet [16x48]_3
+  - first:
+      213: -1280720278404017461
+    second: Batteries Only 02.01 - sheet [16x48]_4
+  - first:
+      213: -5683907888763493773
+    second: Batteries Only 02.01 - sheet [16x48]_5
+  - first:
+      213: -6718258849314168484
+    second: Batteries Only 02.01 - sheet [16x48]_6
+  - first:
+      213: 6328159169656252433
+    second: Batteries Only 02.01 - sheet [16x48]_7
+  - first:
+      213: 8567595673254448583
+    second: Batteries Only 02.01 - sheet [16x48]_8
+  - first:
+      213: -6115546284653983468
+    second: Batteries Only 02.01 - sheet [16x48]_9
+  - first:
+      213: -5948718110270287722
+    second: Batteries Only 02.01 - sheet [16x48]_10
+  - first:
+      213: -1997589260358474536
+    second: Batteries Only 02.01 - sheet [16x48]_11
+  - first:
+      213: -7057249849937980073
+    second: Batteries Only 02.01 - sheet [16x48]_12
+  - first:
+      213: -5109423425342520765
+    second: Batteries Only 02.01 - sheet [16x48]_13
+  - first:
+      213: 8649909793195312845
+    second: Batteries Only 02.01 - sheet [16x48]_14
+  - first:
+      213: -2778800892996964887
+    second: Batteries Only 02.01 - sheet [16x48]_15
+  - first:
+      213: 6139077290724544856
+    second: Batteries Only 02.01 - sheet [16x48]_16
+  - first:
+      213: -2293647507937078681
+    second: Batteries Only 02.01 - sheet [16x48]_17
+  - first:
+      213: -4511956547455208992
+    second: Batteries Only 02.01 - sheet [16x48]_18
+  - first:
+      213: -8252424635711977482
+    second: Batteries Only 02.01 - sheet [16x48]_19
+  - first:
+      213: -2946601825909498021
+    second: Batteries Only 02.01 - sheet [16x48]_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 117
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30084f79282509c80800000000000000
+      internalID: -8318057790904696829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781920f4363981f50800000000000000
+      internalID: 6852388887780823431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 117
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294a93d81a333ba60800000000000000
+      internalID: 7688545757803685010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 117
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a038f1a5b4834a480800000000000000
+      internalID: -8888917868236799222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 117
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d61d31b7f93ee0800000000000000
+      internalID: -1280720278404017461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 117
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372263ac3e3be11b0800000000000000
+      internalID: -5683907888763493773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 117
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c512181eb23f3c2a0800000000000000
+      internalID: -6718258849314168484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 69
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118ed7d9c3322d750800000000000000
+      internalID: 6328159169656252433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 69
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd418b2fd636e670800000000000000
+      internalID: 8567595673254448583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4194dbf3e07312ba0800000000000000
+      internalID: -6115546284653983468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 69
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69018687568e17da0800000000000000
+      internalID: -5948718110270287722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 69
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4a231c6232744e0800000000000000
+      internalID: -1997589260358474536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 69
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755944307ac9f0e90800000000000000
+      internalID: -7057249849937980073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 69
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342466d277ea719b0800000000000000
+      internalID: -5109423425342520765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc64492b027aa0870800000000000000
+      internalID: 8649909793195312845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 21
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eda06f7f47bf69d0800000000000000
+      internalID: -2778800892996964887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 21
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851dd4a0542623550800000000000000
+      internalID: 6139077290724544856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 21
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76253796eb35b20e0800000000000000
+      internalID: -2293647507937078681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 21
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e13feaec6f4261c0800000000000000
+      internalID: -4511956547455208992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 21
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f784bc548f797d80800000000000000
+      internalID: -8252424635711977482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Batteries Only 02.01 - sheet [16x48]_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 21
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f952840419b17d0800000000000000
+      internalID: -2946601825909498021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Batteries Only 02.01 - sheet [16x48]_0: -8318057790904696829
+      Batteries Only 02.01 - sheet [16x48]_1: 6852388887780823431
+      Batteries Only 02.01 - sheet [16x48]_10: -5948718110270287722
+      Batteries Only 02.01 - sheet [16x48]_11: -1997589260358474536
+      Batteries Only 02.01 - sheet [16x48]_12: -7057249849937980073
+      Batteries Only 02.01 - sheet [16x48]_13: -5109423425342520765
+      Batteries Only 02.01 - sheet [16x48]_14: 8649909793195312845
+      Batteries Only 02.01 - sheet [16x48]_15: -2778800892996964887
+      Batteries Only 02.01 - sheet [16x48]_16: 6139077290724544856
+      Batteries Only 02.01 - sheet [16x48]_17: -2293647507937078681
+      Batteries Only 02.01 - sheet [16x48]_18: -4511956547455208992
+      Batteries Only 02.01 - sheet [16x48]_19: -8252424635711977482
+      Batteries Only 02.01 - sheet [16x48]_2: 7688545757803685010
+      Batteries Only 02.01 - sheet [16x48]_20: -2946601825909498021
+      Batteries Only 02.01 - sheet [16x48]_3: -8888917868236799222
+      Batteries Only 02.01 - sheet [16x48]_4: -1280720278404017461
+      Batteries Only 02.01 - sheet [16x48]_5: -5683907888763493773
+      Batteries Only 02.01 - sheet [16x48]_6: -6718258849314168484
+      Batteries Only 02.01 - sheet [16x48]_7: 6328159169656252433
+      Batteries Only 02.01 - sheet [16x48]_8: 8567595673254448583
+      Batteries Only 02.01 - sheet [16x48]_9: -6115546284653983468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

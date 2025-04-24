@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 980c1cc6619358a43917f88dde34731f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2365280475069430263
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_0
+  - first:
+      213: -6111304806302394536
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_1
+  - first:
+      213: 2933390112700252946
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_2
+  - first:
+      213: -5494138951877160272
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_3
+  - first:
+      213: -1981786355433753446
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_4
+  - first:
+      213: -2453340261025560519
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_5
+  - first:
+      213: 6347397428185306604
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_6
+  - first:
+      213: 1378634108456967174
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_7
+  - first:
+      213: 2305830411924974292
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_8
+  - first:
+      213: -2530469574886868427
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_9
+  - first:
+      213: -974358472125655473
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_10
+  - first:
+      213: 5595058394340108513
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_11
+  - first:
+      213: -641356259824086068
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_12
+  - first:
+      213: 3295715662542606714
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_13
+  - first:
+      213: -667927596921029149
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_14
+  - first:
+      213: -5617474939291778599
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_15
+  - first:
+      213: -3731526492513745317
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_16
+  - first:
+      213: 7955030341340228722
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_17
+  - first:
+      213: -8407758525309350143
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_18
+  - first:
+      213: -6728014256951433683
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_19
+  - first:
+      213: 4534089609264122750
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_20
+  - first:
+      213: 7867843035039700771
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_21
+  - first:
+      213: 5546670725398609553
+    second: MUD SLOPE TILE SET 01.01 - [16x16]_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f93eae6f0a23d020800000000000000
+      internalID: 2365280475069430263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857553268a8403ba0800000000000000
+      internalID: -6111304806302394536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 175
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213442704ce75b820800000000000000
+      internalID: 2933390112700252946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 175
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b299b28bb5e0c3b0800000000000000
+      internalID: -5494138951877160272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94b7a74fc74f74e0800000000000000
+      internalID: -1981786355433753446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938486ce70cf3fdd0800000000000000
+      internalID: -2453340261025560519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5963bb45c761850800000000000000
+      internalID: 6347397428185306604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c90d5da64e12310800000000000000
+      internalID: 1378634108456967174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa417fa84ffff10800000000000000
+      internalID: 2305830411924974292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 127
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a3fe12457f1ecd0800000000000000
+      internalID: -2530469574886868427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 127
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46de09c1226a72f0800000000000000
+      internalID: -974358472125655473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8a53c37f3a5ad40800000000000000
+      internalID: 5595058394340108513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc356b631e17917f0800000000000000
+      internalID: -641356259824086068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a711b820febbcbd20800000000000000
+      internalID: 3295715662542606714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed77d1b36b0bb6f0800000000000000
+      internalID: -667927596921029149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_15
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 79
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1cadc2e48ba02b0800000000000000
+      internalID: -5617474939291778599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5642cfec64f63cc0800000000000000
+      internalID: -3731526492513745317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ce909a2f1f56e60800000000000000
+      internalID: 7955030341340228722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8cadda24a15b80800000000000000
+      internalID: -8407758525309350143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2665aa0eaa41a2a0800000000000000
+      internalID: -6728014256951433683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_20
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4afb1a725cee30800000000000000
+      internalID: 4534089609264122750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 15
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32792140e81303d60800000000000000
+      internalID: 7867843035039700771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD SLOPE TILE SET 01.01 - [16x16]_22
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e317123abb9fc40800000000000000
+      internalID: 5546670725398609553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MUD SLOPE TILE SET 01.01 - [16x16]_0: 2365280475069430263
+      MUD SLOPE TILE SET 01.01 - [16x16]_1: -6111304806302394536
+      MUD SLOPE TILE SET 01.01 - [16x16]_10: -974358472125655473
+      MUD SLOPE TILE SET 01.01 - [16x16]_11: 5595058394340108513
+      MUD SLOPE TILE SET 01.01 - [16x16]_12: -641356259824086068
+      MUD SLOPE TILE SET 01.01 - [16x16]_13: 3295715662542606714
+      MUD SLOPE TILE SET 01.01 - [16x16]_14: -667927596921029149
+      MUD SLOPE TILE SET 01.01 - [16x16]_15: -5617474939291778599
+      MUD SLOPE TILE SET 01.01 - [16x16]_16: -3731526492513745317
+      MUD SLOPE TILE SET 01.01 - [16x16]_17: 7955030341340228722
+      MUD SLOPE TILE SET 01.01 - [16x16]_18: -8407758525309350143
+      MUD SLOPE TILE SET 01.01 - [16x16]_19: -6728014256951433683
+      MUD SLOPE TILE SET 01.01 - [16x16]_2: 2933390112700252946
+      MUD SLOPE TILE SET 01.01 - [16x16]_20: 4534089609264122750
+      MUD SLOPE TILE SET 01.01 - [16x16]_21: 7867843035039700771
+      MUD SLOPE TILE SET 01.01 - [16x16]_22: 5546670725398609553
+      MUD SLOPE TILE SET 01.01 - [16x16]_3: -5494138951877160272
+      MUD SLOPE TILE SET 01.01 - [16x16]_4: -1981786355433753446
+      MUD SLOPE TILE SET 01.01 - [16x16]_5: -2453340261025560519
+      MUD SLOPE TILE SET 01.01 - [16x16]_6: 6347397428185306604
+      MUD SLOPE TILE SET 01.01 - [16x16]_7: 1378634108456967174
+      MUD SLOPE TILE SET 01.01 - [16x16]_8: 2305830411924974292
+      MUD SLOPE TILE SET 01.01 - [16x16]_9: -2530469574886868427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

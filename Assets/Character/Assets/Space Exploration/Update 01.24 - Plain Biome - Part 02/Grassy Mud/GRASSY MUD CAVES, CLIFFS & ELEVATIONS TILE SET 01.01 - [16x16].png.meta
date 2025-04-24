@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 314394d9286b43342be08aa6013d3d2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4591719025119721902
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_0
+  - first:
+      213: 7677379749342744670
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_1
+  - first:
+      213: 8966936162023650598
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_2
+  - first:
+      213: -6411941683009089842
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_3
+  - first:
+      213: 3622429632884057203
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_4
+  - first:
+      213: 8501789236332221474
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_5
+  - first:
+      213: -3724911914878791729
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_6
+  - first:
+      213: 6450174993165198638
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_7
+  - first:
+      213: -1072207996624214583
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_8
+  - first:
+      213: -2254583572098741435
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_9
+  - first:
+      213: -711763891808680061
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_10
+  - first:
+      213: 4877624462345333561
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_11
+  - first:
+      213: -8554323757198993426
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_12
+  - first:
+      213: 4348825494790777073
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_13
+  - first:
+      213: -4751980465936983235
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_14
+  - first:
+      213: 3814453798890222026
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_15
+  - first:
+      213: 4172729571851733734
+    second: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2560657efdfe640c0800000000000000
+      internalID: -4591719025119721902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 191
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e501a5d94388b8a60800000000000000
+      internalID: 7677379749342744670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 175
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62536053ee4f07c70800000000000000
+      internalID: 8966936162023650598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece09bfd2053407a0800000000000000
+      internalID: -6411941683009089842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 175
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37427e30f84754230800000000000000
+      internalID: 3622429632884057203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22452da144c6cf570800000000000000
+      internalID: 8501789236332221474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf870e49547e4cc0800000000000000
+      internalID: -3724911914878791729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2528b65bff938950800000000000000
+      internalID: 6450174993165198638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c561e30280ce11f0800000000000000
+      internalID: -1072207996624214583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b8f9cbf2c16b0e0800000000000000
+      internalID: -2254583572098741435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 95
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3874bc0f28e4f16f0800000000000000
+      internalID: -711763891808680061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b69d11b9dc0b340800000000000000
+      internalID: 4877624462345333561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee718769ddfe84980800000000000000
+      internalID: -8554323757198993426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 79
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8aa271fb12a5c30800000000000000
+      internalID: 4348825494790777073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b1b3c71f29d0eb0800000000000000
+      internalID: -4751980465936983235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1bdfe2589afe430800000000000000
+      internalID: 3814453798890222026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea8df1007388e930800000000000000
+      internalID: 4172729571851733734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_0: -4591719025119721902
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_1: 7677379749342744670
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_10: -711763891808680061
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_11: 4877624462345333561
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_12: -8554323757198993426
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_13: 4348825494790777073
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_14: -4751980465936983235
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_15: 3814453798890222026
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_16: 4172729571851733734
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_2: 8966936162023650598
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_3: -6411941683009089842
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_4: 3622429632884057203
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_5: 8501789236332221474
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_6: -3724911914878791729
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_7: 6450174993165198638
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_8: -1072207996624214583
+      GRASSY MUD CAVES, CLIFFS & ELEVATIONS TILE SET 01.01 - [16x16]_9: -2254583572098741435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 8e299f9e08999244190e24d22f1d0fba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1527650648106315823
+    second: Outside - Close animation - sprite sheet_0
+  - first:
+      213: 1532832667429416718
+    second: Outside - Close animation - sprite sheet_1
+  - first:
+      213: -1291534832775947962
+    second: Outside - Close animation - sprite sheet_2
+  - first:
+      213: -6280760336396239196
+    second: Outside - Close animation - sprite sheet_3
+  - first:
+      213: -512665549857957086
+    second: Outside - Close animation - sprite sheet_4
+  - first:
+      213: -8514942112089552929
+    second: Outside - Close animation - sprite sheet_5
+  - first:
+      213: -8626236176438511609
+    second: Outside - Close animation - sprite sheet_6
+  - first:
+      213: 1533418787420590067
+    second: Outside - Close animation - sprite sheet_7
+  - first:
+      213: 223960891498014364
+    second: Outside - Close animation - sprite sheet_8
+  - first:
+      213: -4621989890364944512
+    second: Outside - Close animation - sprite sheet_9
+  - first:
+      213: 8862691217008815198
+    second: Outside - Close animation - sprite sheet_10
+  - first:
+      213: -1287067843484831171
+    second: Outside - Close animation - sprite sheet_11
+  - first:
+      213: 7203257199166166863
+    second: Outside - Close animation - sprite sheet_12
+  - first:
+      213: -4241830785810764400
+    second: Outside - Close animation - sprite sheet_13
+  - first:
+      213: 5108883957319908911
+    second: Outside - Close animation - sprite sheet_14
+  - first:
+      213: 2739119292236596717
+    second: Outside - Close animation - sprite sheet_15
+  - first:
+      213: 1412179381250898950
+    second: Outside - Close animation - sprite sheet_16
+  - first:
+      213: 3029732610081195793
+    second: Outside - Close animation - sprite sheet_17
+  - first:
+      213: 4475307056575477666
+    second: Outside - Close animation - sprite sheet_18
+  - first:
+      213: -438015805609677536
+    second: Outside - Close animation - sprite sheet_19
+  - first:
+      213: -352584088367929430
+    second: Outside - Close animation - sprite sheet_20
+  - first:
+      213: 5516510722465517893
+    second: Outside - Close animation - sprite sheet_21
+  - first:
+      213: -1906055957329397696
+    second: Outside - Close animation - sprite sheet_22
+  - first:
+      213: 9017825523023507328
+    second: Outside - Close animation - sprite sheet_23
+  - first:
+      213: 227471218029113250
+    second: Outside - Close animation - sprite sheet_24
+  - first:
+      213: 3427697376471231
+    second: Outside - Close animation - sprite sheet_25
+  - first:
+      213: -6656481227423751594
+    second: Outside - Close animation - sprite sheet_26
+  - first:
+      213: 3852277821925743269
+    second: Outside - Close animation - sprite sheet_27
+  - first:
+      213: 8591385424988030783
+    second: Outside - Close animation - sprite sheet_28
+  - first:
+      213: 6420042060004020372
+    second: Outside - Close animation - sprite sheet_29
+  - first:
+      213: 8736337069731782744
+    second: Outside - Close animation - sprite sheet_30
+  - first:
+      213: -3729918906716343809
+    second: Outside - Close animation - sprite sheet_31
+  - first:
+      213: 8075902534052859794
+    second: Outside - Close animation - sprite sheet_32
+  - first:
+      213: -3645857506073770440
+    second: Outside - Close animation - sprite sheet_33
+  - first:
+      213: 3041140486228130775
+    second: Outside - Close animation - sprite sheet_34
+  - first:
+      213: 9128220920164485704
+    second: Outside - Close animation - sprite sheet_35
+  - first:
+      213: -2960948955097997429
+    second: Outside - Close animation - sprite sheet_36
+  - first:
+      213: -5942836934517587473
+    second: Outside - Close animation - sprite sheet_37
+  - first:
+      213: -8058467771125034006
+    second: Outside - Close animation - sprite sheet_38
+  - first:
+      213: 689130004385982694
+    second: Outside - Close animation - sprite sheet_39
+  - first:
+      213: -6890889758900667135
+    second: Outside - Close animation - sprite sheet_40
+  - first:
+      213: -2187392597656638848
+    second: Outside - Close animation - sprite sheet_41
+  - first:
+      213: -6236695062794557027
+    second: Outside - Close animation - sprite sheet_42
+  - first:
+      213: 106652597571338605
+    second: Outside - Close animation - sprite sheet_43
+  - first:
+      213: 4912569664878323505
+    second: Outside - Close animation - sprite sheet_44
+  - first:
+      213: 1012116612443345311
+    second: Outside - Close animation - sprite sheet_45
+  - first:
+      213: -4686407400412806142
+    second: Outside - Close animation - sprite sheet_46
+  - first:
+      213: -7713925915150707168
+    second: Outside - Close animation - sprite sheet_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df4ab254d1bccae0800000000000000
+      internalID: -1527650648106315823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fae329037b54510800000000000000
+      internalID: 1532832667429416718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649985599eb831ee0800000000000000
+      internalID: -1291534832775947962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae3dbd30c146d8a0800000000000000
+      internalID: -6280760336396239196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd22c0665a2e8f0800000000000000
+      internalID: -512665549857957086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd743ed5349d4d980800000000000000
+      internalID: -8514942112089552929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70832cab6e3794880800000000000000
+      internalID: -8626236176438511609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff4d14434cc74510800000000000000
+      internalID: 1533418787420590067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96a1558e3bab1300800000000000000
+      internalID: 223960891498014364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fc95ddea46bdfb0800000000000000
+      internalID: -4621989890364944512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ce8cf84ba9efa70800000000000000
+      internalID: 8862691217008815198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3232439d9a632ee0800000000000000
+      internalID: -1287067843484831171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f471316124c17f360800000000000000
+      internalID: 7203257199166166863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dee6edf5df125c0800000000000000
+      internalID: -4241830785810764400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 90
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ebeb224e666e640800000000000000
+      internalID: 5108883957319908911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 106
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de58e2bdb7e430620800000000000000
+      internalID: 2739119292236596717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 88
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c379a4aa1199310800000000000000
+      internalID: 1412179381250898950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1178e44b1c5cb0a20800000000000000
+      internalID: 3029732610081195793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 88
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7faf78e0c7b1e30800000000000000
+      internalID: 4475307056575477666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02de0ac02fadbe9f0800000000000000
+      internalID: -438015805609677536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 88
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ef53c3ae5b1bf0800000000000000
+      internalID: -352584088367929430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541d03c36459e8c40800000000000000
+      internalID: 5516510722465517893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 88
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483d5d94345c85e0800000000000000
+      internalID: -1906055957329397696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 88
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6442e880c52d70800000000000000
+      internalID: 9017825523023507328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af204b1ed3282300800000000000000
+      internalID: 227471218029113250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8a58cf87d2c0000800000000000000
+      internalID: 3427697376471231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652e959579d6f93a0800000000000000
+      internalID: -6656481227423751594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aadfffc44a067530800000000000000
+      internalID: 3852277821925743269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3741e0668bba3770800000000000000
+      internalID: 8591385424988030783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4905b9d1d32981950800000000000000
+      internalID: 6420042060004020372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850a07f1744bd3970800000000000000
+      internalID: 8736337069731782744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1b82c248aac3cc0800000000000000
+      internalID: -3729918906716343809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fc5e6119e531070800000000000000
+      internalID: 8075902534052859794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83608c03aef476dc0800000000000000
+      internalID: -3645857506073770440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbbfa9d82d443a20800000000000000
+      internalID: 3041140486228130775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a81b14094fdae70800000000000000
+      internalID: 9128220920164485704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fd155fc9898e6d0800000000000000
+      internalID: -2960948955097997429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe102086b4dc68da0800000000000000
+      internalID: -5942836934517587473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 25
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3982cf1429a2090800000000000000
+      internalID: -8058467771125034006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 41
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e86d7b7618409900800000000000000
+      internalID: 689130004385982694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 23
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d39561644ae50a0800000000000000
+      internalID: -6890889758900667135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a6b509502d4a1e0800000000000000
+      internalID: -2187392597656638848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 23
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99a2b142eec279a0800000000000000
+      internalID: -6236695062794557027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 23
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61cc90f8f7ea7100800000000000000
+      internalID: 106652597571338605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 23
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137ae611514fc2440800000000000000
+      internalID: 4912569664878323505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 23
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9115f352b2cb0e00800000000000000
+      internalID: 1012116612443345311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 23
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20402a98c4986feb0800000000000000
+      internalID: -4686407400412806142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Outside - Close animation - sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 23
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02613c31041a2f490800000000000000
+      internalID: -7713925915150707168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Outside - Close animation - sprite sheet_0: -1527650648106315823
+      Outside - Close animation - sprite sheet_1: 1532832667429416718
+      Outside - Close animation - sprite sheet_10: 8862691217008815198
+      Outside - Close animation - sprite sheet_11: -1287067843484831171
+      Outside - Close animation - sprite sheet_12: 7203257199166166863
+      Outside - Close animation - sprite sheet_13: -4241830785810764400
+      Outside - Close animation - sprite sheet_14: 5108883957319908911
+      Outside - Close animation - sprite sheet_15: 2739119292236596717
+      Outside - Close animation - sprite sheet_16: 1412179381250898950
+      Outside - Close animation - sprite sheet_17: 3029732610081195793
+      Outside - Close animation - sprite sheet_18: 4475307056575477666
+      Outside - Close animation - sprite sheet_19: -438015805609677536
+      Outside - Close animation - sprite sheet_2: -1291534832775947962
+      Outside - Close animation - sprite sheet_20: -352584088367929430
+      Outside - Close animation - sprite sheet_21: 5516510722465517893
+      Outside - Close animation - sprite sheet_22: -1906055957329397696
+      Outside - Close animation - sprite sheet_23: 9017825523023507328
+      Outside - Close animation - sprite sheet_24: 227471218029113250
+      Outside - Close animation - sprite sheet_25: 3427697376471231
+      Outside - Close animation - sprite sheet_26: -6656481227423751594
+      Outside - Close animation - sprite sheet_27: 3852277821925743269
+      Outside - Close animation - sprite sheet_28: 8591385424988030783
+      Outside - Close animation - sprite sheet_29: 6420042060004020372
+      Outside - Close animation - sprite sheet_3: -6280760336396239196
+      Outside - Close animation - sprite sheet_30: 8736337069731782744
+      Outside - Close animation - sprite sheet_31: -3729918906716343809
+      Outside - Close animation - sprite sheet_32: 8075902534052859794
+      Outside - Close animation - sprite sheet_33: -3645857506073770440
+      Outside - Close animation - sprite sheet_34: 3041140486228130775
+      Outside - Close animation - sprite sheet_35: 9128220920164485704
+      Outside - Close animation - sprite sheet_36: -2960948955097997429
+      Outside - Close animation - sprite sheet_37: -5942836934517587473
+      Outside - Close animation - sprite sheet_38: -8058467771125034006
+      Outside - Close animation - sprite sheet_39: 689130004385982694
+      Outside - Close animation - sprite sheet_4: -512665549857957086
+      Outside - Close animation - sprite sheet_40: -6890889758900667135
+      Outside - Close animation - sprite sheet_41: -2187392597656638848
+      Outside - Close animation - sprite sheet_42: -6236695062794557027
+      Outside - Close animation - sprite sheet_43: 106652597571338605
+      Outside - Close animation - sprite sheet_44: 4912569664878323505
+      Outside - Close animation - sprite sheet_45: 1012116612443345311
+      Outside - Close animation - sprite sheet_46: -4686407400412806142
+      Outside - Close animation - sprite sheet_47: -7713925915150707168
+      Outside - Close animation - sprite sheet_5: -8514942112089552929
+      Outside - Close animation - sprite sheet_6: -8626236176438511609
+      Outside - Close animation - sprite sheet_7: 1533418787420590067
+      Outside - Close animation - sprite sheet_8: 223960891498014364
+      Outside - Close animation - sprite sheet_9: -4621989890364944512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

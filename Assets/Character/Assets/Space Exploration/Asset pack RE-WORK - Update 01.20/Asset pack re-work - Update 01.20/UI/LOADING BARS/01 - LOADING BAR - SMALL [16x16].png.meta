@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 96e59efbf4388194fb9d84601f3a156d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9199755782056859613
+    second: 01 - LOADING BAR - SMALL [16x16]_0
+  - first:
+      213: 1287470758371780009
+    second: 01 - LOADING BAR - SMALL [16x16]_1
+  - first:
+      213: -5991188979655948737
+    second: 01 - LOADING BAR - SMALL [16x16]_2
+  - first:
+      213: -8961780545082139956
+    second: 01 - LOADING BAR - SMALL [16x16]_3
+  - first:
+      213: 2947469893360251440
+    second: 01 - LOADING BAR - SMALL [16x16]_4
+  - first:
+      213: -3139125212849432514
+    second: 01 - LOADING BAR - SMALL [16x16]_5
+  - first:
+      213: -4363582282396788572
+    second: 01 - LOADING BAR - SMALL [16x16]_6
+  - first:
+      213: 3417102438523798920
+    second: 01 - LOADING BAR - SMALL [16x16]_7
+  - first:
+      213: -403565896963468519
+    second: 01 - LOADING BAR - SMALL [16x16]_8
+  - first:
+      213: -523769557984921563
+    second: 01 - LOADING BAR - SMALL [16x16]_9
+  - first:
+      213: -1627963984194489722
+    second: 01 - LOADING BAR - SMALL [16x16]_10
+  - first:
+      213: -8748967828612994869
+    second: 01 - LOADING BAR - SMALL [16x16]_11
+  - first:
+      213: 3305882502538056500
+    second: 01 - LOADING BAR - SMALL [16x16]_12
+  - first:
+      213: 929261553707225024
+    second: 01 - LOADING BAR - SMALL [16x16]_13
+  - first:
+      213: -8559480033921413786
+    second: 01 - LOADING BAR - SMALL [16x16]_14
+  - first:
+      213: 7689921556565478244
+    second: 01 - LOADING BAR - SMALL [16x16]_15
+  - first:
+      213: -2717191494660510996
+    second: 01 - LOADING BAR - SMALL [16x16]_16
+  - first:
+      213: -6995370598579981356
+    second: 01 - LOADING BAR - SMALL [16x16]_17
+  - first:
+      213: -5269686855152257959
+    second: 01 - LOADING BAR - SMALL [16x16]_18
+  - first:
+      213: -2186029955134318564
+    second: 01 - LOADING BAR - SMALL [16x16]_19
+  - first:
+      213: -603195517389679227
+    second: 01 - LOADING BAR - SMALL [16x16]_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328a72ecbd6e35080800000000000000
+      internalID: -9199755782056859613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 148
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5e37b55d30ed110800000000000000
+      internalID: 1287470758371780009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 148
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f364f5d9d550bdca0800000000000000
+      internalID: -5991188979655948737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 132
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca5f57631c51a380800000000000000
+      internalID: -8961780545082139956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 132
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03275eb604487e820800000000000000
+      internalID: 2947469893360251440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 132
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3813ae20469f64d0800000000000000
+      internalID: -3139125212849432514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 116
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a81d8d88017173c0800000000000000
+      internalID: -4363582282396788572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 116
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8850551309cfb6f20800000000000000
+      internalID: 3417102438523798920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 116
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d70474fe366af0800000000000000
+      internalID: -403565896963468519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 100
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283520bc523bb8f0800000000000000
+      internalID: -523769557984921563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 100
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68235f6b16f4869e0800000000000000
+      internalID: -1627963984194489722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 100
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a3382d1c659680800000000000000
+      internalID: -8748967828612994869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433d5f8ee9ad0ed20800000000000000
+      internalID: 3305882502538056500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 84
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf852ca57665ec00800000000000000
+      internalID: 929261553707225024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_14
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 84
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dc01c524e963980800000000000000
+      internalID: -8559480033921413786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 68
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b44b9a9e618ba60800000000000000
+      internalID: 7689921556565478244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 68
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2c0e5bb89a4ad0800000000000000
+      internalID: -2717191494660510996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 68
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3bd6fe0837bee90800000000000000
+      internalID: -6995370598579981356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954ba19a9bf4ed6b0800000000000000
+      internalID: -5269686855152257959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 36
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c181bdf7659a9a1e0800000000000000
+      internalID: -2186029955134318564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - SMALL [16x16]_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58551ef6fd401a7f0800000000000000
+      internalID: -603195517389679227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01 - LOADING BAR - SMALL [16x16]_0: -9199755782056859613
+      01 - LOADING BAR - SMALL [16x16]_1: 1287470758371780009
+      01 - LOADING BAR - SMALL [16x16]_10: -1627963984194489722
+      01 - LOADING BAR - SMALL [16x16]_11: -8748967828612994869
+      01 - LOADING BAR - SMALL [16x16]_12: 3305882502538056500
+      01 - LOADING BAR - SMALL [16x16]_13: 929261553707225024
+      01 - LOADING BAR - SMALL [16x16]_14: -8559480033921413786
+      01 - LOADING BAR - SMALL [16x16]_15: 7689921556565478244
+      01 - LOADING BAR - SMALL [16x16]_16: -2717191494660510996
+      01 - LOADING BAR - SMALL [16x16]_17: -6995370598579981356
+      01 - LOADING BAR - SMALL [16x16]_18: -5269686855152257959
+      01 - LOADING BAR - SMALL [16x16]_19: -2186029955134318564
+      01 - LOADING BAR - SMALL [16x16]_2: -5991188979655948737
+      01 - LOADING BAR - SMALL [16x16]_20: -603195517389679227
+      01 - LOADING BAR - SMALL [16x16]_3: -8961780545082139956
+      01 - LOADING BAR - SMALL [16x16]_4: 2947469893360251440
+      01 - LOADING BAR - SMALL [16x16]_5: -3139125212849432514
+      01 - LOADING BAR - SMALL [16x16]_6: -4363582282396788572
+      01 - LOADING BAR - SMALL [16x16]_7: 3417102438523798920
+      01 - LOADING BAR - SMALL [16x16]_8: -403565896963468519
+      01 - LOADING BAR - SMALL [16x16]_9: -523769557984921563
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
