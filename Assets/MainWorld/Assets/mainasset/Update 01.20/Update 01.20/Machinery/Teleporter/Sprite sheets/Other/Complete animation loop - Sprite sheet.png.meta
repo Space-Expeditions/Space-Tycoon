@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: c2d2cd69fe354a247bf122809aff72a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2661229326108909950
+    second: Complete animation loop - Sprite sheet_0
+  - first:
+      213: 2464939050800141174
+    second: Complete animation loop - Sprite sheet_1
+  - first:
+      213: 8565406085663963303
+    second: Complete animation loop - Sprite sheet_2
+  - first:
+      213: -4604991893225710864
+    second: Complete animation loop - Sprite sheet_3
+  - first:
+      213: 8878194430613052736
+    second: Complete animation loop - Sprite sheet_4
+  - first:
+      213: 4664753530833528725
+    second: Complete animation loop - Sprite sheet_5
+  - first:
+      213: -7420516339225591947
+    second: Complete animation loop - Sprite sheet_6
+  - first:
+      213: -978664695821555620
+    second: Complete animation loop - Sprite sheet_7
+  - first:
+      213: -2614138016190263433
+    second: Complete animation loop - Sprite sheet_8
+  - first:
+      213: 137657433000182284
+    second: Complete animation loop - Sprite sheet_9
+  - first:
+      213: -7197107897306748171
+    second: Complete animation loop - Sprite sheet_10
+  - first:
+      213: -2463846717635510305
+    second: Complete animation loop - Sprite sheet_11
+  - first:
+      213: 3662988183975722665
+    second: Complete animation loop - Sprite sheet_12
+  - first:
+      213: -7579381862122597229
+    second: Complete animation loop - Sprite sheet_13
+  - first:
+      213: 6846735768379347737
+    second: Complete animation loop - Sprite sheet_14
+  - first:
+      213: 5498508848012127792
+    second: Complete animation loop - Sprite sheet_15
+  - first:
+      213: -7648639794540773098
+    second: Complete animation loop - Sprite sheet_16
+  - first:
+      213: -2172832783278791903
+    second: Complete animation loop - Sprite sheet_17
+  - first:
+      213: -3320524929686170876
+    second: Complete animation loop - Sprite sheet_18
+  - first:
+      213: -2444620342829228797
+    second: Complete animation loop - Sprite sheet_19
+  - first:
+      213: -1892350011830796812
+    second: Complete animation loop - Sprite sheet_20
+  - first:
+      213: 4306352356881588050
+    second: Complete animation loop - Sprite sheet_21
+  - first:
+      213: -5401675612122699799
+    second: Complete animation loop - Sprite sheet_22
+  - first:
+      213: 7319203671178189112
+    second: Complete animation loop - Sprite sheet_23
+  - first:
+      213: -7410771071762551834
+    second: Complete animation loop - Sprite sheet_24
+  - first:
+      213: 3801858255967674108
+    second: Complete animation loop - Sprite sheet_25
+  - first:
+      213: 3723983887814229041
+    second: Complete animation loop - Sprite sheet_26
+  - first:
+      213: -3229030015169935184
+    second: Complete animation loop - Sprite sheet_27
+  - first:
+      213: 5087412718101991270
+    second: Complete animation loop - Sprite sheet_28
+  - first:
+      213: 6897276566886619602
+    second: Complete animation loop - Sprite sheet_29
+  - first:
+      213: -4537595673751243077
+    second: Complete animation loop - Sprite sheet_30
+  - first:
+      213: -3999209315574962812
+    second: Complete animation loop - Sprite sheet_31
+  - first:
+      213: -6661558908635428521
+    second: Complete animation loop - Sprite sheet_32
+  - first:
+      213: 5626369293050154751
+    second: Complete animation loop - Sprite sheet_33
+  - first:
+      213: -9151307238188833446
+    second: Complete animation loop - Sprite sheet_34
+  - first:
+      213: -3761626909014153564
+    second: Complete animation loop - Sprite sheet_35
+  - first:
+      213: 3372040642854002752
+    second: Complete animation loop - Sprite sheet_36
+  - first:
+      213: 7248591973781163544
+    second: Complete animation loop - Sprite sheet_37
+  - first:
+      213: 229199882253596145
+    second: Complete animation loop - Sprite sheet_38
+  - first:
+      213: 3433694654841579611
+    second: Complete animation loop - Sprite sheet_39
+  - first:
+      213: -6067177756939716950
+    second: Complete animation loop - Sprite sheet_40
+  - first:
+      213: -7362862163774871701
+    second: Complete animation loop - Sprite sheet_41
+  - first:
+      213: 8249663647632974291
+    second: Complete animation loop - Sprite sheet_42
+  - first:
+      213: -7479886640895460792
+    second: Complete animation loop - Sprite sheet_43
+  - first:
+      213: 8637904450600486849
+    second: Complete animation loop - Sprite sheet_44
+  - first:
+      213: -5388889714244066816
+    second: Complete animation loop - Sprite sheet_45
+  - first:
+      213: -5131770598999445501
+    second: Complete animation loop - Sprite sheet_46
+  - first:
+      213: -882014891565739052
+    second: Complete animation loop - Sprite sheet_47
+  - first:
+      213: 4389474982521224501
+    second: Complete animation loop - Sprite sheet_48
+  - first:
+      213: 4336768626744558988
+    second: Complete animation loop - Sprite sheet_49
+  - first:
+      213: 3529356108515784760
+    second: Complete animation loop - Sprite sheet_50
+  - first:
+      213: -7711341373552424281
+    second: Complete animation loop - Sprite sheet_51
+  - first:
+      213: 6488467054512506303
+    second: Complete animation loop - Sprite sheet_52
+  - first:
+      213: 2312616315153997126
+    second: Complete animation loop - Sprite sheet_53
+  - first:
+      213: 1916336942570143443
+    second: Complete animation loop - Sprite sheet_54
+  - first:
+      213: -6616004100936731493
+    second: Complete animation loop - Sprite sheet_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71e298e8f59ee420800000000000000
+      internalID: 2661229326108909950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735ee3c109353220800000000000000
+      internalID: 2464939050800141174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a838f4147f6ed670800000000000000
+      internalID: 8565406085663963303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5aba7548c710c0800000000000000
+      internalID: -4604991893225710864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 34
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dda83cbcea53b70800000000000000
+      internalID: 8878194430613052736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 41
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e4121f988cb040800000000000000
+      internalID: 4664753530833528725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 41
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ff97e74b7050990800000000000000
+      internalID: -7420516339225591947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 41
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c582753f4a51b62f0800000000000000
+      internalID: -978664695821555620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 41
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f82271357b8bbd0800000000000000
+      internalID: -2614138016190263433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 42
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c020baab4be09e100800000000000000
+      internalID: 137657433000182284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 42
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa6fd2df7cbe1c90800000000000000
+      internalID: -7197107897306748171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 42
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfb25ed678aecdd0800000000000000
+      internalID: -2463846717635510305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 42
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae7352985c85d230800000000000000
+      internalID: 3662988183975722665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 42
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394d42b8a50a0d690800000000000000
+      internalID: -7579381862122597229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 36
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9135631e7ed740f50800000000000000
+      internalID: 6846735768379347737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 31
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eea183aa0ae4c40800000000000000
+      internalID: 5498508848012127792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6110b7f81a29ad590800000000000000
+      internalID: -7648639794540773098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1232854881c88d1e0800000000000000
+      internalID: -2172832783278791903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4031a3a5b202be1d0800000000000000
+      internalID: -3320524929686170876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d58f610c6f21ed0800000000000000
+      internalID: -2444620342829228797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd7e1ab0b50db5e0800000000000000
+      internalID: -1892350011830796812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd79d07ac33cb30800000000000000
+      internalID: 4306352356881588050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7298b66a46905b0800000000000000
+      internalID: -5401675612122699799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8399f4bc5f8039560800000000000000
+      internalID: 7319203671178189112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 34
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb2ad369f6a72990800000000000000
+      internalID: -7410771071762551834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 34
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed651d0f9e2c430800000000000000
+      internalID: 3801858255967674108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 42
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cf17e8d9f3ea330800000000000000
+      internalID: 3723983887814229041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 34
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8c8b03f4e2033d0800000000000000
+      internalID: -3229030015169935184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f0640b9ee1a9640800000000000000
+      internalID: 5087412718101991270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 1
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d917e68e7c08bf50800000000000000
+      internalID: 6897276566886619602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb635b3a6c83701c0800000000000000
+      internalID: -4537595673751243077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 1
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485a8b2f054ff78c0800000000000000
+      internalID: -3999209315574962812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759427097736d83a0800000000000000
+      internalID: -6661558908635428521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8b6fef01e41e40800000000000000
+      internalID: 5626369293050154751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a552b457d86000180800000000000000
+      internalID: -9151307238188833446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a629a691440ccbc0800000000000000
+      internalID: -3761626909014153564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0402e7d4915ebce20800000000000000
+      internalID: 3372040642854002752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e49f6defb289460800000000000000
+      internalID: 7248591973781163544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5794c14184e2300800000000000000
+      internalID: 229199882253596145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b586df8981fe6af20800000000000000
+      internalID: 3433694654841579611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6f470b9fd0dcba0800000000000000
+      internalID: -6067177756939716950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e8064fdbd1d990800000000000000
+      internalID: -7362862163774871701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1ed910161bc7270800000000000000
+      internalID: 8249663647632974291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a7c31faba123890800000000000000
+      internalID: -7479886640895460792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7cecd055000e770800000000000000
+      internalID: 8637904450600486849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002e9b04b51d635b0800000000000000
+      internalID: -5388889714244066816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30038d954d948c8b0800000000000000
+      internalID: -5131770598999445501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d39e95112472c3f0800000000000000
+      internalID: -882014891565739052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d34ab7d3c8aec30800000000000000
+      internalID: 4389474982521224501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c850b2eb61c4f2c30800000000000000
+      internalID: 4336768626744558988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83830fd6eaacaf030800000000000000
+      internalID: 3529356108515784760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa82af80efcbf490800000000000000
+      internalID: -7711341373552424281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb50b01a86aab0a50800000000000000
+      internalID: 6488467054512506303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dd68e2940181020800000000000000
+      internalID: 2312616315153997126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def9dbcb42389a10800000000000000
+      internalID: 1916336942570143443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Complete animation loop - Sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b947323c25b3f24a0800000000000000
+      internalID: -6616004100936731493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Complete animation loop - Sprite sheet_0: 2661229326108909950
+      Complete animation loop - Sprite sheet_1: 2464939050800141174
+      Complete animation loop - Sprite sheet_10: -7197107897306748171
+      Complete animation loop - Sprite sheet_11: -2463846717635510305
+      Complete animation loop - Sprite sheet_12: 3662988183975722665
+      Complete animation loop - Sprite sheet_13: -7579381862122597229
+      Complete animation loop - Sprite sheet_14: 6846735768379347737
+      Complete animation loop - Sprite sheet_15: 5498508848012127792
+      Complete animation loop - Sprite sheet_16: -7648639794540773098
+      Complete animation loop - Sprite sheet_17: -2172832783278791903
+      Complete animation loop - Sprite sheet_18: -3320524929686170876
+      Complete animation loop - Sprite sheet_19: -2444620342829228797
+      Complete animation loop - Sprite sheet_2: 8565406085663963303
+      Complete animation loop - Sprite sheet_20: -1892350011830796812
+      Complete animation loop - Sprite sheet_21: 4306352356881588050
+      Complete animation loop - Sprite sheet_22: -5401675612122699799
+      Complete animation loop - Sprite sheet_23: 7319203671178189112
+      Complete animation loop - Sprite sheet_24: -7410771071762551834
+      Complete animation loop - Sprite sheet_25: 3801858255967674108
+      Complete animation loop - Sprite sheet_26: 3723983887814229041
+      Complete animation loop - Sprite sheet_27: -3229030015169935184
+      Complete animation loop - Sprite sheet_28: 5087412718101991270
+      Complete animation loop - Sprite sheet_29: 6897276566886619602
+      Complete animation loop - Sprite sheet_3: -4604991893225710864
+      Complete animation loop - Sprite sheet_30: -4537595673751243077
+      Complete animation loop - Sprite sheet_31: -3999209315574962812
+      Complete animation loop - Sprite sheet_32: -6661558908635428521
+      Complete animation loop - Sprite sheet_33: 5626369293050154751
+      Complete animation loop - Sprite sheet_34: -9151307238188833446
+      Complete animation loop - Sprite sheet_35: -3761626909014153564
+      Complete animation loop - Sprite sheet_36: 3372040642854002752
+      Complete animation loop - Sprite sheet_37: 7248591973781163544
+      Complete animation loop - Sprite sheet_38: 229199882253596145
+      Complete animation loop - Sprite sheet_39: 3433694654841579611
+      Complete animation loop - Sprite sheet_4: 8878194430613052736
+      Complete animation loop - Sprite sheet_40: -6067177756939716950
+      Complete animation loop - Sprite sheet_41: -7362862163774871701
+      Complete animation loop - Sprite sheet_42: 8249663647632974291
+      Complete animation loop - Sprite sheet_43: -7479886640895460792
+      Complete animation loop - Sprite sheet_44: 8637904450600486849
+      Complete animation loop - Sprite sheet_45: -5388889714244066816
+      Complete animation loop - Sprite sheet_46: -5131770598999445501
+      Complete animation loop - Sprite sheet_47: -882014891565739052
+      Complete animation loop - Sprite sheet_48: 4389474982521224501
+      Complete animation loop - Sprite sheet_49: 4336768626744558988
+      Complete animation loop - Sprite sheet_5: 4664753530833528725
+      Complete animation loop - Sprite sheet_50: 3529356108515784760
+      Complete animation loop - Sprite sheet_51: -7711341373552424281
+      Complete animation loop - Sprite sheet_52: 6488467054512506303
+      Complete animation loop - Sprite sheet_53: 2312616315153997126
+      Complete animation loop - Sprite sheet_54: 1916336942570143443
+      Complete animation loop - Sprite sheet_55: -6616004100936731493
+      Complete animation loop - Sprite sheet_6: -7420516339225591947
+      Complete animation loop - Sprite sheet_7: -978664695821555620
+      Complete animation loop - Sprite sheet_8: -2614138016190263433
+      Complete animation loop - Sprite sheet_9: 137657433000182284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

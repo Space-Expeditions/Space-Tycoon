@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 1a8f5ae1552231d46a26b96073869fa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4966683323755882068
+    second: Door 02 - Inside Tile set_0
+  - first:
+      213: -1066870528410091629
+    second: Door 02 - Inside Tile set_1
+  - first:
+      213: 3498116729671776533
+    second: Door 02 - Inside Tile set_2
+  - first:
+      213: 4418582215536436806
+    second: Door 02 - Inside Tile set_3
+  - first:
+      213: -1139795618757911462
+    second: Door 02 - Inside Tile set_4
+  - first:
+      213: -7234047474236206949
+    second: Door 02 - Inside Tile set_5
+  - first:
+      213: -5327416626922329054
+    second: Door 02 - Inside Tile set_6
+  - first:
+      213: -3501710724406487202
+    second: Door 02 - Inside Tile set_7
+  - first:
+      213: 3344025442660563081
+    second: Door 02 - Inside Tile set_8
+  - first:
+      213: 5185909562712259096
+    second: Door 02 - Inside Tile set_9
+  - first:
+      213: -5221805018543780618
+    second: Door 02 - Inside Tile set_10
+  - first:
+      213: 7626383549544742548
+    second: Door 02 - Inside Tile set_11
+  - first:
+      213: 2318198753950726624
+    second: Door 02 - Inside Tile set_12
+  - first:
+      213: -5006762540226181473
+    second: Door 02 - Inside Tile set_13
+  - first:
+      213: 6879685410766334545
+    second: Door 02 - Inside Tile set_14
+  - first:
+      213: 83312747394485597
+    second: Door 02 - Inside Tile set_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45663581b243de440800000000000000
+      internalID: 4966683323755882068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f78cc28e6b131f0800000000000000
+      internalID: -1066870528410091629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519ffeeb1aecb8030800000000000000
+      internalID: 3498116729671776533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64668e74d15f15d30800000000000000
+      internalID: 4418582215536436806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c53637ce1ae20f0800000000000000
+      internalID: -1139795618757911462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90d6d956208b9b90800000000000000
+      internalID: -7234047474236206949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ce8cdbdc63116b0800000000000000
+      internalID: -5327416626922329054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_7
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 207
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57539526ac676fc0800000000000000
+      internalID: -3501710724406487202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988b6a53c6d586e20800000000000000
+      internalID: 3344025442660563081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 159
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81af3ca654d08f740800000000000000
+      internalID: 5185909562712259096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc885f700c6887b0800000000000000
+      internalID: -5221805018543780618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_11
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 111
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e3f779e6b56d960800000000000000
+      internalID: 7626383549544742548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e97cfffb75eb2020800000000000000
+      internalID: 2318198753950726624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9606132ff7648ab0800000000000000
+      internalID: -5006762540226181473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2a235e6d897f50800000000000000
+      internalID: 6879685410766334545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door 02 - Inside Tile set_15
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 15
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc5b9908cf72100800000000000000
+      internalID: 83312747394485597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Door 02 - Inside Tile set_0: 4966683323755882068
+      Door 02 - Inside Tile set_1: -1066870528410091629
+      Door 02 - Inside Tile set_10: -5221805018543780618
+      Door 02 - Inside Tile set_11: 7626383549544742548
+      Door 02 - Inside Tile set_12: 2318198753950726624
+      Door 02 - Inside Tile set_13: -5006762540226181473
+      Door 02 - Inside Tile set_14: 6879685410766334545
+      Door 02 - Inside Tile set_15: 83312747394485597
+      Door 02 - Inside Tile set_2: 3498116729671776533
+      Door 02 - Inside Tile set_3: 4418582215536436806
+      Door 02 - Inside Tile set_4: -1139795618757911462
+      Door 02 - Inside Tile set_5: -7234047474236206949
+      Door 02 - Inside Tile set_6: -5327416626922329054
+      Door 02 - Inside Tile set_7: -3501710724406487202
+      Door 02 - Inside Tile set_8: 3344025442660563081
+      Door 02 - Inside Tile set_9: 5185909562712259096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

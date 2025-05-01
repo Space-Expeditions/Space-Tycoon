@@ -36,13 +36,13 @@ public class GunController : MonoBehaviour
         }
 
         // 🔽 총이 플레이어 앞/뒤에 보이도록 처리
-        if (direction.y > 0)
-        {
-            gunRenderer.sortingOrder = -1; // 뒤로 감
-        }
-        else
-        {
-            gunRenderer.sortingOrder = 1; // 앞으로 나옴
-        }
+        // if (direction.y > 0)
+        // {
+        //     gunRenderer.sortingOrder = -1; // 뒤로 감
+        // }
+        // else
+        // {
+        //     gunRenderer.sortingOrder = 1; // 앞으로 나옴
+        // }
     }
 }

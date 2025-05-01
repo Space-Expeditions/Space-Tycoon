@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 6c30bfc6ca969114b93198c76a2f3a6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6606659719430844504
+    second: 03 - BREAK 01_0
+  - first:
+      213: 7166425827018448251
+    second: 03 - BREAK 01_1
+  - first:
+      213: 6364643414134984687
+    second: 03 - BREAK 01_2
+  - first:
+      213: 6179665235265989825
+    second: 03 - BREAK 01_3
+  - first:
+      213: 1253860231427176543
+    second: 03 - BREAK 01_4
+  - first:
+      213: 6371206862994571511
+    second: 03 - BREAK 01_5
+  - first:
+      213: 4287069703529180679
+    second: 03 - BREAK 01_6
+  - first:
+      213: -1828476445831709865
+    second: 03 - BREAK 01_7
+  - first:
+      213: -3753933971442409131
+    second: 03 - BREAK 01_8
+  - first:
+      213: -6568828050078167982
+    second: 03 - BREAK 01_9
+  - first:
+      213: 194904503735942322
+    second: 03 - BREAK 01_10
+  - first:
+      213: 1309426766011420962
+    second: 03 - BREAK 01_11
+  - first:
+      213: 3755126593655716569
+    second: 03 - BREAK 01_12
+  - first:
+      213: 7502200900196612051
+    second: 03 - BREAK 01_13
+  - first:
+      213: 4767602054180398583
+    second: 03 - BREAK 01_14
+  - first:
+      213: 4423639968309371444
+    second: 03 - BREAK 01_15
+  - first:
+      213: -1093983732603983271
+    second: 03 - BREAK 01_16
+  - first:
+      213: -8911583272647139807
+    second: 03 - BREAK 01_17
+  - first:
+      213: -6528836131192616040
+    second: 03 - BREAK 01_18
+  - first:
+      213: -5356493792468117695
+    second: 03 - BREAK 01_19
+  - first:
+      213: 2938477528936767474
+    second: 03 - BREAK 01_20
+  - first:
+      213: 7079683139888482445
+    second: 03 - BREAK 01_21
+  - first:
+      213: 7133246945601524328
+    second: 03 - BREAK 01_22
+  - first:
+      213: 5444872752670284378
+    second: 03 - BREAK 01_23
+  - first:
+      213: -2746846285711297226
+    second: 03 - BREAK 01_24
+  - first:
+      213: 6848022834203911630
+    second: 03 - BREAK 01_25
+  - first:
+      213: 7675086678127081762
+    second: 03 - BREAK 01_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03 - BREAK 01_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850be80e2029fab50800000000000000
+      internalID: 6606659719430844504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 14
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9e900252447360800000000000000
+      internalID: 7166425827018448251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8b8db671c35850800000000000000
+      internalID: 6364643414134984687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc2cda4ac492c550800000000000000
+      internalID: 6179665235265989825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 35
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b43cbc3b966110800000000000000
+      internalID: 1253860231427176543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 32
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f08253c2e21b6850800000000000000
+      internalID: 6371206862994571511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 38
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e22367e2bbe7b30800000000000000
+      internalID: 4287069703529180679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 36
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b38063c52ff96e0800000000000000
+      internalID: -1828476445831709865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 38
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55167e131f857ebc0800000000000000
+      internalID: -3753933971442409131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 40
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c087c01b5d6d4a0800000000000000
+      internalID: -6568828050078167982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 39
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcfd4e0d9074b200800000000000000
+      internalID: 194904503735942322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 41
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221df7fb4b40c2210800000000000000
+      internalID: 1309426766011420962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 41
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab87dcdb3ec1430800000000000000
+      internalID: 3755126593655716569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_13
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 16
+        width: 425
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7b5d968fb2d1860800000000000000
+      internalID: 7502200900196612051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 16
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f568d5fecce92240800000000000000
+      internalID: 4767602054180398583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432ec4d1d1de36d30800000000000000
+      internalID: 4423639968309371444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 17
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a6514679361d0f0800000000000000
+      internalID: -1093983732603983271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 26
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12edd87aa32b35480800000000000000
+      internalID: -8911583272647139807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 17
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b4783412ae465a0800000000000000
+      internalID: -6528836131192616040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 29
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1475a529649e9a5b0800000000000000
+      internalID: -5356493792468117695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 16
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff5ebc6eb197c820800000000000000
+      internalID: 2938477528936767474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_21
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 23
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8800635e46104260800000000000000
+      internalID: 7079683139888482445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_22
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 26
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86218bfad426ef260800000000000000
+      internalID: 7133246945601524328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 24
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a9d1e9be2109b40800000000000000
+      internalID: 5444872752670284378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 15
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635b3974bdd31e9d0800000000000000
+      internalID: -2746846285711297226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ec7e3c70190f50800000000000000
+      internalID: 6848022834203911630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 - BREAK 01_26
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 17
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229f81e5ba2638a60800000000000000
+      internalID: 7675086678127081762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      03 - BREAK 01_0: 6606659719430844504
+      03 - BREAK 01_1: 7166425827018448251
+      03 - BREAK 01_10: 194904503735942322
+      03 - BREAK 01_11: 1309426766011420962
+      03 - BREAK 01_12: 3755126593655716569
+      03 - BREAK 01_13: 7502200900196612051
+      03 - BREAK 01_14: 4767602054180398583
+      03 - BREAK 01_15: 4423639968309371444
+      03 - BREAK 01_16: -1093983732603983271
+      03 - BREAK 01_17: -8911583272647139807
+      03 - BREAK 01_18: -6528836131192616040
+      03 - BREAK 01_19: -5356493792468117695
+      03 - BREAK 01_2: 6364643414134984687
+      03 - BREAK 01_20: 2938477528936767474
+      03 - BREAK 01_21: 7079683139888482445
+      03 - BREAK 01_22: 7133246945601524328
+      03 - BREAK 01_23: 5444872752670284378
+      03 - BREAK 01_24: -2746846285711297226
+      03 - BREAK 01_25: 6848022834203911630
+      03 - BREAK 01_26: 7675086678127081762
+      03 - BREAK 01_3: 6179665235265989825
+      03 - BREAK 01_4: 1253860231427176543
+      03 - BREAK 01_5: 6371206862994571511
+      03 - BREAK 01_6: 4287069703529180679
+      03 - BREAK 01_7: -1828476445831709865
+      03 - BREAK 01_8: -3753933971442409131
+      03 - BREAK 01_9: -6568828050078167982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

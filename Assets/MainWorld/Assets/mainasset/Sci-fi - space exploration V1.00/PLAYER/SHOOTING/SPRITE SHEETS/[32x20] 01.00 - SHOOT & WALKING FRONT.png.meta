@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c61de03a7ed9d8d48bd077787150b40c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7343412620534260903
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_0'
+  - first:
+      213: -5283748109981924851
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_1'
+  - first:
+      213: -1840742497407665510
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_2'
+  - first:
+      213: 6781207984133176854
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_3'
+  - first:
+      213: 8674502119961449869
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_4'
+  - first:
+      213: -7249463601578583941
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_5'
+  - first:
+      213: 2901333799045799410
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_6'
+  - first:
+      213: 6013284285100256688
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_7'
+  - first:
+      213: -1690661911675060168
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_8'
+  - first:
+      213: 4692356660880358179
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_9'
+  - first:
+      213: -7825332309112331985
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_10'
+  - first:
+      213: 2601234108716011254
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_11'
+  - first:
+      213: -1573512682520935044
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_12'
+  - first:
+      213: 4452208401165109180
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_13'
+  - first:
+      213: -5389248327998886561
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_14'
+  - first:
+      213: -5961419877567647732
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_15'
+  - first:
+      213: 4777899126365300903
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_16'
+  - first:
+      213: 637886377993560013
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_17'
+  - first:
+      213: 7052892414088543869
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_18'
+  - first:
+      213: 2987784300365344847
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_19'
+  - first:
+      213: 1515069910996062116
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_20'
+  - first:
+      213: 7893443816748433834
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_21'
+  - first:
+      213: -3631977915880540987
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_22'
+  - first:
+      213: 8131332020404504778
+    second: '[32x20] 01.00 - SHOOT & WALKING FRONT_23'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_0'
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4a01e0fda09e560800000000000000
+      internalID: 7343412620534260903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_1'
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c2e5a61b5ca6b0800000000000000
+      internalID: -5283748109981924851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_2'
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9afc07837e5476e0800000000000000
+      internalID: -1840742497407665510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_3'
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efc42bbb0bb1e50800000000000000
+      internalID: 6781207984133176854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_4'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85dca7f7b5026870800000000000000
+      internalID: 8674502119961449869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_5'
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78d8cf734bb46b90800000000000000
+      internalID: -7249463601578583941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_6'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd95f2e7bb934820800000000000000
+      internalID: 2901333799045799410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_7'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bde6d2923a737350800000000000000
+      internalID: 6013284285100256688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_8'
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304357e2ff8988e0800000000000000
+      internalID: -1690661911675060168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_9'
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b363b95899e1140800000000000000
+      internalID: 4692356660880358179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_10'
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21e8f9a9b5d66390800000000000000
+      internalID: -7825332309112331985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_11'
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fec5a3d3a0791420800000000000000
+      internalID: 2601234108716011254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_12'
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7584c45d82c92ae0800000000000000
+      internalID: -1573512682520935044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_13'
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c479b3fb69cd30800000000000000
+      internalID: 4452208401165109180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_14'
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d224bf23b8535b0800000000000000
+      internalID: -5389248327998886561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_15'
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b0a0d438c44da0800000000000000
+      internalID: -5961419877567647732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_16'
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a827a7e0f18e4240800000000000000
+      internalID: 4777899126365300903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_17'
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfdd57f74a3ad800800000000000000
+      internalID: 637886377993560013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_18'
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e7bc46848e0e160800000000000000
+      internalID: 7052892414088543869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_19'
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40f3c0cdfdb67920800000000000000
+      internalID: 2987784300365344847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_20'
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af8dce8e0c960510800000000000000
+      internalID: 1515069910996062116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_21'
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa14bcf74552b8d60800000000000000
+      internalID: 7893443816748433834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_22'
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c470eb145f989dc0800000000000000
+      internalID: -3631977915880540987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT & WALKING FRONT_23'
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac848f2146b48d070800000000000000
+      internalID: 8131332020404504778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_0': 7343412620534260903
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_1': -5283748109981924851
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_10': -7825332309112331985
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_11': 2601234108716011254
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_12': -1573512682520935044
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_13': 4452208401165109180
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_14': -5389248327998886561
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_15': -5961419877567647732
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_16': 4777899126365300903
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_17': 637886377993560013
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_18': 7052892414088543869
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_19': 2987784300365344847
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_2': -1840742497407665510
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_20': 1515069910996062116
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_21': 7893443816748433834
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_22': -3631977915880540987
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_23': 8131332020404504778
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_3': 6781207984133176854
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_4': 8674502119961449869
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_5': -7249463601578583941
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_6': 2901333799045799410
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_7': 6013284285100256688
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_8': -1690661911675060168
+      '[32x20] 01.00 - SHOOT & WALKING FRONT_9': 4692356660880358179
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

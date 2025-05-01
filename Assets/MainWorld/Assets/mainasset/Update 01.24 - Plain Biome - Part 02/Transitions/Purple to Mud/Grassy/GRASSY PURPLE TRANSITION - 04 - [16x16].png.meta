@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: ac8d2013dde8e39478a5397383e90c27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 536164493098478235
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_0
+  - first:
+      213: -5763345958655410671
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_1
+  - first:
+      213: 4841308976589847429
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_2
+  - first:
+      213: -8705841415506022666
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_3
+  - first:
+      213: -647999518324239556
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_4
+  - first:
+      213: -4940214346548018594
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_5
+  - first:
+      213: -6583676470149150503
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_6
+  - first:
+      213: 1387737794577299215
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_7
+  - first:
+      213: -596485424799907423
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_8
+  - first:
+      213: 2929839331298037907
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_9
+  - first:
+      213: 3293217364162535120
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_10
+  - first:
+      213: 1173906828109056657
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_11
+  - first:
+      213: -6676545323773480839
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_12
+  - first:
+      213: 6148466391458565321
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_13
+  - first:
+      213: -8528430463463438406
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_14
+  - first:
+      213: 8756056153432075425
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_15
+  - first:
+      213: 7143777956733770915
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_16
+  - first:
+      213: 5626880810104324989
+    second: GRASSY PURPLE TRANSITION - 04 - [16x16]_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aef4804c6d07700800000000000000
+      internalID: 536164493098478235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e39a8d26b7400b0800000000000000
+      internalID: -5763345958655410671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b3c852dd8cf2340800000000000000
+      internalID: 4841308976589847429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe21edab53ae2780800000000000000
+      internalID: -8705841415506022666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33d8af0fd7d107f0800000000000000
+      internalID: -647999518324239556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5287b7e935d07bb0800000000000000
+      internalID: -4940214346548018594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d889a8d12512a4a0800000000000000
+      internalID: -6583676470149150503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07f92feb2c324310800000000000000
+      internalID: 1387737794577299215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a18a1d9aabd8b7f0800000000000000
+      internalID: -596485424799907423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390dcfe4951e8a820800000000000000
+      internalID: 2929839331298037907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de5e079ebbd3bd20800000000000000
+      internalID: 3293217364162535120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a88d06a0e8a4010800000000000000
+      internalID: 1173906828109056657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970bfa1e6652853a0800000000000000
+      internalID: -6676545323773480839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc0586b9db35550800000000000000
+      internalID: 6148466391458565321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab744a5ddade4a980800000000000000
+      internalID: -8528430463463438406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac21b21ea2c38970800000000000000
+      internalID: 8756056153432075425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd169c33cc32360800000000000000
+      internalID: 7143777956733770915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY PURPLE TRANSITION - 04 - [16x16]_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d730bb7c842b61e40800000000000000
+      internalID: 5626880810104324989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_0: 536164493098478235
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_1: -5763345958655410671
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_10: 3293217364162535120
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_11: 1173906828109056657
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_12: -6676545323773480839
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_13: 6148466391458565321
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_14: -8528430463463438406
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_15: 8756056153432075425
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_16: 7143777956733770915
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_17: 5626880810104324989
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_2: 4841308976589847429
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_3: -8705841415506022666
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_4: -647999518324239556
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_5: -4940214346548018594
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_6: -6583676470149150503
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_7: 1387737794577299215
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_8: -596485424799907423
+      GRASSY PURPLE TRANSITION - 04 - [16x16]_9: 2929839331298037907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
