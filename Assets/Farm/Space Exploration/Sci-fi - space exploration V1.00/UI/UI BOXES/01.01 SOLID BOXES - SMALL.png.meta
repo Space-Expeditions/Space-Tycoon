@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 0e94de9ab4823304f91432e570fbc009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2119737357991896192
+    second: 01.01 SOLID BOXES - SMALL_0
+  - first:
+      213: -8673672127015084121
+    second: 01.01 SOLID BOXES - SMALL_1
+  - first:
+      213: -8960488969862447236
+    second: 01.01 SOLID BOXES - SMALL_2
+  - first:
+      213: -1735542016604683687
+    second: 01.01 SOLID BOXES - SMALL_3
+  - first:
+      213: -4011067381480510972
+    second: 01.01 SOLID BOXES - SMALL_4
+  - first:
+      213: -980720758553517941
+    second: 01.01 SOLID BOXES - SMALL_5
+  - first:
+      213: 5099180434132230734
+    second: 01.01 SOLID BOXES - SMALL_6
+  - first:
+      213: 5967383016634704034
+    second: 01.01 SOLID BOXES - SMALL_7
+  - first:
+      213: -9204583764303925490
+    second: 01.01 SOLID BOXES - SMALL_8
+  - first:
+      213: 7752342959358947471
+    second: 01.01 SOLID BOXES - SMALL_9
+  - first:
+      213: -2494820891206678208
+    second: 01.01 SOLID BOXES - SMALL_10
+  - first:
+      213: 5810122202717514077
+    second: 01.01 SOLID BOXES - SMALL_11
+  - first:
+      213: -4850145621084846929
+    second: 01.01 SOLID BOXES - SMALL_12
+  - first:
+      213: 2748682431422909780
+    second: 01.01 SOLID BOXES - SMALL_13
+  - first:
+      213: 2648869816179181223
+    second: 01.01 SOLID BOXES - SMALL_14
+  - first:
+      213: -3226242177496402413
+    second: 01.01 SOLID BOXES - SMALL_15
+  - first:
+      213: 3829757005254666340
+    second: 01.01 SOLID BOXES - SMALL_16
+  - first:
+      213: 7388800463639769021
+    second: 01.01 SOLID BOXES - SMALL_17
+  - first:
+      213: -4784562296824845768
+    second: 01.01 SOLID BOXES - SMALL_18
+  - first:
+      213: 4856975705102520513
+    second: 01.01 SOLID BOXES - SMALL_19
+  - first:
+      213: -6862063987111445685
+    second: 01.01 SOLID BOXES - SMALL_20
+  - first:
+      213: 3242749140645277351
+    second: 01.01 SOLID BOXES - SMALL_21
+  - first:
+      213: 2249170253512542203
+    second: 01.01 SOLID BOXES - SMALL_22
+  - first:
+      213: -5417265353223767944
+    second: 01.01 SOLID BOXES - SMALL_23
+  - first:
+      213: -3649591233772568545
+    second: 01.01 SOLID BOXES - SMALL_24
+  - first:
+      213: 6961563493437905857
+    second: 01.01 SOLID BOXES - SMALL_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b94cf8a1e2592e0800000000000000
+      internalID: -2119737357991896192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af1f03d72de0a780800000000000000
+      internalID: -8673672127015084121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ffa81b1c2f5a380800000000000000
+      internalID: -8960488969862447236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952438f2bbd1ae7e0800000000000000
+      internalID: -1735542016604683687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40aa2b4d773d558c0800000000000000
+      internalID: -4011067381480510972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80e09a8aa7c362f0800000000000000
+      internalID: -980720758553517941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 98
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42e216969de3c640800000000000000
+      internalID: 5099180434132230734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 79
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0e531bc3760d250800000000000000
+      internalID: 5967383016634704034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f265795dfb24080800000000000000
+      internalID: -9204583764303925490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80379d09dad59b60800000000000000
+      internalID: 7752342959358947471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04907691e9d906dd0800000000000000
+      internalID: -2494820891206678208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59669a2c53b1a050800000000000000
+      internalID: 5810122202717514077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4425a3142d0bcb0800000000000000
+      internalID: -4850145621084846929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc155bb18452620800000000000000
+      internalID: 2748682431422909780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a64d91401da2c420800000000000000
+      internalID: 2648869816179181223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 51
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b1fa35d51a33d0800000000000000
+      internalID: -3226242177496402413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468a44294b7062530800000000000000
+      internalID: 3829757005254666340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf6d77cfda4a8660800000000000000
+      internalID: 7388800463639769021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a2704d0f1d99db0800000000000000
+      internalID: -4784562296824845768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c09651aba1776340800000000000000
+      internalID: 4856975705102520513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bb836192d05c0a0800000000000000
+      internalID: -6862063987111445685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae6ddf992f800d20800000000000000
+      internalID: 3242749140645277351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf78dffcd68a63f10800000000000000
+      internalID: 2249170253512542203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f017fcd102d4b0800000000000000
+      internalID: -5417265353223767944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f104b97fb1c0a5dc0800000000000000
+      internalID: -3649591233772568545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.01 SOLID BOXES - SMALL_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb91b30d117c9060800000000000000
+      internalID: 6961563493437905857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01.01 SOLID BOXES - SMALL_0: -2119737357991896192
+      01.01 SOLID BOXES - SMALL_1: -8673672127015084121
+      01.01 SOLID BOXES - SMALL_10: -2494820891206678208
+      01.01 SOLID BOXES - SMALL_11: 5810122202717514077
+      01.01 SOLID BOXES - SMALL_12: -4850145621084846929
+      01.01 SOLID BOXES - SMALL_13: 2748682431422909780
+      01.01 SOLID BOXES - SMALL_14: 2648869816179181223
+      01.01 SOLID BOXES - SMALL_15: -3226242177496402413
+      01.01 SOLID BOXES - SMALL_16: 3829757005254666340
+      01.01 SOLID BOXES - SMALL_17: 7388800463639769021
+      01.01 SOLID BOXES - SMALL_18: -4784562296824845768
+      01.01 SOLID BOXES - SMALL_19: 4856975705102520513
+      01.01 SOLID BOXES - SMALL_2: -8960488969862447236
+      01.01 SOLID BOXES - SMALL_20: -6862063987111445685
+      01.01 SOLID BOXES - SMALL_21: 3242749140645277351
+      01.01 SOLID BOXES - SMALL_22: 2249170253512542203
+      01.01 SOLID BOXES - SMALL_23: -5417265353223767944
+      01.01 SOLID BOXES - SMALL_24: -3649591233772568545
+      01.01 SOLID BOXES - SMALL_25: 6961563493437905857
+      01.01 SOLID BOXES - SMALL_3: -1735542016604683687
+      01.01 SOLID BOXES - SMALL_4: -4011067381480510972
+      01.01 SOLID BOXES - SMALL_5: -980720758553517941
+      01.01 SOLID BOXES - SMALL_6: 5099180434132230734
+      01.01 SOLID BOXES - SMALL_7: 5967383016634704034
+      01.01 SOLID BOXES - SMALL_8: -9204583764303925490
+      01.01 SOLID BOXES - SMALL_9: 7752342959358947471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

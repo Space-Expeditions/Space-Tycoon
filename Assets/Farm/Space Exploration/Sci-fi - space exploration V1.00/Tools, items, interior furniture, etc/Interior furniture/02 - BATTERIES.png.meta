@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 6158fa11bce37414c96b06aeca18bd36
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1987273089771811033
+    second: 02 - BATTERIES_0
+  - first:
+      213: 6068153446760496720
+    second: 02 - BATTERIES_1
+  - first:
+      213: -3142756474608243056
+    second: 02 - BATTERIES_2
+  - first:
+      213: -2244518312983212307
+    second: 02 - BATTERIES_3
+  - first:
+      213: -8174597555713565792
+    second: 02 - BATTERIES_4
+  - first:
+      213: 1003607661387927033
+    second: 02 - BATTERIES_5
+  - first:
+      213: -8228070722364687799
+    second: 02 - BATTERIES_6
+  - first:
+      213: -2651641380842521777
+    second: 02 - BATTERIES_7
+  - first:
+      213: -9015215525826113506
+    second: 02 - BATTERIES_8
+  - first:
+      213: -4224096188711811668
+    second: 02 - BATTERIES_9
+  - first:
+      213: -4619468191211725646
+    second: 02 - BATTERIES_10
+  - first:
+      213: -5635856328613320510
+    second: 02 - BATTERIES_11
+  - first:
+      213: -3091915422563640163
+    second: 02 - BATTERIES_12
+  - first:
+      213: 7367945614493292502
+    second: 02 - BATTERIES_13
+  - first:
+      213: -100354007380639693
+    second: 02 - BATTERIES_14
+  - first:
+      213: 7463254499581482364
+    second: 02 - BATTERIES_15
+  - first:
+      213: 8377116478535216843
+    second: 02 - BATTERIES_16
+  - first:
+      213: 8111496574876020784
+    second: 02 - BATTERIES_17
+  - first:
+      213: -6952857791950716653
+    second: 02 - BATTERIES_18
+  - first:
+      213: -884715987062149008
+    second: 02 - BATTERIES_19
+  - first:
+      213: 4314238174435498604
+    second: 02 - BATTERIES_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 02 - BATTERIES_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f457467a9cb64e0800000000000000
+      internalID: -1987273089771811033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 95
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb8bcc869663450800000000000000
+      internalID: 6068153446760496720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eaa6b23afa264d0800000000000000
+      internalID: -3142756474608243056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 95
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deec6ce7c7ed9d0e0800000000000000
+      internalID: -2244518312983212307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9aed75defd8e80800000000000000
+      internalID: -8174597555713565792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 95
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd43e6c9d78ded00800000000000000
+      internalID: 1003607661387927033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a39aea54500dd80800000000000000
+      internalID: -8228070722364687799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 95
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bb72f863a733bd0800000000000000
+      internalID: -2651641380842521777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e105c817e3583e280800000000000000
+      internalID: -9015215525826113506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 95
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca540c685eef065c0800000000000000
+      internalID: -4224096188711811668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcdb93b72a54efb0800000000000000
+      internalID: -4619468191211725646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 95
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8add7778a69c1b0800000000000000
+      internalID: -5635856328613320510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 63
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cda8a0e4f4715d0800000000000000
+      internalID: -3091915422563640163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 95
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d71544df73304660800000000000000
+      internalID: 7367945614493292502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304a4edf887b9ef0800000000000000
+      internalID: -100354007380639693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75d3e3ec6ec29760800000000000000
+      internalID: 7463254499581482364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcea929ad0f714470800000000000000
+      internalID: 8377116478535216843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03078468823d19070800000000000000
+      internalID: 8111496574876020784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31188f01dac728f90800000000000000
+      internalID: -6952857791950716653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 15
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0703d084f7bd8b3f0800000000000000
+      internalID: -884715987062149008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02 - BATTERIES_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 15
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a58a703c04fdb30800000000000000
+      internalID: 4314238174435498604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      02 - BATTERIES_0: -1987273089771811033
+      02 - BATTERIES_1: 6068153446760496720
+      02 - BATTERIES_10: -4619468191211725646
+      02 - BATTERIES_11: -5635856328613320510
+      02 - BATTERIES_12: -3091915422563640163
+      02 - BATTERIES_13: 7367945614493292502
+      02 - BATTERIES_14: -100354007380639693
+      02 - BATTERIES_15: 7463254499581482364
+      02 - BATTERIES_16: 8377116478535216843
+      02 - BATTERIES_17: 8111496574876020784
+      02 - BATTERIES_18: -6952857791950716653
+      02 - BATTERIES_19: -884715987062149008
+      02 - BATTERIES_2: -3142756474608243056
+      02 - BATTERIES_20: 4314238174435498604
+      02 - BATTERIES_3: -2244518312983212307
+      02 - BATTERIES_4: -8174597555713565792
+      02 - BATTERIES_5: 1003607661387927033
+      02 - BATTERIES_6: -8228070722364687799
+      02 - BATTERIES_7: -2651641380842521777
+      02 - BATTERIES_8: -9015215525826113506
+      02 - BATTERIES_9: -4224096188711811668
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

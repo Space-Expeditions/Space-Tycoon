@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 54321917728077e4f9811399bf0665ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6493748275612111019
+    second: '[32x20] 01.00 - SHOOT BACK_0'
+  - first:
+      213: -6361555512146917936
+    second: '[32x20] 01.00 - SHOOT BACK_1'
+  - first:
+      213: 3887962524927754311
+    second: '[32x20] 01.00 - SHOOT BACK_2'
+  - first:
+      213: 3737920481380755481
+    second: '[32x20] 01.00 - SHOOT BACK_3'
+  - first:
+      213: 9075749499633792529
+    second: '[32x20] 01.00 - SHOOT BACK_4'
+  - first:
+      213: 8969724834499962563
+    second: '[32x20] 01.00 - SHOOT BACK_5'
+  - first:
+      213: 401396114850105186
+    second: '[32x20] 01.00 - SHOOT BACK_6'
+  - first:
+      213: -1921828663733368615
+    second: '[32x20] 01.00 - SHOOT BACK_7'
+  - first:
+      213: 5691965215782721450
+    second: '[32x20] 01.00 - SHOOT BACK_8'
+  - first:
+      213: 2624454236125434625
+    second: '[32x20] 01.00 - SHOOT BACK_9'
+  - first:
+      213: -4855500044952434823
+    second: '[32x20] 01.00 - SHOOT BACK_10'
+  - first:
+      213: -3080406274162364134
+    second: '[32x20] 01.00 - SHOOT BACK_11'
+  - first:
+      213: 4176528131094276255
+    second: '[32x20] 01.00 - SHOOT BACK_12'
+  - first:
+      213: -2728713109938952881
+    second: '[32x20] 01.00 - SHOOT BACK_13'
+  - first:
+      213: -4957748742504940795
+    second: '[32x20] 01.00 - SHOOT BACK_14'
+  - first:
+      213: -6543370315625124358
+    second: '[32x20] 01.00 - SHOOT BACK_15'
+  - first:
+      213: -5659571593832237425
+    second: '[32x20] 01.00 - SHOOT BACK_16'
+  - first:
+      213: 2340344333411874136
+    second: '[32x20] 01.00 - SHOOT BACK_17'
+  - first:
+      213: -4786094671403655571
+    second: '[32x20] 01.00 - SHOOT BACK_18'
+  - first:
+      213: -6172154838962706963
+    second: '[32x20] 01.00 - SHOOT BACK_19'
+  - first:
+      213: -8301845449504497316
+    second: '[32x20] 01.00 - SHOOT BACK_20'
+  - first:
+      213: -7527188405854349112
+    second: '[32x20] 01.00 - SHOOT BACK_21'
+  - first:
+      213: 5774846412380555871
+    second: '[32x20] 01.00 - SHOOT BACK_22'
+  - first:
+      213: -6825166779145117027
+    second: '[32x20] 01.00 - SHOOT BACK_23'
+  - first:
+      213: 3040625405482130232
+    second: '[32x20] 01.00 - SHOOT BACK_24'
+  - first:
+      213: -1603045779850812234
+    second: '[32x20] 01.00 - SHOOT BACK_25'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_0'
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fa553495291e5a0800000000000000
+      internalID: -6493748275612111019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_1'
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d50e8777f637b7a0800000000000000
+      internalID: -6361555512146917936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_2'
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740895e2151d4f530800000000000000
+      internalID: 3887962524927754311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_3'
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9186b5b9fd2cfd330800000000000000
+      internalID: 3737920481380755481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_4'
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116f914a51a83fd70800000000000000
+      internalID: 9075749499633792529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_5'
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ae5d963dda7c70800000000000000
+      internalID: 8969724834499962563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_6'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ccd7c3ab029500800000000000000
+      internalID: 401396114850105186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_7'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8420b330b4455e0800000000000000
+      internalID: -1921828663733368615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_8'
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7db98d43cedfe40800000000000000
+      internalID: 5691965215782721450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_9'
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1039689093feb6420800000000000000
+      internalID: 2624454236125434625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_10'
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97787b54f6ccd9cb0800000000000000
+      internalID: -4855500044952434823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_11'
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11faa870d23045d0800000000000000
+      internalID: -3080406274162364134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_12'
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ec40053206f930800000000000000
+      internalID: 4176528131094276255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_13'
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45232442e9a12ad0800000000000000
+      internalID: -2728713109938952881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_14'
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b7a5539c9823bb0800000000000000
+      internalID: -4957748742504940795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_15'
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd245fbd574135a0800000000000000
+      internalID: -6543370315625124358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_16'
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86fcb00f992571b0800000000000000
+      internalID: -5659571593832237425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_17'
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855fc1585c29a7020800000000000000
+      internalID: 2340344333411874136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_18'
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e58911140649db0800000000000000
+      internalID: -4786094671403655571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_19'
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de56bec10e9185aa0800000000000000
+      internalID: -6172154838962706963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_20'
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51671a7c8be9cc80800000000000000
+      internalID: -8301845449504497316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_21'
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8dc9f860e0a8790800000000000000
+      internalID: -7527188405854349112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_22'
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ac1623730642050800000000000000
+      internalID: 5774846412380555871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_23'
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d922244c9f22841a0800000000000000
+      internalID: -6825166779145117027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_24'
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b5ac442b8723a20800000000000000
+      internalID: 3040625405482130232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT BACK_25'
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ad454b56d0c9e0800000000000000
+      internalID: -1603045779850812234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[32x20] 01.00 - SHOOT BACK_0': -6493748275612111019
+      '[32x20] 01.00 - SHOOT BACK_1': -6361555512146917936
+      '[32x20] 01.00 - SHOOT BACK_10': -4855500044952434823
+      '[32x20] 01.00 - SHOOT BACK_11': -3080406274162364134
+      '[32x20] 01.00 - SHOOT BACK_12': 4176528131094276255
+      '[32x20] 01.00 - SHOOT BACK_13': -2728713109938952881
+      '[32x20] 01.00 - SHOOT BACK_14': -4957748742504940795
+      '[32x20] 01.00 - SHOOT BACK_15': -6543370315625124358
+      '[32x20] 01.00 - SHOOT BACK_16': -5659571593832237425
+      '[32x20] 01.00 - SHOOT BACK_17': 2340344333411874136
+      '[32x20] 01.00 - SHOOT BACK_18': -4786094671403655571
+      '[32x20] 01.00 - SHOOT BACK_19': -6172154838962706963
+      '[32x20] 01.00 - SHOOT BACK_2': 3887962524927754311
+      '[32x20] 01.00 - SHOOT BACK_20': -8301845449504497316
+      '[32x20] 01.00 - SHOOT BACK_21': -7527188405854349112
+      '[32x20] 01.00 - SHOOT BACK_22': 5774846412380555871
+      '[32x20] 01.00 - SHOOT BACK_23': -6825166779145117027
+      '[32x20] 01.00 - SHOOT BACK_24': 3040625405482130232
+      '[32x20] 01.00 - SHOOT BACK_25': -1603045779850812234
+      '[32x20] 01.00 - SHOOT BACK_3': 3737920481380755481
+      '[32x20] 01.00 - SHOOT BACK_4': 9075749499633792529
+      '[32x20] 01.00 - SHOOT BACK_5': 8969724834499962563
+      '[32x20] 01.00 - SHOOT BACK_6': 401396114850105186
+      '[32x20] 01.00 - SHOOT BACK_7': -1921828663733368615
+      '[32x20] 01.00 - SHOOT BACK_8': 5691965215782721450
+      '[32x20] 01.00 - SHOOT BACK_9': 2624454236125434625
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

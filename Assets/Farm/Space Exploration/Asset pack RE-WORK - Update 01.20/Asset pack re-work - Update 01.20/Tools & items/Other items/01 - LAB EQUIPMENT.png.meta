@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 1396fec0fc059bc448b259d9ff70aae3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3923518793225443946
+    second: 01 - LAB EQUIPMENT_0
+  - first:
+      213: 8861371485560305507
+    second: 01 - LAB EQUIPMENT_1
+  - first:
+      213: -878041374345973433
+    second: 01 - LAB EQUIPMENT_2
+  - first:
+      213: -494121575592609582
+    second: 01 - LAB EQUIPMENT_3
+  - first:
+      213: 1255809182148472893
+    second: 01 - LAB EQUIPMENT_4
+  - first:
+      213: 6593033100981305325
+    second: 01 - LAB EQUIPMENT_5
+  - first:
+      213: 4353854614613410365
+    second: 01 - LAB EQUIPMENT_6
+  - first:
+      213: 8879523712249537529
+    second: 01 - LAB EQUIPMENT_7
+  - first:
+      213: -2217353993838870139
+    second: 01 - LAB EQUIPMENT_8
+  - first:
+      213: -5678109448809312774
+    second: 01 - LAB EQUIPMENT_9
+  - first:
+      213: -4503071286142607846
+    second: 01 - LAB EQUIPMENT_10
+  - first:
+      213: 2621796274485456382
+    second: 01 - LAB EQUIPMENT_11
+  - first:
+      213: 5111739359353554737
+    second: 01 - LAB EQUIPMENT_12
+  - first:
+      213: 5593564452935788742
+    second: 01 - LAB EQUIPMENT_13
+  - first:
+      213: 8873026426577917649
+    second: 01 - LAB EQUIPMENT_14
+  - first:
+      213: -8069506362940829606
+    second: 01 - LAB EQUIPMENT_15
+  - first:
+      213: -2547698485961305233
+    second: 01 - LAB EQUIPMENT_16
+  - first:
+      213: 2167827767667190412
+    second: 01 - LAB EQUIPMENT_17
+  - first:
+      213: -2822118912122267304
+    second: 01 - LAB EQUIPMENT_18
+  - first:
+      213: 2356940023993862762
+    second: 01 - LAB EQUIPMENT_19
+  - first:
+      213: 3034395146588777204
+    second: 01 - LAB EQUIPMENT_20
+  - first:
+      213: 5319348476512986626
+    second: 01 - LAB EQUIPMENT_21
+  - first:
+      213: 4228244670033397622
+    second: 01 - LAB EQUIPMENT_22
+  - first:
+      213: -671731696805033346
+    second: 01 - LAB EQUIPMENT_23
+  - first:
+      213: 7936156847138643708
+    second: 01 - LAB EQUIPMENT_24
+  - first:
+      213: 7106217407490901478
+    second: 01 - LAB EQUIPMENT_25
+  - first:
+      213: -220671005740788128
+    second: 01 - LAB EQUIPMENT_26
+  - first:
+      213: 8085839733750381290
+    second: 01 - LAB EQUIPMENT_27
+  - first:
+      213: -7839956030997496733
+    second: 01 - LAB EQUIPMENT_28
+  - first:
+      213: -7934131762335660979
+    second: 01 - LAB EQUIPMENT_29
+  - first:
+      213: -3996771485901462163
+    second: 01 - LAB EQUIPMENT_30
+  - first:
+      213: 5864395668984942393
+    second: 01 - LAB EQUIPMENT_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a95c30e83237630800000000000000
+      internalID: 3923518793225443946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 81
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367f893aa6ae9fa70800000000000000
+      internalID: 8861371485560305507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7413308a50290d3f0800000000000000
+      internalID: -878041374345973433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d832f28b078429f0800000000000000
+      internalID: -494121575592609582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 82
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3032af2cc78d6110800000000000000
+      internalID: 1255809182148472893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_5
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff1688ca82f7b50800000000000000
+      internalID: 6593033100981305325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 82
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d324abb44bffb6c30800000000000000
+      internalID: 4353854614613410365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 82
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3aa4345c76a3b70800000000000000
+      internalID: 8879523712249537529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c0f76a406a31e0800000000000000
+      internalID: -2217353993838870139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 79
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd8eeb4a8d4331b0800000000000000
+      internalID: -5678109448809312774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e55370680e181c0800000000000000
+      internalID: -4503071286142607846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde52e12dd726420800000000000000
+      internalID: 2621796274485456382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 65
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137c6aa3ddb80f640800000000000000
+      internalID: 5111739359353554737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c86d75eb3550ad40800000000000000
+      internalID: 5593564452935788742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 63
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d694de0682532b70800000000000000
+      internalID: 8873026426577917649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50582c87ba530090800000000000000
+      internalID: -8069506362940829606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d97da9b1c4acd0800000000000000
+      internalID: -2547698485961305233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ae70a7edba51e10800000000000000
+      internalID: 2167827767667190412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8595a093dc1d5d8d0800000000000000
+      internalID: -2822118912122267304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a0e07d67885b020800000000000000
+      internalID: 2356940023993862762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fae7941f465c1a20800000000000000
+      internalID: 3034395146588777204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 47
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206621b914f12d940800000000000000
+      internalID: 5319348476512986626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67787cc002ebdaa30800000000000000
+      internalID: 4228244670033397622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ac09ba4978da6f0800000000000000
+      internalID: -671731696805033346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe9b7bda94e22e60800000000000000
+      internalID: 7936156847138643708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5413ee41b5e9260800000000000000
+      internalID: 7106217407490901478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 31
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0669792b3e400fcf0800000000000000
+      internalID: -220671005740788128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea3ee0b56ca63070800000000000000
+      internalID: 8085839733750381290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c76b51781e23390800000000000000
+      internalID: -7839956030997496733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 15
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44c6d0f23d44e190800000000000000
+      internalID: -7934131762335660979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65ee66628d9888c0800000000000000
+      internalID: -3996771485901462163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LAB EQUIPMENT_31
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fcf204ac4826150800000000000000
+      internalID: 5864395668984942393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01 - LAB EQUIPMENT_0: 3923518793225443946
+      01 - LAB EQUIPMENT_1: 8861371485560305507
+      01 - LAB EQUIPMENT_10: -4503071286142607846
+      01 - LAB EQUIPMENT_11: 2621796274485456382
+      01 - LAB EQUIPMENT_12: 5111739359353554737
+      01 - LAB EQUIPMENT_13: 5593564452935788742
+      01 - LAB EQUIPMENT_14: 8873026426577917649
+      01 - LAB EQUIPMENT_15: -8069506362940829606
+      01 - LAB EQUIPMENT_16: -2547698485961305233
+      01 - LAB EQUIPMENT_17: 2167827767667190412
+      01 - LAB EQUIPMENT_18: -2822118912122267304
+      01 - LAB EQUIPMENT_19: 2356940023993862762
+      01 - LAB EQUIPMENT_2: -878041374345973433
+      01 - LAB EQUIPMENT_20: 3034395146588777204
+      01 - LAB EQUIPMENT_21: 5319348476512986626
+      01 - LAB EQUIPMENT_22: 4228244670033397622
+      01 - LAB EQUIPMENT_23: -671731696805033346
+      01 - LAB EQUIPMENT_24: 7936156847138643708
+      01 - LAB EQUIPMENT_25: 7106217407490901478
+      01 - LAB EQUIPMENT_26: -220671005740788128
+      01 - LAB EQUIPMENT_27: 8085839733750381290
+      01 - LAB EQUIPMENT_28: -7839956030997496733
+      01 - LAB EQUIPMENT_29: -7934131762335660979
+      01 - LAB EQUIPMENT_3: -494121575592609582
+      01 - LAB EQUIPMENT_30: -3996771485901462163
+      01 - LAB EQUIPMENT_31: 5864395668984942393
+      01 - LAB EQUIPMENT_4: 1255809182148472893
+      01 - LAB EQUIPMENT_5: 6593033100981305325
+      01 - LAB EQUIPMENT_6: 4353854614613410365
+      01 - LAB EQUIPMENT_7: 8879523712249537529
+      01 - LAB EQUIPMENT_8: -2217353993838870139
+      01 - LAB EQUIPMENT_9: -5678109448809312774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

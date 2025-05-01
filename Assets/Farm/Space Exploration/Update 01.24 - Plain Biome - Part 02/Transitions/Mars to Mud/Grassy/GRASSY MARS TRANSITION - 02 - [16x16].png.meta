@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: e3d4288ca0f7b524d861db302acaa069
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8992969598393346984
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_0
+  - first:
+      213: 6615192053714487746
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_1
+  - first:
+      213: 813717452792120724
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_2
+  - first:
+      213: 622023564561728949
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_3
+  - first:
+      213: -3675110727188287617
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_4
+  - first:
+      213: 2365971739565862743
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_5
+  - first:
+      213: 4547635676337122248
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_6
+  - first:
+      213: 6330919076998125644
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_7
+  - first:
+      213: -5512588634056206018
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_8
+  - first:
+      213: 2533538463995961840
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_9
+  - first:
+      213: -912760513859910181
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_10
+  - first:
+      213: -8486873740949007755
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_11
+  - first:
+      213: 6969389263906821493
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_12
+  - first:
+      213: -3950833850026482687
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_13
+  - first:
+      213: -7204917988851713763
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_14
+  - first:
+      213: 9066044099368548663
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_15
+  - first:
+      213: 1106510089314243814
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_16
+  - first:
+      213: 8193043363798727987
+    second: GRASSY MARS TRANSITION - 02 - [16x16]_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85490eb0ccd823380800000000000000
+      internalID: -8992969598393346984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c983a2cf12edcb50800000000000000
+      internalID: 6615192053714487746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495c53946b7ea4b00800000000000000
+      internalID: 813717452792120724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5cf97e22fd1a800800000000000000
+      internalID: 622023564561728949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fe6b3e3426ffcc0800000000000000
+      internalID: -3675110727188287617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75faf6df2ce95d020800000000000000
+      internalID: 2365971739565862743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cba7ff9d827c1f30800000000000000
+      internalID: 4547635676337122248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48973e9b51fbd750800000000000000
+      internalID: 6330919076998125644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39593228d95f73b0800000000000000
+      internalID: -5512588634056206018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a44b4fcfe82320800000000000000
+      internalID: 2533538463995961840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5806e06293553f0800000000000000
+      internalID: -912760513859910181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d4294c41983a80800000000000000
+      internalID: -8486873740949007755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57556903c9e38b060800000000000000
+      internalID: 6969389263906821493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104259abb81db29c0800000000000000
+      internalID: -3950833850026482687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19fbae234df20c90800000000000000
+      internalID: -7204917988851713763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73973ec031f01dd70800000000000000
+      internalID: 9066044099368548663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e416fd401d1b5f00800000000000000
+      internalID: 1106510089314243814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASSY MARS TRANSITION - 02 - [16x16]_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d3890e78983b170800000000000000
+      internalID: 8193043363798727987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRASSY MARS TRANSITION - 02 - [16x16]_0: -8992969598393346984
+      GRASSY MARS TRANSITION - 02 - [16x16]_1: 6615192053714487746
+      GRASSY MARS TRANSITION - 02 - [16x16]_10: -912760513859910181
+      GRASSY MARS TRANSITION - 02 - [16x16]_11: -8486873740949007755
+      GRASSY MARS TRANSITION - 02 - [16x16]_12: 6969389263906821493
+      GRASSY MARS TRANSITION - 02 - [16x16]_13: -3950833850026482687
+      GRASSY MARS TRANSITION - 02 - [16x16]_14: -7204917988851713763
+      GRASSY MARS TRANSITION - 02 - [16x16]_15: 9066044099368548663
+      GRASSY MARS TRANSITION - 02 - [16x16]_16: 1106510089314243814
+      GRASSY MARS TRANSITION - 02 - [16x16]_17: 8193043363798727987
+      GRASSY MARS TRANSITION - 02 - [16x16]_2: 813717452792120724
+      GRASSY MARS TRANSITION - 02 - [16x16]_3: 622023564561728949
+      GRASSY MARS TRANSITION - 02 - [16x16]_4: -3675110727188287617
+      GRASSY MARS TRANSITION - 02 - [16x16]_5: 2365971739565862743
+      GRASSY MARS TRANSITION - 02 - [16x16]_6: 4547635676337122248
+      GRASSY MARS TRANSITION - 02 - [16x16]_7: 6330919076998125644
+      GRASSY MARS TRANSITION - 02 - [16x16]_8: -5512588634056206018
+      GRASSY MARS TRANSITION - 02 - [16x16]_9: 2533538463995961840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: b3debdea6fa00e34f98ed2bd8c6c4e1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2419697067690774343
+    second: 01.00 - TRANSPARENT BOXES - SMALL_0
+  - first:
+      213: -767765244551482778
+    second: 01.00 - TRANSPARENT BOXES - SMALL_1
+  - first:
+      213: -4558589584648312528
+    second: 01.00 - TRANSPARENT BOXES - SMALL_2
+  - first:
+      213: -1059606651680399341
+    second: 01.00 - TRANSPARENT BOXES - SMALL_3
+  - first:
+      213: 4973924440854718580
+    second: 01.00 - TRANSPARENT BOXES - SMALL_4
+  - first:
+      213: -7959543632636453860
+    second: 01.00 - TRANSPARENT BOXES - SMALL_5
+  - first:
+      213: -8031907291132564436
+    second: 01.00 - TRANSPARENT BOXES - SMALL_6
+  - first:
+      213: 1192052776559105680
+    second: 01.00 - TRANSPARENT BOXES - SMALL_7
+  - first:
+      213: -7304335729567367932
+    second: 01.00 - TRANSPARENT BOXES - SMALL_8
+  - first:
+      213: -7548540006042431608
+    second: 01.00 - TRANSPARENT BOXES - SMALL_9
+  - first:
+      213: -4333581156226479830
+    second: 01.00 - TRANSPARENT BOXES - SMALL_10
+  - first:
+      213: 8427341413056189689
+    second: 01.00 - TRANSPARENT BOXES - SMALL_11
+  - first:
+      213: 2124565329864364415
+    second: 01.00 - TRANSPARENT BOXES - SMALL_12
+  - first:
+      213: -146774729481933306
+    second: 01.00 - TRANSPARENT BOXES - SMALL_13
+  - first:
+      213: 5092054462145798764
+    second: 01.00 - TRANSPARENT BOXES - SMALL_14
+  - first:
+      213: -2370080859436186645
+    second: 01.00 - TRANSPARENT BOXES - SMALL_15
+  - first:
+      213: -8666990713702389331
+    second: 01.00 - TRANSPARENT BOXES - SMALL_16
+  - first:
+      213: 4446555389569390630
+    second: 01.00 - TRANSPARENT BOXES - SMALL_17
+  - first:
+      213: -657234001359754021
+    second: 01.00 - TRANSPARENT BOXES - SMALL_18
+  - first:
+      213: -6376063470978705792
+    second: 01.00 - TRANSPARENT BOXES - SMALL_19
+  - first:
+      213: -922825658224449373
+    second: 01.00 - TRANSPARENT BOXES - SMALL_20
+  - first:
+      213: 6784608079350150659
+    second: 01.00 - TRANSPARENT BOXES - SMALL_21
+  - first:
+      213: -1594940644937520823
+    second: 01.00 - TRANSPARENT BOXES - SMALL_22
+  - first:
+      213: 5807990714409233552
+    second: 01.00 - TRANSPARENT BOXES - SMALL_23
+  - first:
+      213: 6563722235767918872
+    second: 01.00 - TRANSPARENT BOXES - SMALL_24
+  - first:
+      213: -6818327331371069535
+    second: 01.00 - TRANSPARENT BOXES - SMALL_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0bc3846528b6ed0800000000000000
+      internalID: -2419697067690774343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6623e9fe3995855f0800000000000000
+      internalID: -767765244551482778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039ed3adce2acb0c0800000000000000
+      internalID: -4558589584648312528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310e2f44d558b41f0800000000000000
+      internalID: -1059606651680399341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47867cc0dede60540800000000000000
+      internalID: 4973924440854718580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c5b72dc350a8190800000000000000
+      internalID: -7959543632636453860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 98
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c6c23afdee88090800000000000000
+      internalID: -8031907291132564436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 79
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096d25c3fa50b8010800000000000000
+      internalID: 1192052776559105680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d71fe9a59c1aa90800000000000000
+      internalID: -7304335729567367932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f040fbbd23e3790800000000000000
+      internalID: -7548540006042431608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a294bc116e60cd3c0800000000000000
+      internalID: -4333581156226479830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4172e7d5ee3f470800000000000000
+      internalID: 8427341413056189689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711dac39e8fb7d10800000000000000
+      internalID: 2124565329864364415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ea933492d86fdf0800000000000000
+      internalID: -146774729481933306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62a421fd8c9aa640800000000000000
+      internalID: 5092054462145798764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 51
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be38a5cf308cb1fd0800000000000000
+      internalID: -2370080859436186645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 50
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e8269dd9a8b780800000000000000
+      internalID: -8666990713702389331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d165619655bd30800000000000000
+      internalID: 4446555389569390630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdca4ae682901e6f0800000000000000
+      internalID: -657234001359754021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08658f21e0ca387a0800000000000000
+      internalID: -6376063470978705792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a86ae304f67133f0800000000000000
+      internalID: -922825658224449373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30639ed0a15c72e50800000000000000
+      internalID: 6784608079350150659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949aaac0fe1add9e0800000000000000
+      internalID: -1594940644937520823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c212f58c02a9050800000000000000
+      internalID: 5807990714409233552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811974be896071b50800000000000000
+      internalID: 6563722235767918872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.00 - TRANSPARENT BOXES - SMALL_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af4a4bca6f6061a0800000000000000
+      internalID: -6818327331371069535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01.00 - TRANSPARENT BOXES - SMALL_0: -2419697067690774343
+      01.00 - TRANSPARENT BOXES - SMALL_1: -767765244551482778
+      01.00 - TRANSPARENT BOXES - SMALL_10: -4333581156226479830
+      01.00 - TRANSPARENT BOXES - SMALL_11: 8427341413056189689
+      01.00 - TRANSPARENT BOXES - SMALL_12: 2124565329864364415
+      01.00 - TRANSPARENT BOXES - SMALL_13: -146774729481933306
+      01.00 - TRANSPARENT BOXES - SMALL_14: 5092054462145798764
+      01.00 - TRANSPARENT BOXES - SMALL_15: -2370080859436186645
+      01.00 - TRANSPARENT BOXES - SMALL_16: -8666990713702389331
+      01.00 - TRANSPARENT BOXES - SMALL_17: 4446555389569390630
+      01.00 - TRANSPARENT BOXES - SMALL_18: -657234001359754021
+      01.00 - TRANSPARENT BOXES - SMALL_19: -6376063470978705792
+      01.00 - TRANSPARENT BOXES - SMALL_2: -4558589584648312528
+      01.00 - TRANSPARENT BOXES - SMALL_20: -922825658224449373
+      01.00 - TRANSPARENT BOXES - SMALL_21: 6784608079350150659
+      01.00 - TRANSPARENT BOXES - SMALL_22: -1594940644937520823
+      01.00 - TRANSPARENT BOXES - SMALL_23: 5807990714409233552
+      01.00 - TRANSPARENT BOXES - SMALL_24: 6563722235767918872
+      01.00 - TRANSPARENT BOXES - SMALL_25: -6818327331371069535
+      01.00 - TRANSPARENT BOXES - SMALL_3: -1059606651680399341
+      01.00 - TRANSPARENT BOXES - SMALL_4: 4973924440854718580
+      01.00 - TRANSPARENT BOXES - SMALL_5: -7959543632636453860
+      01.00 - TRANSPARENT BOXES - SMALL_6: -8031907291132564436
+      01.00 - TRANSPARENT BOXES - SMALL_7: 1192052776559105680
+      01.00 - TRANSPARENT BOXES - SMALL_8: -7304335729567367932
+      01.00 - TRANSPARENT BOXES - SMALL_9: -7548540006042431608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

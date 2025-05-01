@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: e928eb6647d744743b54c0983b44dae6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8172490508673336948
+    second: Stationary idle loop 01.01 (Right)_0
+  - first:
+      213: 3631795404529209561
+    second: Stationary idle loop 01.01 (Right)_1
+  - first:
+      213: -1055608516461350386
+    second: Stationary idle loop 01.01 (Right)_2
+  - first:
+      213: -2466111107188854782
+    second: Stationary idle loop 01.01 (Right)_3
+  - first:
+      213: 5813915518727642552
+    second: Stationary idle loop 01.01 (Right)_4
+  - first:
+      213: 4203446511771941693
+    second: Stationary idle loop 01.01 (Right)_5
+  - first:
+      213: 2169289688518531130
+    second: Stationary idle loop 01.01 (Right)_6
+  - first:
+      213: 7853250909908749110
+    second: Stationary idle loop 01.01 (Right)_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89364c9e2b759e80800000000000000
+      internalID: -8172490508673336948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 18
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d01cd7adaab66230800000000000000
+      internalID: 3631795404529209561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02b17aa5a9b951f0800000000000000
+      internalID: -1055608516461350386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200fc57930d96cdd0800000000000000
+      internalID: -2466111107188854782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd54ef5c5d2fa050800000000000000
+      internalID: 5813915518727642552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 18
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b7586e454a55a30800000000000000
+      internalID: 4203446511771941693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3890137a7dda1e10800000000000000
+      internalID: 2169289688518531130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stationary idle loop 01.01 (Right)_7
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 16
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bcf11281a5cfc60800000000000000
+      internalID: 7853250909908749110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stationary idle loop 01.01 (Right)_0: -8172490508673336948
+      Stationary idle loop 01.01 (Right)_1: 3631795404529209561
+      Stationary idle loop 01.01 (Right)_2: -1055608516461350386
+      Stationary idle loop 01.01 (Right)_3: -2466111107188854782
+      Stationary idle loop 01.01 (Right)_4: 5813915518727642552
+      Stationary idle loop 01.01 (Right)_5: 4203446511771941693
+      Stationary idle loop 01.01 (Right)_6: 2169289688518531130
+      Stationary idle loop 01.01 (Right)_7: 7853250909908749110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
