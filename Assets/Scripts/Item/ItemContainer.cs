@@ -1,7 +1,11 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+
+// 에디터 전용이므로 에디터에서만 using 되도록 분기처리 
+#if UNITY_EDITOR
 using static UnityEditor.Progress;
+#endif
 
 [Serializable]
 public class ItemSlot
