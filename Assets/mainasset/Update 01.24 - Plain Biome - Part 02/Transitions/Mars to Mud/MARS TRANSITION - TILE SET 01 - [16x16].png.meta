@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: f0b697e6db3c4c047aa5a8669f177528
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -255305952097437788
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_0
+  - first:
+      213: -2902679582568313009
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_1
+  - first:
+      213: 377347484310575307
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_2
+  - first:
+      213: -2127792789491972228
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_3
+  - first:
+      213: -8946295855237057231
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_4
+  - first:
+      213: 8382047340037102380
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_5
+  - first:
+      213: -4592238508952917596
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_6
+  - first:
+      213: -4102340205379981766
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_7
+  - first:
+      213: 6360936097700774564
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_8
+  - first:
+      213: 1858441662686672602
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_9
+  - first:
+      213: -3016502205125517112
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_10
+  - first:
+      213: -4695386406921867342
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_11
+  - first:
+      213: 5998396654485780658
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_12
+  - first:
+      213: -1944643596801054776
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_13
+  - first:
+      213: -3004533774386868159
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_14
+  - first:
+      213: -6182126915808133420
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_15
+  - first:
+      213: -6818509130743104978
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_16
+  - first:
+      213: -7753872446659894836
+    second: MARS TRANSITION - TILE SET 01 - [16x16]_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a77038d698f47cf0800000000000000
+      internalID: -255305952097437788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f8c387c4c97b7d0800000000000000
+      internalID: -2902679582568313009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc81837a98b9c3500800000000000000
+      internalID: 377347484310575307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7781b24bbf8872e0800000000000000
+      internalID: -2127792789491972228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135bb05b15f58d380800000000000000
+      internalID: -8946295855237057231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b5b6155a3035470800000000000000
+      internalID: 8382047340037102380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9edf528671540c0800000000000000
+      internalID: -4592238508952917596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ee58e715f8117c0800000000000000
+      internalID: -4102340205379981766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20a6edda5964850800000000000000
+      internalID: 6360936097700774564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6b93488d28ac910800000000000000
+      internalID: 1858441662686672602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0af4ff93b3326d0800000000000000
+      internalID: -3016502205125517112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf693ca0f2a6deb0800000000000000
+      internalID: -4695386406921867342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b83484f9f59e3350800000000000000
+      internalID: 5998396654485780658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c76feda3fc3305e0800000000000000
+      internalID: -1944643596801054776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140d10e6370cd46d0800000000000000
+      internalID: -3004533774386868159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deffda035ca43aa0800000000000000
+      internalID: -6182126915808133420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abc44521acf51a0800000000000000
+      internalID: -6818509130743104978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MARS TRANSITION - TILE SET 01 - [16x16]_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1e52f6716b46490800000000000000
+      internalID: -7753872446659894836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MARS TRANSITION - TILE SET 01 - [16x16]_0: -255305952097437788
+      MARS TRANSITION - TILE SET 01 - [16x16]_1: -2902679582568313009
+      MARS TRANSITION - TILE SET 01 - [16x16]_10: -3016502205125517112
+      MARS TRANSITION - TILE SET 01 - [16x16]_11: -4695386406921867342
+      MARS TRANSITION - TILE SET 01 - [16x16]_12: 5998396654485780658
+      MARS TRANSITION - TILE SET 01 - [16x16]_13: -1944643596801054776
+      MARS TRANSITION - TILE SET 01 - [16x16]_14: -3004533774386868159
+      MARS TRANSITION - TILE SET 01 - [16x16]_15: -6182126915808133420
+      MARS TRANSITION - TILE SET 01 - [16x16]_16: -6818509130743104978
+      MARS TRANSITION - TILE SET 01 - [16x16]_17: -7753872446659894836
+      MARS TRANSITION - TILE SET 01 - [16x16]_2: 377347484310575307
+      MARS TRANSITION - TILE SET 01 - [16x16]_3: -2127792789491972228
+      MARS TRANSITION - TILE SET 01 - [16x16]_4: -8946295855237057231
+      MARS TRANSITION - TILE SET 01 - [16x16]_5: 8382047340037102380
+      MARS TRANSITION - TILE SET 01 - [16x16]_6: -4592238508952917596
+      MARS TRANSITION - TILE SET 01 - [16x16]_7: -4102340205379981766
+      MARS TRANSITION - TILE SET 01 - [16x16]_8: 6360936097700774564
+      MARS TRANSITION - TILE SET 01 - [16x16]_9: 1858441662686672602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

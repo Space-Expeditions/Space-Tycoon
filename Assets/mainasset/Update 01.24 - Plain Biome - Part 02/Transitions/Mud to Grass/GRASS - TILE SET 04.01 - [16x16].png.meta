@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: fdf86f311dfb5de46b1b9b8b235c5bbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3899235553698928746
+    second: GRASS - TILE SET 04.01 - [16x16]_0
+  - first:
+      213: 3753208940104675779
+    second: GRASS - TILE SET 04.01 - [16x16]_1
+  - first:
+      213: -8311883879947322870
+    second: GRASS - TILE SET 04.01 - [16x16]_2
+  - first:
+      213: 8140991573419954944
+    second: GRASS - TILE SET 04.01 - [16x16]_3
+  - first:
+      213: -8059202939517967388
+    second: GRASS - TILE SET 04.01 - [16x16]_4
+  - first:
+      213: 8932866036373051657
+    second: GRASS - TILE SET 04.01 - [16x16]_5
+  - first:
+      213: -697711759103781914
+    second: GRASS - TILE SET 04.01 - [16x16]_6
+  - first:
+      213: -1255667270606311508
+    second: GRASS - TILE SET 04.01 - [16x16]_7
+  - first:
+      213: -956754970156719052
+    second: GRASS - TILE SET 04.01 - [16x16]_8
+  - first:
+      213: 6991968821778438241
+    second: GRASS - TILE SET 04.01 - [16x16]_9
+  - first:
+      213: -2696508502094983837
+    second: GRASS - TILE SET 04.01 - [16x16]_10
+  - first:
+      213: -5600647316341436400
+    second: GRASS - TILE SET 04.01 - [16x16]_11
+  - first:
+      213: 2591353886767878493
+    second: GRASS - TILE SET 04.01 - [16x16]_12
+  - first:
+      213: -5727317216610650170
+    second: GRASS - TILE SET 04.01 - [16x16]_13
+  - first:
+      213: 5508354655295382535
+    second: GRASS - TILE SET 04.01 - [16x16]_14
+  - first:
+      213: -9037828047205907195
+    second: GRASS - TILE SET 04.01 - [16x16]_15
+  - first:
+      213: 3971258997762456803
+    second: GRASS - TILE SET 04.01 - [16x16]_16
+  - first:
+      213: 7633612885343085384
+    second: GRASS - TILE SET 04.01 - [16x16]_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 207
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a685cc9b31edc1630800000000000000
+      internalID: 3899235553698928746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c172ca45a3161430800000000000000
+      internalID: 3753208940104675779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab17146a146ac80800000000000000
+      internalID: -8311883879947322870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003152504bc9af070800000000000000
+      internalID: 8140991573419954944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e36f3140a5f72090800000000000000
+      internalID: -8059202939517967388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909da2ce45ae7fb70800000000000000
+      internalID: 8932866036373051657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3910b0ada3156f0800000000000000
+      internalID: -697711759103781914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf2d6b2549f29ee0800000000000000
+      internalID: -1255667270606311508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43428ba7c6ce8b2f0800000000000000
+      internalID: -956754970156719052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168d5be2996780160800000000000000
+      internalID: 6991968821778438241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_10
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dcec6ddc3149ad0800000000000000
+      internalID: -2696508502094983837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010593570f08642b0800000000000000
+      internalID: -5600647316341436400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51902461a656f320800000000000000
+      internalID: 2591353886767878493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c771fb065b7480b0800000000000000
+      internalID: -5727317216610650170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70420cddf5b917c40800000000000000
+      internalID: 5508354655295382535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505ca39864f239280800000000000000
+      internalID: -9037828047205907195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec74b0940fbc1730800000000000000
+      internalID: 3971258997762456803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GRASS - TILE SET 04.01 - [16x16]_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84328bf797a00f960800000000000000
+      internalID: 7633612885343085384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GRASS - TILE SET 04.01 - [16x16]_0: 3899235553698928746
+      GRASS - TILE SET 04.01 - [16x16]_1: 3753208940104675779
+      GRASS - TILE SET 04.01 - [16x16]_10: -2696508502094983837
+      GRASS - TILE SET 04.01 - [16x16]_11: -5600647316341436400
+      GRASS - TILE SET 04.01 - [16x16]_12: 2591353886767878493
+      GRASS - TILE SET 04.01 - [16x16]_13: -5727317216610650170
+      GRASS - TILE SET 04.01 - [16x16]_14: 5508354655295382535
+      GRASS - TILE SET 04.01 - [16x16]_15: -9037828047205907195
+      GRASS - TILE SET 04.01 - [16x16]_16: 3971258997762456803
+      GRASS - TILE SET 04.01 - [16x16]_17: 7633612885343085384
+      GRASS - TILE SET 04.01 - [16x16]_2: -8311883879947322870
+      GRASS - TILE SET 04.01 - [16x16]_3: 8140991573419954944
+      GRASS - TILE SET 04.01 - [16x16]_4: -8059202939517967388
+      GRASS - TILE SET 04.01 - [16x16]_5: 8932866036373051657
+      GRASS - TILE SET 04.01 - [16x16]_6: -697711759103781914
+      GRASS - TILE SET 04.01 - [16x16]_7: -1255667270606311508
+      GRASS - TILE SET 04.01 - [16x16]_8: -956754970156719052
+      GRASS - TILE SET 04.01 - [16x16]_9: 6991968821778438241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

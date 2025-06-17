@@ -1,0 +1,20 @@
+using UnityEngine;
+
+public class InventoryController : MonoBehaviour
+{
+    [SerializeField] GameObject panel;
+    [SerializeField] GameObject toolbarPanel;
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            panel.SetActive(!panel.activeInHierarchy);
+            toolbarPanel.SetActive(!toolbarPanel.activeInHierarchy);
+        }
+    }
+    public bool IsOpen()
+    {
+        return panel.activeInHierarchy;
+    }
+}
