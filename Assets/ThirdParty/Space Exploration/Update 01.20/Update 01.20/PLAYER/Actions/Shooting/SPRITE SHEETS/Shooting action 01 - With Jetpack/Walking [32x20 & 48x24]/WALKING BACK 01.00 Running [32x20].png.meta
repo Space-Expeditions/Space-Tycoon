@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: df2b26978ef3bf64e93230af26f2d779
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4461544374222811913
+    second: WALKING BACK 01.00 Running [32x20]_0
+  - first:
+      213: 2356379640733692231
+    second: WALKING BACK 01.00 Running [32x20]_1
+  - first:
+      213: -4297079637282940045
+    second: WALKING BACK 01.00 Running [32x20]_2
+  - first:
+      213: -606542187231828375
+    second: WALKING BACK 01.00 Running [32x20]_3
+  - first:
+      213: 3497630665846809738
+    second: WALKING BACK 01.00 Running [32x20]_4
+  - first:
+      213: -5183292694858993970
+    second: WALKING BACK 01.00 Running [32x20]_5
+  - first:
+      213: -6078926353060289102
+    second: WALKING BACK 01.00 Running [32x20]_6
+  - first:
+      213: 4493802849414535659
+    second: WALKING BACK 01.00 Running [32x20]_7
+  - first:
+      213: 4441454730629530429
+    second: WALKING BACK 01.00 Running [32x20]_8
+  - first:
+      213: 2449049310594221482
+    second: WALKING BACK 01.00 Running [32x20]_9
+  - first:
+      213: -8708901664575841331
+    second: WALKING BACK 01.00 Running [32x20]_10
+  - first:
+      213: 4666633940471572196
+    second: WALKING BACK 01.00 Running [32x20]_11
+  - first:
+      213: 1989360094333874903
+    second: WALKING BACK 01.00 Running [32x20]_12
+  - first:
+      213: 7082516342766561702
+    second: WALKING BACK 01.00 Running [32x20]_13
+  - first:
+      213: -3178249559886758378
+    second: WALKING BACK 01.00 Running [32x20]_14
+  - first:
+      213: -7714902560616999928
+    second: WALKING BACK 01.00 Running [32x20]_15
+  - first:
+      213: 423953163721876356
+    second: WALKING BACK 01.00 Running [32x20]_16
+  - first:
+      213: 5384861102271896002
+    second: WALKING BACK 01.00 Running [32x20]_17
+  - first:
+      213: 1320729210671871362
+    second: WALKING BACK 01.00 Running [32x20]_18
+  - first:
+      213: -2051848679941954012
+    second: WALKING BACK 01.00 Running [32x20]_19
+  - first:
+      213: 8212281790061090336
+    second: WALKING BACK 01.00 Running [32x20]_20
+  - first:
+      213: -317114984883258104
+    second: WALKING BACK 01.00 Running [32x20]_21
+  - first:
+      213: -8203698444411086687
+    second: WALKING BACK 01.00 Running [32x20]_22
+  - first:
+      213: 4597174436467296316
+    second: WALKING BACK 01.00 Running [32x20]_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903713758f69aed30800000000000000
+      internalID: 4461544374222811913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741f4e17cca83b020800000000000000
+      internalID: 2356379640733692231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b9f2836d4bd54c0800000000000000
+      internalID: -4297079637282940045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96622c428112597f0800000000000000
+      internalID: -606542187231828375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84ef413f841a8030800000000000000
+      internalID: 3497630665846809738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece6d0c91ce3118b0800000000000000
+      internalID: -5183292694858993970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5a41e70b053aba0800000000000000
+      internalID: -6078926353060289102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9ddf1e1e13d5e30800000000000000
+      internalID: 4493802849414535659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33c621bb8733ad30800000000000000
+      internalID: 4441454730629530429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa542635f55ccf120800000000000000
+      internalID: 2449049310594221482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb162be314c32780800000000000000
+      internalID: -8708901664575841331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6e69e08d633c040800000000000000
+      internalID: 4666633940471572196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2bb193770ab9b10800000000000000
+      internalID: 1989360094333874903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ef76c6172a4260800000000000000
+      internalID: 7082516342766561702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e78674dd694e3d0800000000000000
+      internalID: -3178249559886758378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041ca51ff82fe490800000000000000
+      internalID: -7714902560616999928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ab0df72f22e500800000000000000
+      internalID: 423953163721876356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c91cbd64aedaba40800000000000000
+      internalID: 5384861102271896002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_18
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2853496383c245210800000000000000
+      internalID: 1320729210671871362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a43b2f7e5683e0800000000000000
+      internalID: -2051848679941954012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026100c07c2e7f170800000000000000
+      internalID: 8212281790061090336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d7415f991699bf0800000000000000
+      internalID: -317114984883258104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_22
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d378dabb962e80800000000000000
+      internalID: -8203698444411086687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING BACK 01.00 Running [32x20]_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38c3280bc17ccf30800000000000000
+      internalID: 4597174436467296316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WALKING BACK 01.00 Running [32x20]_0: 4461544374222811913
+      WALKING BACK 01.00 Running [32x20]_1: 2356379640733692231
+      WALKING BACK 01.00 Running [32x20]_10: -8708901664575841331
+      WALKING BACK 01.00 Running [32x20]_11: 4666633940471572196
+      WALKING BACK 01.00 Running [32x20]_12: 1989360094333874903
+      WALKING BACK 01.00 Running [32x20]_13: 7082516342766561702
+      WALKING BACK 01.00 Running [32x20]_14: -3178249559886758378
+      WALKING BACK 01.00 Running [32x20]_15: -7714902560616999928
+      WALKING BACK 01.00 Running [32x20]_16: 423953163721876356
+      WALKING BACK 01.00 Running [32x20]_17: 5384861102271896002
+      WALKING BACK 01.00 Running [32x20]_18: 1320729210671871362
+      WALKING BACK 01.00 Running [32x20]_19: -2051848679941954012
+      WALKING BACK 01.00 Running [32x20]_2: -4297079637282940045
+      WALKING BACK 01.00 Running [32x20]_20: 8212281790061090336
+      WALKING BACK 01.00 Running [32x20]_21: -317114984883258104
+      WALKING BACK 01.00 Running [32x20]_22: -8203698444411086687
+      WALKING BACK 01.00 Running [32x20]_23: 4597174436467296316
+      WALKING BACK 01.00 Running [32x20]_3: -606542187231828375
+      WALKING BACK 01.00 Running [32x20]_4: 3497630665846809738
+      WALKING BACK 01.00 Running [32x20]_5: -5183292694858993970
+      WALKING BACK 01.00 Running [32x20]_6: -6078926353060289102
+      WALKING BACK 01.00 Running [32x20]_7: 4493802849414535659
+      WALKING BACK 01.00 Running [32x20]_8: 4441454730629530429
+      WALKING BACK 01.00 Running [32x20]_9: 2449049310594221482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

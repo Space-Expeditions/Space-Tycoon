@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: c8fa86ee24e15784e833ec358819a03d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1303735318815661693
+    second: WALKING FRONT 01.00 [32x20]_0
+  - first:
+      213: -5455485445187327894
+    second: WALKING FRONT 01.00 [32x20]_1
+  - first:
+      213: 5639921322737475617
+    second: WALKING FRONT 01.00 [32x20]_2
+  - first:
+      213: 6531668683268957141
+    second: WALKING FRONT 01.00 [32x20]_3
+  - first:
+      213: -418337757365223859
+    second: WALKING FRONT 01.00 [32x20]_4
+  - first:
+      213: -909905650723221635
+    second: WALKING FRONT 01.00 [32x20]_5
+  - first:
+      213: -2369052901290618911
+    second: WALKING FRONT 01.00 [32x20]_6
+  - first:
+      213: 3616773749804601456
+    second: WALKING FRONT 01.00 [32x20]_7
+  - first:
+      213: 3557638336847897962
+    second: WALKING FRONT 01.00 [32x20]_8
+  - first:
+      213: -687454165110002719
+    second: WALKING FRONT 01.00 [32x20]_9
+  - first:
+      213: -5061438943168890688
+    second: WALKING FRONT 01.00 [32x20]_10
+  - first:
+      213: 6014061359084045822
+    second: WALKING FRONT 01.00 [32x20]_11
+  - first:
+      213: 241588382019724006
+    second: WALKING FRONT 01.00 [32x20]_12
+  - first:
+      213: -3484364118347178020
+    second: WALKING FRONT 01.00 [32x20]_13
+  - first:
+      213: 6091578660893174490
+    second: WALKING FRONT 01.00 [32x20]_14
+  - first:
+      213: -9062878585411859305
+    second: WALKING FRONT 01.00 [32x20]_15
+  - first:
+      213: 2920741077048486122
+    second: WALKING FRONT 01.00 [32x20]_16
+  - first:
+      213: -1779904024230675092
+    second: WALKING FRONT 01.00 [32x20]_17
+  - first:
+      213: 4799826641412104657
+    second: WALKING FRONT 01.00 [32x20]_18
+  - first:
+      213: -8140380705486667989
+    second: WALKING FRONT 01.00 [32x20]_19
+  - first:
+      213: 7525630509072470535
+    second: WALKING FRONT 01.00 [32x20]_20
+  - first:
+      213: 3331941268745780013
+    second: WALKING FRONT 01.00 [32x20]_21
+  - first:
+      213: -2503503374800688999
+    second: WALKING FRONT 01.00 [32x20]_22
+  - first:
+      213: 9208973959727904858
+    second: WALKING FRONT 01.00 [32x20]_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381acd092a338ede0800000000000000
+      internalID: -1303735318815661693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ab4a54e83a44b0800000000000000
+      internalID: -5455485445187327894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1202beabf86054e40800000000000000
+      internalID: 5639921322737475617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d32ac8af0625aa50800000000000000
+      internalID: 6531668683268957141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ebc10b604c13af0800000000000000
+      internalID: -418337757365223859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f858da1ad5f53f0800000000000000
+      internalID: -909905650723221635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efc67420fe6f1fd0800000000000000
+      internalID: -2369052901290618911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0709f0e109c513230800000000000000
+      internalID: 3616773749804601456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65612bd7354f5130800000000000000
+      internalID: 3557638336847897962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb6141441ca576f0800000000000000
+      internalID: -687454165110002719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8f61c091822c9b0800000000000000
+      internalID: -5061438943168890688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_11
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef58b9531fc367350800000000000000
+      internalID: 6014061359084045822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2a52c7a5b4a5300800000000000000
+      internalID: 241588382019724006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf9cc99b4d05afc0800000000000000
+      internalID: -3484364118347178020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_14
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada23eb7482a98450800000000000000
+      internalID: 6091578660893174490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c080a91ff2a3280800000000000000
+      internalID: -9062878585411859305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_16
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8ed5ae88e888820800000000000000
+      internalID: 2920741077048486122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_17
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d317568b28c47e0800000000000000
+      internalID: -1779904024230675092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_18
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d123d856e86c9240800000000000000
+      internalID: 4799826641412104657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ff501c0ee870f80800000000000000
+      internalID: -8140380705486667989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7025b145319607860800000000000000
+      internalID: 7525630509072470535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b7e083eee6d3e20800000000000000
+      internalID: 3331941268745780013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_22
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998630bd1f4c14dd0800000000000000
+      internalID: -2503503374800688999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WALKING FRONT 01.00 [32x20]_23
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58776f6609dccf70800000000000000
+      internalID: 9208973959727904858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WALKING FRONT 01.00 [32x20]_0: -1303735318815661693
+      WALKING FRONT 01.00 [32x20]_1: -5455485445187327894
+      WALKING FRONT 01.00 [32x20]_10: -5061438943168890688
+      WALKING FRONT 01.00 [32x20]_11: 6014061359084045822
+      WALKING FRONT 01.00 [32x20]_12: 241588382019724006
+      WALKING FRONT 01.00 [32x20]_13: -3484364118347178020
+      WALKING FRONT 01.00 [32x20]_14: 6091578660893174490
+      WALKING FRONT 01.00 [32x20]_15: -9062878585411859305
+      WALKING FRONT 01.00 [32x20]_16: 2920741077048486122
+      WALKING FRONT 01.00 [32x20]_17: -1779904024230675092
+      WALKING FRONT 01.00 [32x20]_18: 4799826641412104657
+      WALKING FRONT 01.00 [32x20]_19: -8140380705486667989
+      WALKING FRONT 01.00 [32x20]_2: 5639921322737475617
+      WALKING FRONT 01.00 [32x20]_20: 7525630509072470535
+      WALKING FRONT 01.00 [32x20]_21: 3331941268745780013
+      WALKING FRONT 01.00 [32x20]_22: -2503503374800688999
+      WALKING FRONT 01.00 [32x20]_23: 9208973959727904858
+      WALKING FRONT 01.00 [32x20]_3: 6531668683268957141
+      WALKING FRONT 01.00 [32x20]_4: -418337757365223859
+      WALKING FRONT 01.00 [32x20]_5: -909905650723221635
+      WALKING FRONT 01.00 [32x20]_6: -2369052901290618911
+      WALKING FRONT 01.00 [32x20]_7: 3616773749804601456
+      WALKING FRONT 01.00 [32x20]_8: 3557638336847897962
+      WALKING FRONT 01.00 [32x20]_9: -687454165110002719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

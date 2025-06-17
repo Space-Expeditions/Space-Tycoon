@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: cda9c5e04780511469f1fa2a24c8f458
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3320274655224036955
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_0'
+  - first:
+      213: -8526142370222506721
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_1'
+  - first:
+      213: 5706121500180789400
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_2'
+  - first:
+      213: -7333604966214392862
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_3'
+  - first:
+      213: -8396796122891940212
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_4'
+  - first:
+      213: 6986334355559661656
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_5'
+  - first:
+      213: 4908608104082224820
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_6'
+  - first:
+      213: 6915107391232428091
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_7'
+  - first:
+      213: 1540516227413325354
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_8'
+  - first:
+      213: 6565146959917475766
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_9'
+  - first:
+      213: 95370390935369065
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_10'
+  - first:
+      213: -8949534359425332176
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_11'
+  - first:
+      213: 7955711122460297072
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_12'
+  - first:
+      213: -6190341478375956748
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_13'
+  - first:
+      213: 1737550188344733245
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_14'
+  - first:
+      213: 7539997440648387029
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_15'
+  - first:
+      213: -1359677856612711851
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_16'
+  - first:
+      213: 4453931148827967870
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_17'
+  - first:
+      213: 638513955853769623
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_18'
+  - first:
+      213: 5882446407231182722
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_19'
+  - first:
+      213: 8010523423821219280
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_20'
+  - first:
+      213: 8778044430987719510
+    second: '[32x20] 01.00 - SHOOT SIDEWAYS_21'
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_0'
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a183aaeac30ce1d0800000000000000
+      internalID: -3320274655224036955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_1'
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dfa7e00be0da980800000000000000
+      internalID: -8526142370222506721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_2'
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898be77a547303f40800000000000000
+      internalID: 5706121500180789400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_3'
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e320c9632dc93a90800000000000000
+      internalID: -7333604966214392862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_4'
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e06a31a66987b80800000000000000
+      internalID: -8396796122891940212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_5'
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850cd39c41274f060800000000000000
+      internalID: 6986334355559661656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_6'
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6bc615011ee1440800000000000000
+      internalID: 4908608104082224820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_7'
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b384616d88567ff50800000000000000
+      internalID: 6915107391232428091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_8'
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2632b9c853016510800000000000000
+      internalID: 1540516227413325354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_9'
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7ed1c50661c1b50800000000000000
+      internalID: 6565146959917475766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_10'
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965fac18dd2d25100800000000000000
+      internalID: 95370390935369065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_11'
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ccc41baeddcc380800000000000000
+      internalID: -8949534359425332176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_12'
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077cedd5d1d586e60800000000000000
+      internalID: 7955711122460297072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_13'
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fed807293d771aa0800000000000000
+      internalID: -6190341478375956748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_14'
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e63bbb0b40d1810800000000000000
+      internalID: 1737550188344733245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_15'
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9933149b373a860800000000000000
+      internalID: 7539997440648387029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_16'
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55282ab7134712de0800000000000000
+      internalID: -1359677856612711851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_17'
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 0
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7140fb28ca8fcd30800000000000000
+      internalID: 4453931148827967870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_18'
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b1bc25f057cd800800000000000000
+      internalID: 638513955853769623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_19'
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287994147d5a2a150800000000000000
+      internalID: 5882446407231182722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_20'
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d54fc5cc981b2f60800000000000000
+      internalID: 8010523423821219280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[32x20] 01.00 - SHOOT SIDEWAYS_21'
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 0
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6537e93e6e0e1d970800000000000000
+      internalID: 8778044430987719510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      '[32x20] 01.00 - SHOOT SIDEWAYS_0': -3320274655224036955
+      '[32x20] 01.00 - SHOOT SIDEWAYS_1': -8526142370222506721
+      '[32x20] 01.00 - SHOOT SIDEWAYS_10': 95370390935369065
+      '[32x20] 01.00 - SHOOT SIDEWAYS_11': -8949534359425332176
+      '[32x20] 01.00 - SHOOT SIDEWAYS_12': 7955711122460297072
+      '[32x20] 01.00 - SHOOT SIDEWAYS_13': -6190341478375956748
+      '[32x20] 01.00 - SHOOT SIDEWAYS_14': 1737550188344733245
+      '[32x20] 01.00 - SHOOT SIDEWAYS_15': 7539997440648387029
+      '[32x20] 01.00 - SHOOT SIDEWAYS_16': -1359677856612711851
+      '[32x20] 01.00 - SHOOT SIDEWAYS_17': 4453931148827967870
+      '[32x20] 01.00 - SHOOT SIDEWAYS_18': 638513955853769623
+      '[32x20] 01.00 - SHOOT SIDEWAYS_19': 5882446407231182722
+      '[32x20] 01.00 - SHOOT SIDEWAYS_2': 5706121500180789400
+      '[32x20] 01.00 - SHOOT SIDEWAYS_20': 8010523423821219280
+      '[32x20] 01.00 - SHOOT SIDEWAYS_21': 8778044430987719510
+      '[32x20] 01.00 - SHOOT SIDEWAYS_3': -7333604966214392862
+      '[32x20] 01.00 - SHOOT SIDEWAYS_4': -8396796122891940212
+      '[32x20] 01.00 - SHOOT SIDEWAYS_5': 6986334355559661656
+      '[32x20] 01.00 - SHOOT SIDEWAYS_6': 4908608104082224820
+      '[32x20] 01.00 - SHOOT SIDEWAYS_7': 6915107391232428091
+      '[32x20] 01.00 - SHOOT SIDEWAYS_8': 1540516227413325354
+      '[32x20] 01.00 - SHOOT SIDEWAYS_9': 6565146959917475766
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
