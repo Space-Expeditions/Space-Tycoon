@@ -9,24 +9,6 @@ public class GunFire : MonoBehaviour
 
     private float lastFireTime;
 
-    SpriteRenderer gunSR;
-
-    void Start()
-    {
-        gunSR = GetComponent<SpriteRenderer>();
-    }
-
-    void Update()
-    {
-        if (gunSR.enabled)
-        {
-            if (Input.GetMouseButtonDown(0))
-            {
-                Fire();
-            }
-        }
-    }
-
     public void Fire()
     {
         GameObject laser = Instantiate(laserEffectPrefab, firePoint.position, firePoint.rotation);
