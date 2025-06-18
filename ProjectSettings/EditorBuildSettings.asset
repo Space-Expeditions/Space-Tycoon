@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/ExploreScene.unity
     guid: 4f693dcbe9e7e0b4c9eacbb6214423bd
   - enabled: 1
-    path: Assets/Scenes/DungeonTempScene.unity
-    guid: 5d16bb4f72263564bbb145afe9062085
+    path: Assets/Scenes/DungeonScene.unity
+    guid: 7ac697de68d0e491fbef099f0792eee3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6627234838633684689
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5926328126389067820}
+  - component: {fileID: 3882781060538647734}
+  m_Layer: 0
+  m_Name: MonsterSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5926328126389067820
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6627234838633684689}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 10.35, y: -0.83, z: 0.010238174}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3882781060538647734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6627234838633684689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3b70fa314878e47bf36316624f834c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monsterPrefabs:
+  - {fileID: 3875663564437124400, guid: 991b600a08146834d9d5927667b78cec, type: 3}
+  - {fileID: 9122807338072863822, guid: 52e3263c5bb82f448ba64fe145827c89, type: 3}
+  - {fileID: 4169690881719731190, guid: 2d5b01f633cf8fd4d8896908f189ae0f, type: 3}
+  - {fileID: 3126897461142882035, guid: 2d219608c93f8b74990e3d733f888832, type: 3}
+  - {fileID: 6715350405723017381, guid: 89a797977c87b2d4db65e359af986a78, type: 3}
+  - {fileID: 5760924114319110858, guid: 695e5748f8ec74a4aa1947cd26d6e00e, type: 3}
+  - {fileID: 4180907487165917698, guid: 2537114bd5ecc99459403e7a5eda2dc9, type: 3}
+  - {fileID: 1794240693458627403, guid: 0468a311a61ac6d4486d4d252f91d87e, type: 3}
+  spawnInterval: 4
