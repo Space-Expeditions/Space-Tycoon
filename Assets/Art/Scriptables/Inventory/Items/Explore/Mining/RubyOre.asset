@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43060f136672eed46ab3ea933e1d5842, type: 3}
+  m_Name: RubyOre
+  m_EditorClassIdentifier: 
+  Name: RubyOre
+  itemType: 3
+  stackable: 1
+  icon: {fileID: 85657304489007154, guid: fd2acb5f2980b4f8d99e2db2c8e4761a, type: 3}

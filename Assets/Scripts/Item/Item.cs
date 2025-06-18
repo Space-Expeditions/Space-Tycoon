@@ -5,6 +5,7 @@ public enum ItemType
     Seed,
     Tool,
     Crop,
+    Mineral,
     Etc
 }
 
