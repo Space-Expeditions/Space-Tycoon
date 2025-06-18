@@ -30,7 +30,10 @@ public class VehicleControl : MonoBehaviour
         player = GameObject.FindAnyObjectByType<PlayerMovement>();
         followCamera = GameObject.FindWithTag("MainCamera")?.GetComponent<FollowCamera>();
         spawnManager = GameObject.FindFirstObjectByType<PlayerSpawnManager>();
-        gunController = player?.GetComponentInChildren<GunController>(); // player.transform.GetChild(0).GetComponent<GunController>();
+        gunController = player?.GetComponentInChildren<GunController>();
+        // gunController = player?.transform.GetChild(0).GetComponent<GunController>();
+        // gunController = player?.GetComponentsInChildren<GunController>(true).FirstOrDefault();
+        
         if (player == null || gunController == null || followCamera == null || spawnManager == null)
         {
             Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않거나 구성 요소가 누락되었습니다.");
