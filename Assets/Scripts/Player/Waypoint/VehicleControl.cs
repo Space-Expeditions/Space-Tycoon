@@ -36,7 +36,7 @@ public class VehicleControl : MonoBehaviour
         
         if (player == null || gunController == null || followCamera == null || spawnManager == null)
         {
-            Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않거나 구성 요소가 누락되었습니다.");
+            Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않습니다.");
             return;
         }
 

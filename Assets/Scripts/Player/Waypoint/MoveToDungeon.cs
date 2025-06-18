@@ -18,19 +18,10 @@ public class MoveToDungeon : MonoBehaviour
         waypointManager = GameObject.FindFirstObjectByType<WaypointManager>();
         camera = GameObject.FindFirstObjectByType<FollowCamera>();
         vehicle = GameObject.FindFirstObjectByType<VehicleControl>()?.gameObject;
-
-        if (waypointManager == null)
-            Debug.LogWarning("❌ WaypointManager 오브젝트를 찾을 수 없습니다.");
-
-        if (camera == null)
-            Debug.LogWarning("❌ FollowCamera 오브젝트를 찾을 수 없습니다.");
-
-        if (vehicle == null)
-            Debug.LogWarning("❌ VehicleControl 오브젝트를 찾을 수 없습니다.");
-
+        
         if (waypointManager == null || camera == null || vehicle == null)
         {
-            Debug.LogWarning("⚠️ 필수 오브젝트가 하나 이상 씬에 존재하지 않습니다. 초기화 중단.");
+            Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않습니다.");
             return;
         }
         
