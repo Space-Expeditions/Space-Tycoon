@@ -40,4 +40,3 @@ public class InventoryManager : MonoBehaviour
         dragAndDropController = GameObject.FindFirstObjectByType<ItemDragAndDropController>();
     }
 }
-
