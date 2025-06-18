@@ -20,16 +20,22 @@ public class VehicleControl : MonoBehaviour
     public float vehicleSpeed = 7f;
 
     public bool canMove = true;
-    public bool isRiding = false;
+    public bool isRiding;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spRenderer = GetComponent<SpriteRenderer>();
+        
         player = GameObject.FindAnyObjectByType<PlayerMovement>();
-        gunController = player.transform.GetChild(0).GetComponent<GunController>();
-        followCamera = GameObject.FindWithTag("MainCamera").GetComponent<FollowCamera>();
+        followCamera = GameObject.FindWithTag("MainCamera")?.GetComponent<FollowCamera>();
         spawnManager = GameObject.FindFirstObjectByType<PlayerSpawnManager>();
+        gunController = player?.GetComponentInChildren<GunController>(); // player.transform.GetChild(0).GetComponent<GunController>();
+        if (player == null || gunController == null || followCamera == null || spawnManager == null)
+        {
+            Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않거나 구성 요소가 누락되었습니다.");
+            return;
+        }
 
         if (isRiding)
         {
@@ -49,6 +55,8 @@ public class VehicleControl : MonoBehaviour
 
     void Update()
     {
+        if (player == null) return;
+        
         if (Input.GetKeyDown(KeyCode.Space) && SceneManager.GetActiveScene().buildIndex == 1)
         {
             if (!isRiding)

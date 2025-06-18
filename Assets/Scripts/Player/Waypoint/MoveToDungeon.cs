@@ -4,19 +4,26 @@ using UnityEngine.Tilemaps;
 
 public class MoveToDungeon : MonoBehaviour
 {
-    public Tilemap tilemap;
-
+    new FollowCamera camera;
+    
     WaypointManager waypointManager;
-    FollowCamera camera;
     GameObject vehicle;
-
+    
+    public Tilemap tilemap;
+    
     public string targetSceneName; // �̵��� �� �̸��� ����Ƽ���� ���� ����
 
     void Start()
     {
-        waypointManager = GameObject.FindFirstObjectByType<WaypointManager>().GetComponent<WaypointManager>();
-        camera = GameObject.FindFirstObjectByType<FollowCamera>().GetComponent<FollowCamera>();
+        waypointManager = GameObject.FindFirstObjectByType<WaypointManager>();
+        camera = GameObject.FindFirstObjectByType<FollowCamera>();
         vehicle = GameObject.FindFirstObjectByType<VehicleControl>()?.gameObject;
+
+        if (waypointManager == null || camera == null || vehicle == null)
+        {
+            Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않습니다.");
+            return;
+        }
         
         if (waypointManager.selecePointNum == -1 && !waypointManager.inDungeon)
         {

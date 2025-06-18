@@ -2,19 +2,19 @@ using UnityEngine;
 
 public class InventoryController : MonoBehaviour
 {
-    [SerializeField] GameObject panel;
+    [SerializeField] GameObject inventoryPanel;
     [SerializeField] GameObject toolbarPanel;
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.E))
         {
-            panel.SetActive(!panel.activeInHierarchy);
+            inventoryPanel.SetActive(!inventoryPanel.activeInHierarchy);
             toolbarPanel.SetActive(!toolbarPanel.activeInHierarchy);
         }
     }
     public bool IsOpen()
     {
-        return panel.activeInHierarchy;
+        return inventoryPanel.activeInHierarchy;
     }
 }

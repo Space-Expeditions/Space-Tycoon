@@ -11,10 +11,10 @@ public class ClickableDrop : MonoBehaviour
     void Start()
     {
         //player = GameObject.FindGameObjectWithTag("Player")?.transform;
-        player = GameObject.FindFirstObjectByType<InventoryManager>().player?.transform;
+        player = GameObject.FindFirstObjectByType<InventoryManager>()?.player?.transform;
         if (player == null)
         {
-            Debug.LogError("Player �±׸� ���� ������Ʈ�� �����ϴ�!");
+            Debug.LogWarning("Player �±׸� ���� ������Ʈ�� �����ϴ�!");
         }
     }
 

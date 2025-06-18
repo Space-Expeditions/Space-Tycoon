@@ -3,12 +3,11 @@ using UnityEngine.Tilemaps;
 
 public class TileWalk : MonoBehaviour
 {
+    new FollowCamera camera;
+    
     public Transform point;
-
-    FollowCamera camera;
-
     public Tilemap tilemap;
-
+    
     public bool isHorizontal = false;
 
     void Start()

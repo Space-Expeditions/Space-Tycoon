@@ -7,7 +7,7 @@ public class GunController : MonoBehaviour
     private SpriteRenderer gunRenderer;
     public Transform firePoint;
 
-    public bool isEquip = false;
+    public bool isEquip;
 
     void Start()
     {

@@ -19,8 +19,13 @@ public class Teleporter : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-
         waypointManager = GameObject.FindAnyObjectByType<WaypointManager>();
+        
+        if (animator == null || waypointManager == null)
+        {
+            Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않습니다.");
+            return;
+        }
 
         animator.enabled = waypointManager.waypoints[num];
     }
