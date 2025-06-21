@@ -70,6 +70,7 @@ public class UIManager : MonoBehaviour
             if (inventoryController != null && !inventorPanel.activeInHierarchy) inventoryController.enabled = !anyPanelActive;
             if (toolbarPanel != null) toolbarPanel.SetActive(!anyPanelActive);
             if (HPBarPanel != null) HPBarPanel.SetActive(!anyPanelActive);
+            if (oxygenPanel != null) oxygenPanel.SetActive(!anyPanelActive);
             if (miniMapPanel != null) miniMapPanel.SetActive(!anyPanelActive);
 
             wasAnyPanelActive = anyPanelActive;
