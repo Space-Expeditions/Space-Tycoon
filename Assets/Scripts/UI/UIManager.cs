@@ -11,6 +11,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject toolbarPanel;
     [SerializeField] private GameObject inventorPanel;
     [SerializeField] private GameObject oxygenPanel;
+    [SerializeField] private GameObject HPBarPanel;
     [SerializeField] private GameObject player;
 
     [Header("Player Scripts")]
@@ -51,7 +52,8 @@ public class UIManager : MonoBehaviour
             if (child.gameObject.activeSelf && 
                 child.gameObject != miniMapPanel && 
                 child.gameObject != toolbarPanel &&
-                child.gameObject != oxygenPanel)
+                child.gameObject != oxygenPanel &&
+                child.gameObject != HPBarPanel)
             {
                 activePanels.Add(child.gameObject);
                 hasPanelChanged = true;
@@ -67,6 +69,7 @@ public class UIManager : MonoBehaviour
             
             if (inventoryController != null && !inventorPanel.activeInHierarchy) inventoryController.enabled = !anyPanelActive;
             if (toolbarPanel != null) toolbarPanel.SetActive(!anyPanelActive);
+            if (HPBarPanel != null) HPBarPanel.SetActive(!anyPanelActive);
             if (miniMapPanel != null) miniMapPanel.SetActive(!anyPanelActive);
 
             wasAnyPanelActive = anyPanelActive;

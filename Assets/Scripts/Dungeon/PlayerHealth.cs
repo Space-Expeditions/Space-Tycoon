@@ -35,9 +35,14 @@ public class PlayerHealth : MonoBehaviour
     public void Die()
     {
         Debug.Log("사망!");
+
+        // 체력을 최대 체력의 20%로 리셋
+        currentHealth = Mathf.CeilToInt(maxHealth * 0.2f);
+
         waypointManager.isReturn = true;
         SceneManager.LoadScene("MainScene");
     }
+
 
     private System.Collections.IEnumerator Blink()
     {
