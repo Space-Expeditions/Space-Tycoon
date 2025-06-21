@@ -14,8 +14,8 @@ public class OxygenStatus : MonoBehaviour
 
     PlayerHealth playerHealth;
 
-    public float currentOxygen;
-    public int oxygenCount = 0;
+    float currentOxygen;
+    int oxygenCount = 0;
 
     void Start()
     {
