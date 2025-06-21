@@ -51,11 +51,6 @@ public class GunController : MonoBehaviour
         {
             gunRenderer.sortingOrder = 6; // 앞으로 나옴
         }
-
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            ToggleGun();
-        }
     }
 
     public void ToggleGun()
