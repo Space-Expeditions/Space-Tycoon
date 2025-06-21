@@ -3,14 +3,13 @@ using System.Collections.Generic;
 
 public class UIManager : MonoBehaviour
 {
-    private static UIManager instance;
-    public static UIManager Instance => instance;
+    private static List<UIManager> instances = new List<UIManager>();
+    public static List<UIManager> Instances => instances;
 
     [Header("UI Panels")]
     [SerializeField] private GameObject miniMapPanel;
     [SerializeField] private GameObject toolbarPanel;
     [SerializeField] private GameObject inventorPanel;
-    [SerializeField] private GameObject player;
 
     [Header("Player Scripts")]
     [SerializeField] private PlayerMovement playerMovement;
@@ -22,22 +21,22 @@ public class UIManager : MonoBehaviour
 
     private void Awake()
     {
-        if (instance == null)
+        if (transform.parent != null)
         {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
-            
-            if (player != null)
-            {
-                if (playerMovement != null) playerMovement.enabled = true;
-                if (toolbarController != null) toolbarController.enabled = true;
-                if (inventoryController != null) inventoryController.enabled = true;
-            }
+            transform.SetParent(null);
         }
-        else
-        {
-            Destroy(gameObject);
-        }
+        DontDestroyOnLoad(gameObject);
+        
+        instances.Add(this);
+        
+        if (playerMovement != null) playerMovement.enabled = true;
+        if (toolbarController != null) toolbarController.enabled = true;
+        if (inventoryController != null) inventoryController.enabled = true;
+    }
+
+    private void OnDestroy()
+    {
+        instances.Remove(this);
     }
 
     private void Update()
@@ -45,14 +44,20 @@ public class UIManager : MonoBehaviour
         bool hasPanelChanged = false;
         activePanels.Clear();
 
-        foreach (Transform child in transform)
+        foreach (var uiManager in instances)
         {
-            if (child.gameObject.activeSelf && 
-                child.gameObject != miniMapPanel && 
-                child.gameObject != toolbarPanel)
+            if (uiManager != null)
             {
-                activePanels.Add(child.gameObject);
-                hasPanelChanged = true;
+                foreach (Transform child in uiManager.transform)
+                {
+                    if (child.gameObject.activeSelf && 
+                        child.gameObject != uiManager.miniMapPanel && 
+                        child.gameObject != uiManager.toolbarPanel)
+                    {
+                        activePanels.Add(child.gameObject);
+                        hasPanelChanged = true;
+                    }
+                }
             }
         }
         
@@ -60,14 +65,66 @@ public class UIManager : MonoBehaviour
         {
             bool anyPanelActive = activePanels.Count > 0;
             
-            if (playerMovement != null) playerMovement.enabled = !anyPanelActive;
-            if (toolbarController != null) toolbarController.enabled = !anyPanelActive;
-            
-            if (inventoryController != null && !inventorPanel.activeInHierarchy) inventoryController.enabled = !anyPanelActive;
-            if (toolbarPanel != null) toolbarPanel.SetActive(!anyPanelActive);
-            if (miniMapPanel != null) miniMapPanel.SetActive(!anyPanelActive);
+            foreach (var uiManager in instances)
+            {
+                if (uiManager != null)
+                {
+                    if (uiManager.playerMovement != null) uiManager.playerMovement.enabled = !anyPanelActive;
+                    if (uiManager.toolbarController != null) uiManager.toolbarController.enabled = !anyPanelActive;
+                    
+                    if (uiManager.inventoryController != null && !uiManager.inventorPanel.activeInHierarchy) 
+                        uiManager.inventoryController.enabled = !anyPanelActive;
+                    if (uiManager.toolbarPanel != null) uiManager.toolbarPanel.SetActive(!anyPanelActive);
+                    if (uiManager.miniMapPanel != null) uiManager.miniMapPanel.SetActive(!anyPanelActive);
+                }
+            }
 
             wasAnyPanelActive = anyPanelActive;
         }
+    }
+
+    public static List<UIManager> GetAllInstances()
+    {
+        return new List<UIManager>(instances);
+    }
+
+    public static UIManager GetFirstInstance()
+    {
+        return instances.Count > 0 ? instances[0] : null;
+    }
+
+    public static UIManager GetInstanceByName(string name)
+    {
+        return instances.Find(ui => ui.name == name);
+    }
+
+    public static List<GameObject> GetAllUIPanels()
+    {
+        List<GameObject> allPanels = new List<GameObject>();
+        foreach (var uiManager in instances)
+        {
+            if (uiManager != null)
+            {
+                foreach (Transform child in uiManager.transform)
+                {
+                    allPanels.Add(child.gameObject);
+                }
+            }
+        }
+        return allPanels;
+    }
+
+    public static List<T> GetUIPanelsByType<T>() where T : Component
+    {
+        List<T> panels = new List<T>();
+        foreach (var uiManager in instances)
+        {
+            if (uiManager != null)
+            {
+                T[] components = uiManager.GetComponentsInChildren<T>();
+                panels.AddRange(components);
+            }
+        }
+        return panels;
     }
 }

@@ -39,4 +39,18 @@ public class InventoryManager : MonoBehaviour
     {
         dragAndDropController = GameObject.FindFirstObjectByType<ItemDragAndDropController>();
     }
+
+    public int GetItemCount(string itemName)
+    {
+        if (inventoryContainer != null)
+            return inventoryContainer.GetItemCount(itemName);
+        return 0;
+    }
+
+    public bool RemoveItem(string itemName, int count)
+    {
+        if (inventoryContainer != null)
+            return inventoryContainer.RemoveItem(itemName, count);
+        return false;
+    }
 }

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 6b2091311757a4710bb5707169306a2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2666617028452875906
+    second: idle_dead_alt(64,64)_0
+  - first:
+      213: -5248146416246523028
+    second: idle_dead_alt(64,64)_1
+  - first:
+      213: 1447211834879097503
+    second: idle_dead_alt(64,64)_2
+  - first:
+      213: 7031822340942490539
+    second: idle_dead_alt(64,64)_3
+  - first:
+      213: -7832544068152158330
+    second: idle_dead_alt(64,64)_4
+  - first:
+      213: 1578577135074341230
+    second: idle_dead_alt(64,64)_5
+  - first:
+      213: 3015505911466947545
+    second: idle_dead_alt(64,64)_6
+  - first:
+      213: -3916258876078305100
+    second: idle_dead_alt(64,64)_7
+  - first:
+      213: -3156333765538409703
+    second: idle_dead_alt(64,64)_8
+  - first:
+      213: -2200391052786640551
+    second: idle_dead_alt(64,64)_9
+  - first:
+      213: -5082013379088371710
+    second: idle_dead_alt(64,64)_10
+  - first:
+      213: 2023350076711585637
+    second: idle_dead_alt(64,64)_11
+  - first:
+      213: -7389649505344739158
+    second: idle_dead_alt(64,64)_12
+  - first:
+      213: -962476521205707396
+    second: idle_dead_alt(64,64)_13
+  - first:
+      213: -7213296829395227273
+    second: idle_dead_alt(64,64)_14
+  - first:
+      213: -4088897671697761897
+    second: idle_dead_alt(64,64)_15
+  - first:
+      213: -5342513679450829897
+    second: idle_dead_alt(64,64)_16
+  - first:
+      213: -149354592706612689
+    second: idle_dead_alt(64,64)_17
+  - first:
+      213: 3523764036744798624
+    second: idle_dead_alt(64,64)_18
+  - first:
+      213: -4539054844971104779
+    second: idle_dead_alt(64,64)_19
+  - first:
+      213: -8189003028571812289
+    second: idle_dead_alt(64,64)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e710f03e0f54efad0800000000000000
+      internalID: -2666617028452875906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 143
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bf26ae3a6da27b0800000000000000
+      internalID: -5248146416246523028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab5b40f77851410800000000000000
+      internalID: 1447211834879097503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab6883b92d069160800000000000000
+      internalID: 7031822340942490539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 143
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687923a2ba63d4390800000000000000
+      internalID: -7832544068152158330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f8aa6a8b38e510800000000000000
+      internalID: 1578577135074341230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3f31f46aa39d920800000000000000
+      internalID: 3015505911466947545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 79
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0d1ea2d47a6a9c0800000000000000
+      internalID: -3916258876078305100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131388c9237234d0800000000000000
+      internalID: -3156333765538409703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 99
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95954b3eef3a671e0800000000000000
+      internalID: -2200391052786640551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b7a3e1cf0979b0800000000000000
+      internalID: -5082013379088371710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 94
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56747a2bc22641c10800000000000000
+      internalID: 2023350076711585637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 100
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8294b4de0b27990800000000000000
+      internalID: -7389649505344739158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d41e014b894a2f0800000000000000
+      internalID: -962476521205707396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d227850c835eb90800000000000000
+      internalID: -7213296829395227273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 79
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79978834b315147c0800000000000000
+      internalID: -4088897671697761897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb0ba84d149bd5b0800000000000000
+      internalID: -5342513679450829897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 81
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22362c0ac26dedf0800000000000000
+      internalID: -149354592706612689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a16872c8bce6e030800000000000000
+      internalID: 3523764036744798624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54b7ddaa90201c0800000000000000
+      internalID: -4539054844971104779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_dead_alt(64,64)_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e0169f121da5e80800000000000000
+      internalID: -8189003028571812289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_dead_alt(64,64)_0: -2666617028452875906
+      idle_dead_alt(64,64)_1: -5248146416246523028
+      idle_dead_alt(64,64)_10: -5082013379088371710
+      idle_dead_alt(64,64)_11: 2023350076711585637
+      idle_dead_alt(64,64)_12: -7389649505344739158
+      idle_dead_alt(64,64)_13: -962476521205707396
+      idle_dead_alt(64,64)_14: -7213296829395227273
+      idle_dead_alt(64,64)_15: -4088897671697761897
+      idle_dead_alt(64,64)_16: -5342513679450829897
+      idle_dead_alt(64,64)_17: -149354592706612689
+      idle_dead_alt(64,64)_18: 3523764036744798624
+      idle_dead_alt(64,64)_19: -4539054844971104779
+      idle_dead_alt(64,64)_2: 1447211834879097503
+      idle_dead_alt(64,64)_20: -8189003028571812289
+      idle_dead_alt(64,64)_3: 7031822340942490539
+      idle_dead_alt(64,64)_4: -7832544068152158330
+      idle_dead_alt(64,64)_5: 1578577135074341230
+      idle_dead_alt(64,64)_6: 3015505911466947545
+      idle_dead_alt(64,64)_7: -3916258876078305100
+      idle_dead_alt(64,64)_8: -3156333765538409703
+      idle_dead_alt(64,64)_9: -2200391052786640551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

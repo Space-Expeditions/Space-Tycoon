@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: b8147c8f2bb8f44b788d0e548431a431
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7465991569044248552
+    second: idle_walk_alt(64,64)_0
+  - first:
+      213: 4651800654243313360
+    second: idle_walk_alt(64,64)_1
+  - first:
+      213: 2707953439262746308
+    second: idle_walk_alt(64,64)_2
+  - first:
+      213: 3942372578310158383
+    second: idle_walk_alt(64,64)_3
+  - first:
+      213: -6647485343654977692
+    second: idle_walk_alt(64,64)_4
+  - first:
+      213: 6618702966855352007
+    second: idle_walk_alt(64,64)_5
+  - first:
+      213: 8184133561694864602
+    second: idle_walk_alt(64,64)_6
+  - first:
+      213: -5684301801953041202
+    second: idle_walk_alt(64,64)_7
+  - first:
+      213: -1212685902783834888
+    second: idle_walk_alt(64,64)_8
+  - first:
+      213: 278580397031330685
+    second: idle_walk_alt(64,64)_9
+  - first:
+      213: -2936083929197116615
+    second: idle_walk_alt(64,64)_10
+  - first:
+      213: -6262293386247460225
+    second: idle_walk_alt(64,64)_11
+  - first:
+      213: -5936787422134604491
+    second: idle_walk_alt(64,64)_12
+  - first:
+      213: 6977901311151772184
+    second: idle_walk_alt(64,64)_13
+  - first:
+      213: 6648313139001858637
+    second: idle_walk_alt(64,64)_14
+  - first:
+      213: -1088601662449197496
+    second: idle_walk_alt(64,64)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8186e077938736890800000000000000
+      internalID: -7465991569044248552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d63a1a7c048e8040800000000000000
+      internalID: 4651800654243313360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6ad8f3e45949520800000000000000
+      internalID: 2707953439262746308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 207
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28fa6ee8fe16b630800000000000000
+      internalID: 3942372578310158383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 143
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f54d1cc436fb3a0800000000000000
+      internalID: -6647485343654977692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 143
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cebc3de74b5adb50800000000000000
+      internalID: 6618702966855352007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 143
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4cc2bec12e39170800000000000000
+      internalID: 8184133561694864602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 143
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e97ab0ad4d11b0800000000000000
+      internalID: -5684301801953041202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f41274b89cab2fe0800000000000000
+      internalID: -1212685902783834888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7390762567bdd300800000000000000
+      internalID: 278580397031330685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 79
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9330971f83fe047d0800000000000000
+      internalID: -2936083929197116615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 79
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a2171285dd719a0800000000000000
+      internalID: -6262293386247460225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 15
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53de8a44b4b4c9da0800000000000000
+      internalID: -5936787422134604491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 15
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8121fe0a54c76d060800000000000000
+      internalID: 6977901311151772184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a94cd539d834c50800000000000000
+      internalID: 6648313139001858637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_walk_alt(64,64)_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ed0df3e8284e0f0800000000000000
+      internalID: -1088601662449197496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_walk_alt(64,64)_0: -7465991569044248552
+      idle_walk_alt(64,64)_1: 4651800654243313360
+      idle_walk_alt(64,64)_10: -2936083929197116615
+      idle_walk_alt(64,64)_11: -6262293386247460225
+      idle_walk_alt(64,64)_12: -5936787422134604491
+      idle_walk_alt(64,64)_13: 6977901311151772184
+      idle_walk_alt(64,64)_14: 6648313139001858637
+      idle_walk_alt(64,64)_15: -1088601662449197496
+      idle_walk_alt(64,64)_2: 2707953439262746308
+      idle_walk_alt(64,64)_3: 3942372578310158383
+      idle_walk_alt(64,64)_4: -6647485343654977692
+      idle_walk_alt(64,64)_5: 6618702966855352007
+      idle_walk_alt(64,64)_6: 8184133561694864602
+      idle_walk_alt(64,64)_7: -5684301801953041202
+      idle_walk_alt(64,64)_8: -1212685902783834888
+      idle_walk_alt(64,64)_9: 278580397031330685
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

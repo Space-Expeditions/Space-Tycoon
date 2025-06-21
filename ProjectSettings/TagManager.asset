@@ -8,6 +8,7 @@ TagManager:
   - BrownSoil
   - MapGrid
   - Laser
+  - NPC
   layers:
   - Default
   - TransparentFX
