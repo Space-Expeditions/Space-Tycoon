@@ -16,7 +16,7 @@ public class PlayerHealth : MonoBehaviour
     public void TakeDamage(int amount)
     {
         currentHealth -= amount;
-        Debug.Log("�÷��̾� ü��: " + currentHealth);
+        Debug.Log("공격받음! 현재 체력: " + currentHealth);
 
         StartCoroutine(Blink());
 
@@ -28,7 +28,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
-        Debug.Log("�÷��̾� ���!");
+        Debug.Log("사망!");
         SceneManager.LoadScene("MainScene");
     }
 

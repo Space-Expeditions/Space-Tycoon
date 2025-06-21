@@ -135,15 +135,23 @@ public class ToolbarController : MonoBehaviour
         {
             if (slot.item.Name == "Gun")
             {
-                GunFire gun = GameObject.FindGameObjectWithTag("Player")?.GetComponentInChildren<GunFire>();
-                if (gun != null)
+                // 🔒 총이 화면에 보일 때만 발사
+                if (gunSR != null && gunSR.enabled)
                 {
-                    Debug.Log($"빵야빵야");
-                    gun.Fire();
+                    GunFire gun = GameObject.FindGameObjectWithTag("Player")?.GetComponentInChildren<GunFire>();
+                    if (gun != null)
+                    {
+                        Debug.Log("빵야빵야");
+                        gun.Fire();
+                    }
+                    else
+                    {
+                        Debug.LogWarning("GunFire 스크립트를 가진 오브젝트를 찾을 수 없습니다.");
+                    }
                 }
                 else
                 {
-                    Debug.LogWarning("GunFire 스크립트를 가진 오브젝트를 찾을 수 없습니다.");
+                    Debug.Log("총이 비활성화된 상태에서는 발사되지 않습니다.");
                 }
             }
             else
