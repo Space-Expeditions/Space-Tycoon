@@ -163,6 +163,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 378ac34e3d3c4c45967605155df49742, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemPrefab: {fileID: 313043283670778201, guid: 18c2c00c3d850ba429808777a313b8dc, type: 3}
+  itemPrefab: {fileID: 1805251872965591440, guid: b98f9e44b44e0434bb21ccdda78fca9f, type: 3}
   dropCount: 1
   maxHealth: 3
