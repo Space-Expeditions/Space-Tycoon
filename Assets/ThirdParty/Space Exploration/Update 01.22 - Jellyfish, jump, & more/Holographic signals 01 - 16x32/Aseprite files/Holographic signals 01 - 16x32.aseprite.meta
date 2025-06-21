@@ -378,11 +378,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 490185545
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 490185545
     name: Holographic signals 01 - 16x32
     layerFlags: 0

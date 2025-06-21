@@ -966,11 +966,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3092979684
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -1201987612
     name: 'Walking directions 01.00 [20x20]'
     layerFlags: 0

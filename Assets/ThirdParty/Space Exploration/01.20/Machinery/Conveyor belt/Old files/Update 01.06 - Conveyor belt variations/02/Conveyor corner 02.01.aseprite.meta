@@ -294,11 +294,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3879931299
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -415035997
     name: Conveyor corner 02.01
     layerFlags: 0

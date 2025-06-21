@@ -378,11 +378,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 130163842
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 130163842
     name: Northwest jump
     layerFlags: 0

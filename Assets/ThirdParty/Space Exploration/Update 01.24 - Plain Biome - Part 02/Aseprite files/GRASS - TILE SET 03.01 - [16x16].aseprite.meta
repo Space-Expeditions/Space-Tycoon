@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 1784797624
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 1784797624
     name: 'GRASS - TILE SET 03.01 - [16x16]'
     layerFlags: 0

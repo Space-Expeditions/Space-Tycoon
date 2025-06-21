@@ -15246,11 +15246,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3859788013
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -435179283
     name: 01 DIGITAL CLOCK FUNCTIONAL (12 HOURS)
     layerFlags: 0

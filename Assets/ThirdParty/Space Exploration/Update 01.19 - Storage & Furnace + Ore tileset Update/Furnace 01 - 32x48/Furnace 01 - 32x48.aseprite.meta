@@ -210,11 +210,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 4207140925
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -87826371
     name: Furnace 01 - 32x48
     layerFlags: 0

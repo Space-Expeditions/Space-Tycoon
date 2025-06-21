@@ -162,7 +162,7 @@ public class VehicleControl : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.collider.CompareTag("Wall") && isRiding)
+        if (collision.collider.CompareTag("Wall"))
         {
             transform.position = collision.collider.GetComponent<TileWalk>().StepTile(transform);
         }

@@ -168,11 +168,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 830866956
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 830866956
     name: '01 - LUNAR BUGGY - STRAIGHT acceleration [animated]'
     layerFlags: 0

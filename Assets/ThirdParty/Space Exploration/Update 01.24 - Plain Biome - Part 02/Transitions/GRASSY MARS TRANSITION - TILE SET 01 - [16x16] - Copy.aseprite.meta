@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3994966748
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -300000548
     name: GRASSY MARS TRANSITION - TILE SET 01 - [16x16] - Copy
     layerFlags: 0

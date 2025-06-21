@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 2394123820
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -1900843476
     name: 'MARS TRANSITION - TILE SET 02 - [16x16]'
     layerFlags: 0

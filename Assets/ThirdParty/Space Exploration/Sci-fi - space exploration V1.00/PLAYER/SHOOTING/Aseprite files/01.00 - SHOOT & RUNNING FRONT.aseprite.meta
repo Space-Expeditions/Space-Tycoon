@@ -630,11 +630,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 1728403033
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 1728403033
     name: 01.00 - SHOOT & RUNNING FRONT
     layerFlags: 0

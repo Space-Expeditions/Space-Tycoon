@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3159762913
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -1135204383
     name: 'CAVES, CLIFFS & ELEVATIONS TILE SET 01.02 - [16x16]'
     layerFlags: 0

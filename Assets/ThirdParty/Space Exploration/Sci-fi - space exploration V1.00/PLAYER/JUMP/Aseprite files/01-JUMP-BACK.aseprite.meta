@@ -378,11 +378,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 4239932352
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -55034944
     name: 01-JUMP-BACK
     layerFlags: 0

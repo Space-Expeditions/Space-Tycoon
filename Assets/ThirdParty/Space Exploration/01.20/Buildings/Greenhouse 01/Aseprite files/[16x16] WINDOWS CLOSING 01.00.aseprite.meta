@@ -210,11 +210,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 1057211485
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 1057211485
     name: '[16x16] WINDOWS CLOSING 01.00'
     layerFlags: 0

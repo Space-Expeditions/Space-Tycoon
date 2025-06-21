@@ -294,11 +294,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 458997924
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 458997924
     name: Jellyfish 01 Electric Float - 16x24
     layerFlags: 0

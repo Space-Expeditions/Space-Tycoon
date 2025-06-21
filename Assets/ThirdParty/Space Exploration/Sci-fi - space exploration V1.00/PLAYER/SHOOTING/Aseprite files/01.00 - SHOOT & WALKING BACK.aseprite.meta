@@ -630,11 +630,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 2198661501
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -2096305795
     name: 01.00 - SHOOT & WALKING BACK
     layerFlags: 0

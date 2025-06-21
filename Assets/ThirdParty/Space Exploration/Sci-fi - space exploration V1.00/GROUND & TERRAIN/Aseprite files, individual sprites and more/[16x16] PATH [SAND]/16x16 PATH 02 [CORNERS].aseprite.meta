@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3621345669
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -673621627
     name: '16x16 PATH 02 [CORNERS]'
     layerFlags: 0
