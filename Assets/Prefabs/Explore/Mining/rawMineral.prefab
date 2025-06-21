@@ -103,5 +103,5 @@ MonoBehaviour:
   magnetRange: 1.5
   moveSpeed: 2
   pickupDistance: 1
-  item: {fileID: 11400000, guid: e45c6997a9f734d7baaea9cdd088a0ab, type: 2}
+  item: {fileID: 11400000, guid: c1c59b5fcb17c864ebabc4ac171e9d49, type: 2}
   count: 1
