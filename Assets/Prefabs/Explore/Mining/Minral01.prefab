@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1934706816851042618}
   - component: {fileID: 5361706312894427858}
   - component: {fileID: 4300488730907293385}
+  - component: {fileID: -1472541456041845044}
   m_Layer: 0
   m_Name: Minral01
   m_TagString: Untagged
@@ -142,7 +143,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 24099454925555760}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ac0bcf127c0ae140a248e479556bdb6, type: 3}
   m_Name: 
@@ -150,3 +151,18 @@ MonoBehaviour:
   itemPrefab: {fileID: 313043283670778201, guid: 18c2c00c3d850ba429808777a313b8dc, type: 3}
   clickRange: 3
   dropCount: 3
+--- !u!114 &-1472541456041845044
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 24099454925555760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 378ac34e3d3c4c45967605155df49742, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 3360568709405822707, guid: 08cb7565d2d184fcd9c0465429f9d42b, type: 3}
+  dropCount: 1
+  maxHealth: 3
