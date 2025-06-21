@@ -10,6 +10,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject miniMapPanel;
     [SerializeField] private GameObject toolbarPanel;
     [SerializeField] private GameObject inventorPanel;
+    [SerializeField] private GameObject HPBar;
     [SerializeField] private GameObject player;
 
     [Header("Player Scripts")]
@@ -49,7 +50,8 @@ public class UIManager : MonoBehaviour
         {
             if (child.gameObject.activeSelf && 
                 child.gameObject != miniMapPanel && 
-                child.gameObject != toolbarPanel)
+                child.gameObject != toolbarPanel &&
+                child.gameObject != HPBar)  // HPBar도 제외 대상에 추가 가능 (선택사항)
             {
                 activePanels.Add(child.gameObject);
                 hasPanelChanged = true;
@@ -64,7 +66,9 @@ public class UIManager : MonoBehaviour
             if (toolbarController != null) toolbarController.enabled = !anyPanelActive;
             
             if (inventoryController != null && !inventorPanel.activeInHierarchy) inventoryController.enabled = !anyPanelActive;
+            
             if (toolbarPanel != null) toolbarPanel.SetActive(!anyPanelActive);
+            if (HPBar != null) HPBar.SetActive(!anyPanelActive);
             if (miniMapPanel != null) miniMapPanel.SetActive(!anyPanelActive);
 
             wasAnyPanelActive = anyPanelActive;

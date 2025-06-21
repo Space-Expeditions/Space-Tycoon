@@ -6,6 +6,7 @@ public class PlayerHealth : MonoBehaviour
     public int maxHealth = 5;
     private int currentHealth;
     private SpriteRenderer spriteRenderer;
+    public int GetCurrentHealth() => currentHealth;
 
     void Start()
     {
@@ -42,4 +43,5 @@ public class PlayerHealth : MonoBehaviour
             yield return new WaitForSeconds(0.1f);
         }
     }
+    
 }
