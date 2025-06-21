@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1735000026296369353}
   - component: {fileID: 8353700771330096973}
   - component: {fileID: -3490433836260282814}
+  - component: {fileID: -3797624611365636974}
   m_Layer: 0
   m_Name: penguin_0
   m_TagString: Untagged
@@ -134,3 +135,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.16, y: 0.19}
   m_EdgeRadius: 0
+--- !u!114 &-3797624611365636974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3157168665106606199}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4320024a74fbe435e9f4b660712772b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  npcName: "\uC6B0\uC8FC\uD3AD\uADC4"
+  interactDistance: 3

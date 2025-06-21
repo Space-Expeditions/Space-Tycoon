@@ -197,4 +197,12 @@ public class PlayerMovement : MonoBehaviour
         anotherAnim = false;
         animCheck = false;
     }
+    
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("Wall"))
+        {
+            transform.position = collision.collider.GetComponent<TileWalk>().StepTile(transform);
+        }
+    }
 }

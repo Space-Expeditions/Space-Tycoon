@@ -819,11 +819,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 4188583706
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -106383590
     name: SHOOT SIDEWAYS - EXAMPLE 02.01
     layerFlags: 0

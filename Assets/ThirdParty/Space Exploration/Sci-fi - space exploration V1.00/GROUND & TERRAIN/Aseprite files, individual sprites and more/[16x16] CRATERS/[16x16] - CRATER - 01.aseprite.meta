@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 2434095102
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -1860872194
     name: '[16x16] - CRATER - 01'
     layerFlags: 0

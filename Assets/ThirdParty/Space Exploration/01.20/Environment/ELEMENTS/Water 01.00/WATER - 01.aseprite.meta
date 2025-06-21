@@ -294,11 +294,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3386722169
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -908245127
     name: WATER - 01
     layerFlags: 0

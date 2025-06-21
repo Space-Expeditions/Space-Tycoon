@@ -966,11 +966,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 4097552549
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -197414747
     name: 'Walking directions (Jetpack) 01.00 [20x20]'
     layerFlags: 0

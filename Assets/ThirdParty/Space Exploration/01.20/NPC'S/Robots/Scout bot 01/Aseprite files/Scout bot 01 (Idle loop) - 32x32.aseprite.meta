@@ -210,11 +210,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3832949970
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -462017326
     name: Scout bot 01 (Idle loop) - 32x32
     layerFlags: 0

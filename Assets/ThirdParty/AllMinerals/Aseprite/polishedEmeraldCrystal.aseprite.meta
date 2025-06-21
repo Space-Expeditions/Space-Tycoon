@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 2317465792
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -1977501504
     name: polishedEmeraldCrystal
     layerFlags: 0

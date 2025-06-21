@@ -210,11 +210,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 902475915
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 902475915
     name: 01 - UI ANIMATED
     layerFlags: 0

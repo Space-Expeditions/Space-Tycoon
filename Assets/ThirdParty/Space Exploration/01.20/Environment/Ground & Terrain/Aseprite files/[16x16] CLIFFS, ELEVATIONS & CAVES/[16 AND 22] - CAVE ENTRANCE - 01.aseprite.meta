@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 1495526102
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 1495526102
     name: '[16 AND 22] - CAVE ENTRANCE - 01'
     layerFlags: 0

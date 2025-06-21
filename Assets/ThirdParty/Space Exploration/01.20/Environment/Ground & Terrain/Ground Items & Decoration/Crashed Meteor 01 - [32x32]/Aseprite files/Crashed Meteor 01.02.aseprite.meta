@@ -294,11 +294,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 1014163543
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 1014163543
     name: Crashed Meteor 01.02
     layerFlags: 0

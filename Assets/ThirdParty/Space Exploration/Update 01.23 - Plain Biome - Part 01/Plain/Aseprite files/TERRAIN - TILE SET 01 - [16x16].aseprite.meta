@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 858926460
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 858926460
     name: 'TERRAIN - TILE SET 01 - [16x16]'
     layerFlags: 0

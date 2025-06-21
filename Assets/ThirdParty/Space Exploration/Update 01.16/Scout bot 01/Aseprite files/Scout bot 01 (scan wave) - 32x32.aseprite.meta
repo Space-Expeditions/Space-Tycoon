@@ -378,11 +378,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 271381760
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 271381760
     name: Scout bot 01 (scan wave) - 32x32
     layerFlags: 0

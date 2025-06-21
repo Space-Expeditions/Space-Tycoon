@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 3289694096
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -1005273200
     name: Minerals 01.01 - Wang tiles
     layerFlags: 0

@@ -588,11 +588,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 4283546795
-      value1: 0
-      value2: 0
-      value3: 0
     guid: -11420501
     name: Drone 01 [Back] - 32x32
     layerFlags: 0

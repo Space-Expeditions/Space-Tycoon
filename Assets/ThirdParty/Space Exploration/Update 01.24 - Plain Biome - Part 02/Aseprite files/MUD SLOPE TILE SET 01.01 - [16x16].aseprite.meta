@@ -147,11 +147,6 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    uuid:
-      value0: 1228358986
-      value1: 0
-      value2: 0
-      value3: 0
     guid: 1228358986
     name: 'MUD SLOPE TILE SET 01.01 - [16x16]'
     layerFlags: 0
