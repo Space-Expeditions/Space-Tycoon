@@ -10,6 +10,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject miniMapPanel;
     [SerializeField] private GameObject toolbarPanel;
     [SerializeField] private GameObject inventorPanel;
+    [SerializeField] private GameObject oxygenPanel;
     [SerializeField] private GameObject player;
 
     [Header("Player Scripts")]
@@ -49,7 +50,8 @@ public class UIManager : MonoBehaviour
         {
             if (child.gameObject.activeSelf && 
                 child.gameObject != miniMapPanel && 
-                child.gameObject != toolbarPanel)
+                child.gameObject != toolbarPanel &&
+                child.gameObject != oxygenPanel)
             {
                 activePanels.Add(child.gameObject);
                 hasPanelChanged = true;

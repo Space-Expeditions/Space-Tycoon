@@ -7,8 +7,14 @@ public class PlayerHealth : MonoBehaviour
     private int currentHealth;
     private SpriteRenderer spriteRenderer;
 
+    #region ReturnValues
+    WaypointManager waypointManager;
+    #endregion
+
     void Start()
     {
+        waypointManager = GameObject.FindFirstObjectByType<WaypointManager>();
+
         currentHealth = maxHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
@@ -26,9 +32,11 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
-    void Die()
+    public void Die()
     {
         Debug.Log("�÷��̾� ���!");
+        waypointManager.isReturn = true;
+
         SceneManager.LoadScene("MainScene");
     }
 
