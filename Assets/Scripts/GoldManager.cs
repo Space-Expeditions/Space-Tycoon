@@ -1,4 +1,4 @@
-using UnityEngine;
+ï»¿using UnityEngine;
 using System;
 
 public class GoldManager : MonoBehaviour
@@ -22,13 +22,13 @@ public class GoldManager : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
-        LoadGold(); // ½ÃÀÛ ½Ã °ñµå ºÒ·¯¿À±â
+        LoadGold(); // ì‹œì‘ ì‹œ ê³¨ë“œ ë¶ˆëŸ¬ì˜¤ê¸°
     }
 
     public void AddGold(int amount)
     {
         Gold += amount;
-        SaveGold(); // º¯°æµÈ °ñµå ÀúÀå
+        SaveGold(); // ë³€ê²½ëœ ê³¨ë“œ ì €ì¥
         OnGoldChanged?.Invoke(Gold);
     }
 
@@ -37,21 +37,29 @@ public class GoldManager : MonoBehaviour
         if (Gold >= amount)
         {
             Gold -= amount;
-            SaveGold(); // º¯°æµÈ °ñµå ÀúÀå
+            SaveGold(); // ë³€ê²½ëœ ê³¨ë“œ ì €ì¥
             OnGoldChanged?.Invoke(Gold);
             return true;
         }
         return false;
     }
 
+    /// <summary>
+    /// ë‹¨ìˆœíˆ ê³¨ë“œê°€ ì¶©ë¶„í•œì§€ë§Œ í™•ì¸ (ì°¨ê° ì—†ìŒ)
+    /// </summary>
+    public bool HasGold(int amount)
+    {
+        return Gold >= amount;
+    }
+
     private void SaveGold()
     {
         PlayerPrefs.SetInt(GoldKey, Gold);
-        PlayerPrefs.Save(); // ÀúÀå °­Á¦ Àû¿ë
+        PlayerPrefs.Save(); // ì €ì¥ ê°•ì œ ì ìš©
     }
 
     private void LoadGold()
     {
-        Gold = PlayerPrefs.GetInt(GoldKey, 0); // ±âº»°ªÀº 0
+        Gold = PlayerPrefs.GetInt(GoldKey, 0); // ê¸°ë³¸ê°’ì€ 0
     }
 }

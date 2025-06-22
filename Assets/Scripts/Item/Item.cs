@@ -5,6 +5,7 @@ public enum ItemType
     Seed,
     Tool,
     Crop,
+    Equipment,
     Etc
 }
 
@@ -15,4 +16,6 @@ public class Item : ScriptableObject
     public ItemType itemType; // ✅ 추가된 필드
     public bool stackable;
     public Sprite icon;
+    public GameObject prefab;
+
 }
