@@ -9,6 +9,8 @@ public class GoldManager : MonoBehaviour
 
     public event Action<int> OnGoldChanged;
 
+    const string GoldKey = "PlayerGold";
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -19,11 +21,14 @@ public class GoldManager : MonoBehaviour
 
         Instance = this;
         DontDestroyOnLoad(gameObject);
+
+        LoadGold(); // 시작 시 골드 불러오기
     }
 
     public void AddGold(int amount)
     {
         Gold += amount;
+        SaveGold(); // 변경된 골드 저장
         OnGoldChanged?.Invoke(Gold);
     }
 
@@ -32,9 +37,64 @@ public class GoldManager : MonoBehaviour
         if (Gold >= amount)
         {
             Gold -= amount;
+            SaveGold(); // 변경된 골드 저장
             OnGoldChanged?.Invoke(Gold);
             return true;
         }
         return false;
     }
+
+    /// <summary>
+    /// 단순히 골드가 충분한지만 확인 (차감 없음)
+    /// </summary>
+    public bool HasGold(int amount)
+    {
+        return Gold >= amount;
+    }
+
+    private void SaveGold()
+    {
+        PlayerPrefs.SetInt(GoldKey, Gold);
+        PlayerPrefs.Save(); // 저장 강제 적용
+    }
+
+    private void LoadGold()
+    {
+        Gold = PlayerPrefs.GetInt(GoldKey, 0); // 기본값은 0
+    }
+
+    //public static GoldManager Instance { get; private set; }
+
+    //public int Gold { get; private set; }
+
+    //public event Action<int> OnGoldChanged;
+
+    //private void Awake()
+    //{
+    //    if (Instance != null && Instance != this)
+    //    {
+    //        Destroy(gameObject);
+    //        return;
+    //    }
+
+    //    Instance = this;
+    //    DontDestroyOnLoad(gameObject);
+    //}
+
+    //public void AddGold(int amount)
+    //{
+    //    Gold += amount;
+    //    OnGoldChanged?.Invoke(Gold);
+    //}
+
+    //public bool TrySpendGold(int amount)
+    //{
+    //    if (Gold >= amount)
+    //    {
+    //        Gold -= amount;
+    //        OnGoldChanged?.Invoke(Gold);
+    //        return true;
+    //    }
+    //    return false;
+    //}
 }
