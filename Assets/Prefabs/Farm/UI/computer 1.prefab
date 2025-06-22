@@ -30,7 +30,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.29920882, y: 0.27282453, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -79,15 +79,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 10
-  m_Sprite: {fileID: 7644166541729759517, guid: 70571929987bdf944b77f7cc9ff63c19, type: 3}
+  m_Sprite: {fileID: 2750298860172458669, guid: 97a423434caaccf4f994691fb7e65089, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.3, y: 0.31}
+  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &8642838025609647814
@@ -146,17 +146,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0.155}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 0.3, y: 0.31}
-    newSize: {x: 0.3, y: 0.31}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.32}
+    newSize: {x: 0.32, y: 0.32}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.3, y: 0.31}
+  m_Size: {x: 0.3, y: 0.4}
   m_EdgeRadius: 0
 --- !u!114 &3557559212803107790
 MonoBehaviour:
@@ -175,7 +175,6 @@ MonoBehaviour:
   groundPanel: {fileID: 0}
   humidityInput: {fileID: 0}
   temperatureInput: {fileID: 0}
-  spawnPoint: {fileID: 6377833748245122457}
   groundPrefabs:
   - {fileID: 3919346962551613078, guid: e1056a232ed3bf34bbb1505fa1fb00e8, type: 3}
   - {fileID: 3919346962551613078, guid: 6b2415f6c1e8c044491ca92306138e9d, type: 3}
@@ -192,13 +191,17 @@ MonoBehaviour:
   - cropType: 1
     groundType: 1
     prefab: {fileID: 3044315359431512621, guid: f34585696da5e5a45bcf0de6dfe0cb94, type: 3}
-  - cropType: 2
+  - cropType: 3
     groundType: 0
     prefab: {fileID: 3044315359431512621, guid: d6f22a1fdb8761949ae9e35d33968247, type: 3}
-  - cropType: 2
+  - cropType: 3
     groundType: 1
     prefab: {fileID: 3044315359431512621, guid: 8a7cce99d624bd94ca655485e8e25ff0, type: 3}
+  - cropType: 2
+    groundType: 1
+    prefab: {fileID: 3044315359431512621, guid: a5f94015b20d6794082d4efadc5e9b80, type: 3}
+  - cropType: 2
+    groundType: 0
+    prefab: {fileID: 3044315359431512621, guid: b80b8854b185f1942a6f33a30dcc2fd5, type: 3}
   greenhousePrefab: {fileID: 191132627185023646, guid: 42dfd4e1d567fe6448e357652b324c1a, type: 3}
-  harvestedCarrotSprite: {fileID: 21300000, guid: ec54eebf998107046a25125737b06872, type: 2}
-  harvestedTomatoSprite: {fileID: 21300000, guid: 4b68122c9520f1f43b821b6e78fe6c19, type: 2}
-  harvestedPotatoSprite: {fileID: 21300000, guid: df46982aed3c51943b9f8d3f66c4c0c4, type: 2}
+  seedIconManager: {fileID: 0}

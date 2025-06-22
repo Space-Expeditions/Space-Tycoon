@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Pomato Seed
   itemType: 0
-  stackable: 0
-  icon: {fileID: -3702433366423764909, guid: 1952084258f48a840ae9ea8cd20bf7cb, type: 3}
+  stackable: 1
+  icon: {fileID: -7535849415449465717, guid: 81b2d5b32f7dd2649ab43edfd2603bc2, type: 3}
+  prefab: {fileID: 0}
