@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43060f136672eed46ab3ea933e1d5842, type: 3}
   m_Name: Tomapo Seed
   m_EditorClassIdentifier: 
-  Name: Pomato Seed
+  Name: Tomapo Seed
   itemType: 0
   stackable: 1
   icon: {fileID: -7535849415449465717, guid: 81b2d5b32f7dd2649ab43edfd2603bc2, type: 3}

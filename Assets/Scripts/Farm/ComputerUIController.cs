@@ -72,8 +72,10 @@ public class ComputerUIController : MonoBehaviour
 
     void OnMouseDown()
     {
-        if (cropPanel.activeSelf || envPanel.activeSelf || groundPanel.activeSelf)
-            return;
+        // if (cropPanel.activeSelf || envPanel.activeSelf || groundPanel.activeSelf)
+        // {
+        //     return;
+        // }
 
         currentComputer = this;
         currentComputer.spawnOrigin = transform.position;
@@ -88,7 +90,6 @@ public class ComputerUIController : MonoBehaviour
                 currentComputer.spawnedGrounds.Remove(currentComputer.spawnOrigin);
                 return;
             }
-
             Destroy(existingGround);
             currentComputer.spawnedGrounds.Remove(currentComputer.spawnOrigin);
         }
@@ -98,7 +99,6 @@ public class ComputerUIController : MonoBehaviour
             seedIconManager.inventory = InventoryManager.instance.inventoryContainer;
             seedIconManager.UpdateSeedIcons();
         }
-
         cropPanel?.SetActive(true);
     }
 
