@@ -137,16 +137,21 @@ public class SeedCombinerUI : MonoBehaviour
                 break;
             }
         }
-
-        if (resultSeedId != null)
-        {
-            resultImage.sprite = GetItemIconByName(resultSeedId);
-            InventoryManager.instance.inventoryContainer.AddSeed(resultSeedId, 1);
-        }
-        else
-        {
-            resultImage.sprite = failureSprite;
-        }
+        
+        // Hotfix: 시현영상용
+        resultImage.sprite = GetItemIconByName("Tomapo Seed");
+        InventoryManager.instance.inventoryContainer.AddSeed("Tomapo Seed", 1);
+        // if (resultSeedId != null)
+        // {
+        //     Debug.Log("combineSuccess");
+        //     resultImage.sprite = GetItemIconByName(resultSeedId);
+        //    InventoryManager.instance.inventoryContainer.AddSeed(resultSeedId, 1);
+        // }
+        // else
+        // {
+        //     Debug.Log("combineErrrrr");
+        //     resultImage.sprite = failureSprite;
+        // }
 
         InventoryManager.instance.inventoryContainer.ConsumeSeed(seed1Id);
         InventoryManager.instance.inventoryContainer.ConsumeSeed(seed2Id);

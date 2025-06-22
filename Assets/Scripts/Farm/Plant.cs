@@ -73,7 +73,7 @@ public class Plant : MonoBehaviour
 
         if (conditionsOk)
         {
-            growthTimer += Time.deltaTime;
+            growthTimer += Time.deltaTime * 3;
 
             if (CanAdvanceStage())
             {
@@ -130,27 +130,28 @@ public class Plant : MonoBehaviour
 
     private bool CheckEnvironmentConditions()
     {
-        if (plantData == null || plantData.soilRenderer == null)
-        {
-            Debug.LogWarning("CheckEnvironmentConditions 실패: plantData 또는 soilRenderer가 null입니다.");
-            return false;
-        }
-
-        string requiredTag = plantData.requiredSoilTag;
-        string actualTag = plantData.soilRenderer.tag;
-        bool soilMatch = actualTag == requiredTag;
-
-        bool tempMatch = EnvironmentManager.currentTemperature >= plantData.minTemperature &&
-                         EnvironmentManager.currentTemperature <= plantData.maxTemperature;
-
-        bool humidityMatch = EnvironmentManager.currentHumidity >= plantData.minHumidity &&
-                             EnvironmentManager.currentHumidity <= plantData.maxHumidity;
-
-        if (!soilMatch) Debug.Log($"❌ 땅 태그 불일치: 필요={requiredTag}, 현재={actualTag}");
-        if (!tempMatch) Debug.Log($"❌ 온도 불일치: {EnvironmentManager.currentTemperature}도 (요구 {plantData.minTemperature}~{plantData.maxTemperature})");
-        if (!humidityMatch) Debug.Log($"❌ 습도 불일치: {EnvironmentManager.currentHumidity}% (요구 {plantData.minHumidity}~{plantData.maxHumidity})");
-
-        return soilMatch && tempMatch && humidityMatch;
+        // if (plantData == null || plantData.soilRenderer == null)
+        // {
+        //     Debug.LogWarning("CheckEnvironmentConditions 실패: plantData 또는 soilRenderer가 null입니다.");
+        //     return false;
+        // }
+        //
+        // string requiredTag = plantData.requiredSoilTag;
+        // string actualTag = plantData.soilRenderer.tag;
+        // bool soilMatch = actualTag == requiredTag;
+        //
+        // bool tempMatch = EnvironmentManager.currentTemperature >= plantData.minTemperature &&
+        //                  EnvironmentManager.currentTemperature <= plantData.maxTemperature;
+        //
+        // bool humidityMatch = EnvironmentManager.currentHumidity >= plantData.minHumidity &&
+        //                      EnvironmentManager.currentHumidity <= plantData.maxHumidity;
+        //
+        // if (!soilMatch) Debug.Log($"❌ 땅 태그 불일치: 필요={requiredTag}, 현재={actualTag}");
+        // if (!tempMatch) Debug.Log($"❌ 온도 불일치: {EnvironmentManager.currentTemperature}도 (요구 {plantData.minTemperature}~{plantData.maxTemperature})");
+        // if (!humidityMatch) Debug.Log($"❌ 습도 불일치: {EnvironmentManager.currentHumidity}% (요구 {plantData.minHumidity}~{plantData.maxHumidity})");
+        //
+        // return soilMatch && tempMatch && humidityMatch;
+        return true;
     }
 
     private void Die()

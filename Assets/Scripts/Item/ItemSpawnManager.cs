@@ -21,10 +21,11 @@ public class ItemSpawnManager : MonoBehaviour
     {
         if (pickUpItemPrefab == null)
         {
-            Debug.LogError("pickUpItemPrefabÀÌ ÇÒ´çµÇÁö ¾Ê¾Ò½À´Ï´Ù!");
+            Debug.LogError("pickUpItemPrefabï¿½ï¿½ ï¿½Ò´ï¿½ï¿½ï¿½ï¿½ ï¿½Ê¾Ò½ï¿½ï¿½Ï´ï¿½!");
             return;
         }
         GameObject o = Instantiate(pickUpItemPrefab, position, Quaternion.identity);
+        o.transform.localScale = Vector3.one * 5f;
         o.GetComponent<MagnetItem>().Set(item, count);
     }
 }

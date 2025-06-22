@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Potato
   itemType: 2
-  stackable: 0
+  stackable: 1
   icon: {fileID: -7946102473130002614, guid: 83091feddb41cd546979ce4b95e48984, type: 3}
+  prefab: {fileID: 0}
