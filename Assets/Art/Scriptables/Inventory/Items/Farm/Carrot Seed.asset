@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Carrot Seed
   itemType: 0
-  stackable: 0
-  icon: {fileID: 6140363757321903947, guid: a1c1e18ca5d7b0640b3eca4ef02215c7, type: 3}
+  stackable: 1
+  icon: {fileID: 6140363757321903947, guid: 33afe4367bce48245b0523cc9a90dd19, type: 3}

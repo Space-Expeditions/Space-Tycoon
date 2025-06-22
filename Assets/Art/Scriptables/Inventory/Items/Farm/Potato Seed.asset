@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Potato Seed
   itemType: 0
-  stackable: 0
-  icon: {fileID: -1883917670902116064, guid: 77565c544c2b17f43a3917a288166271, type: 3}
+  stackable: 1
+  icon: {fileID: -1883917670902116064, guid: e2dbb36044f277b4e94987f7fc0934ce, type: 3}

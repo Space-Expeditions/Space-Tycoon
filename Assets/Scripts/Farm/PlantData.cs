@@ -9,7 +9,6 @@ public class PlantData : MonoBehaviour
     public float maxHumidity;
     public string soilTag;
 
-
     public string requiredSoilTag; // ✅ 식물이 원하는 땅의 태그를 직접 설정
 
     public SpriteRenderer soilRenderer;
@@ -27,7 +26,11 @@ public class PlantData : MonoBehaviour
             maxTemperature = 30f;
             minHumidity = 40f;
             maxHumidity = 70f;
-            growthStages = CreateGrowthStages(new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }, new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f });
+            requiredSoilTag = "Purple";
+            growthStages = CreateGrowthStages(
+                new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" },
+                new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f }
+            );
         }
         else if (objName.Contains("tomato"))
         {
@@ -36,7 +39,11 @@ public class PlantData : MonoBehaviour
             maxTemperature = 30f;
             minHumidity = 50f;
             maxHumidity = 80f;
-            growthStages = CreateGrowthStages(new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }, new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f });
+            requiredSoilTag = "Brown";
+            growthStages = CreateGrowthStages(
+                new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" },
+                new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f }
+            );
         }
         else if (objName.Contains("potato"))
         {
@@ -45,7 +52,25 @@ public class PlantData : MonoBehaviour
             maxTemperature = 28f;
             minHumidity = 45f;
             maxHumidity = 75f;
-            growthStages = CreateGrowthStages(new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }, new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f });
+            requiredSoilTag = "Brown";
+            growthStages = CreateGrowthStages(
+                new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" },
+                new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f }
+            );
+        }
+        else if (objName.Contains("tomapo"))
+        {
+            plantName = "토감";
+            minTemperature = 14f;
+            maxTemperature = 30f;
+            minHumidity = 50f;
+            maxHumidity = 80f;
+            requiredSoilTag = "Brown";
+            // 기존 시간의 2배
+            growthStages = CreateGrowthStages(
+                new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" },
+                new float[] { 10f, 10f, 20f, 40f, 60f, 80f, 100f, 120f, 140f, 160f }
+            );
         }
         else
         {
@@ -54,7 +79,11 @@ public class PlantData : MonoBehaviour
             maxTemperature = 30f;
             minHumidity = 40f;
             maxHumidity = 70f;
-            growthStages = CreateGrowthStages(new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" }, new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f });
+            requiredSoilTag = "Purple";
+            growthStages = CreateGrowthStages(
+                new string[] { "0", "1", "2", "3", "4", "5", "6", "7", "8", "9" },
+                new float[] { 5f, 5f, 10f, 20f, 30f, 40f, 50f, 60f, 70f, 80f }
+            );
         }
     }
 

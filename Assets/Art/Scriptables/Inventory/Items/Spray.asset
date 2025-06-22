@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Spray
   m_EditorClassIdentifier: 
   Name: Spray
+  itemType: 3
   stackable: 1
   icon: {fileID: -5506905411096534326, guid: 1b6a507d73b2e314a99b01e41cd03531, type: 3}

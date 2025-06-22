@@ -170,7 +170,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 482930947356358491}
@@ -228,7 +228,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 5
+  m_SortingOrder: 6
   m_Sprite: {fileID: 9084517501276852008, guid: ada1b6fc25cfc6c47831bd6730ea7539, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -274,7 +274,7 @@ MonoBehaviour:
   maxHumidity: 80
   soilTag: 
   requiredSoilTag: PurpleSoil
-  soilRenderer: {fileID: 1034519387444191021, guid: e1056a232ed3bf34bbb1505fa1fb00e8, type: 3}
+  soilRenderer: {fileID: 1034519387444191021, guid: 6b2415f6c1e8c044491ca92306138e9d, type: 3}
   growthStages:
   - {fileID: 5125084174449159920}
   - {fileID: 4954559840034875364}

@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Bone
   m_EditorClassIdentifier: 
   Name: Bone
+  itemType: 3
   stackable: 1
   icon: {fileID: -7519203277076874626, guid: 1b6a507d73b2e314a99b01e41cd03531, type: 3}

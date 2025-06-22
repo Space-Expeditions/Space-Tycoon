@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class MagnetItem : MonoBehaviour
 {
-    public float magnetRange = 1.5f;         // �ڼ��� �۵��� ����
-    public float moveSpeed = 2f;           // ������ �ӵ�
-    public float pickupDistance = 1f;      // ������ ȹ�� �Ÿ�
+    public float magnetRange = 1.5f;         // 자석이 작동할 범위
+    public float moveSpeed = 2f;           // 끌리는 속도
+    public float pickupDistance = 1f;      // 아이템 획득 거리
 
     Transform player;
 
@@ -16,7 +16,7 @@ public class MagnetItem : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player")?.transform;
         if (player == null)
         {
-            Debug.LogError("Player �±׸� ���� ������Ʈ�� �����ϴ�!");
+            Debug.LogError("Player 태그를 가진 오브젝트가 없습니다!");
         }
     }
 
@@ -27,15 +27,21 @@ public class MagnetItem : MonoBehaviour
 
         SpriteRenderer renderer = GetComponent<SpriteRenderer>();
         renderer.sprite = item.icon;
+        renderer.sortingOrder = 4; // 아이템은 항상 order 4로 표시
     }
 
     void Update()
     {
         if (player == null) return;
 
-        float distance = Vector3.Distance(transform.position, player.position);
+        float distance = Vector2.Distance(
+            new Vector2(transform.position.x, transform.position.y),
+            new Vector2(player.position.x, player.position.y)
+);
 
-        // ���� �Ÿ� �̳��� ������
+
+
+        // 일정 거리 이내면 끌려감
         if (distance < magnetRange)
         {
             transform.position = Vector3.MoveTowards(
@@ -45,7 +51,7 @@ public class MagnetItem : MonoBehaviour
             );
         }
 
-        // �÷��̾�� ����� ��������� ������ ȹ��
+        // 플레이어에게 충분히 가까워지면 아이템 획득
         if (distance < pickupDistance)
         {
             CollectItem();
@@ -54,13 +60,13 @@ public class MagnetItem : MonoBehaviour
 
     void CollectItem()
     {
-        Debug.Log($"{item.Name} ȹ��!");
+        Debug.Log($"{item.Name} 획득!");
 
         if (InventoryManager.instance.inventoryContainer != null)
         {
             InventoryManager.instance.inventoryContainer.Add(item, count);
 
-            // ȹ�� ��� UI ���� ȣ��
+            // 획득 즉시 UI 갱신 호출
             if (InventoryManager.instance.inventoryPanel != null)
                 InventoryManager.instance.inventoryPanel.Show();
 
@@ -69,7 +75,7 @@ public class MagnetItem : MonoBehaviour
         }
         else
         {
-            Debug.LogWarning("�� ��� �Ҷ��� �־����");
+            Debug.LogWarning("자 잠시 소란이 있었어요");
         }
 
         Destroy(gameObject);

@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: Book
   m_EditorClassIdentifier: 
   Name: Book
+  itemType: 3
   stackable: 1
   icon: {fileID: 7480753212616201199, guid: 1b6a507d73b2e314a99b01e41cd03531, type: 3}

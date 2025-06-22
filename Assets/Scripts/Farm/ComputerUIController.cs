@@ -2,19 +2,10 @@
 using UnityEngine;
 using System.Linq;
 using TMPro;
+using UnityEngine.UI;
 
-public enum CropType
-{
-    Potato,
-    Carrot,
-    Tomato
-}
-
-public enum GroundType
-{
-    Purple,
-    Brown
-}
+public enum CropType { Potato, Carrot, Tomapo, Tomato }
+public enum GroundType { Purple, Brown }
 
 [System.Serializable]
 public class CropVariant
@@ -48,6 +39,9 @@ public class ComputerUIController : MonoBehaviour
     public Sprite harvestedTomatoSprite;
     public Sprite harvestedPotatoSprite;
 
+    [Header("Seed Icon Manager")]
+    public SeedIconManager seedIconManager;
+
     private CropType selectedCrop;
     private GroundType selectedGround;
     private float humidity;
@@ -55,80 +49,85 @@ public class ComputerUIController : MonoBehaviour
 
     private GameObject lastSpawnedGround;
 
-    GameObject player;
-
     void Start()
     {
-        player = GameObject.FindWithTag("Player");
-
         cropPanel.SetActive(false);
         envPanel.SetActive(false);
         groundPanel.SetActive(false);
     }
 
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            float dist = Vector2.Distance(player.transform.position, transform.position);
-            if (dist < 0.5f)
-            {
-                InteractiveComputer();
-            }
-            else
-            {
-                Debug.Log("Far to computer");
-            }
-        }
-    }
-
     void OnMouseDown()
     {
-        InteractiveComputer();
-    }
-
-    void InteractiveComputer()
-    {
-        // ✅ UI 중복 클릭 방지
         if (cropPanel.activeSelf || envPanel.activeSelf || groundPanel.activeSelf)
             return;
 
-        // ✅ 수확 처리
-        Plant plant = lastSpawnedGround != null
-            ? lastSpawnedGround.GetComponentInChildren<Plant>()
-            : null;
+        Plant plant = lastSpawnedGround != null ? lastSpawnedGround.GetComponentInChildren<Plant>() : null;
 
         if (plant != null && plant.isFullyGrown)
         {
             Vector3 basePos = lastSpawnedGround.transform.position + new Vector3(0, 0.3f, 0.5f);
-            int count = 1;
-            Sprite spriteToUse = null;
 
-            switch (selectedCrop)
+            if (plant.plantData != null && plant.plantData.plantName == "토감")
             {
-                case CropType.Carrot:
-                    spriteToUse = harvestedCarrotSprite;
-                    count = 1;
-                    break;
-                case CropType.Tomato:
-                    spriteToUse = harvestedTomatoSprite;
-                    count = Random.Range(1, 4);
-                    break;
-                case CropType.Potato:
-                    spriteToUse = harvestedPotatoSprite;
-                    count = Random.Range(1, 4);
-                    break;
+                Item tomato = ItemDatabase.instance.GetItemByName("Tomato");
+                Item potato = ItemDatabase.instance.GetItemByName("Potato");
+
+                int tomatoCount = Random.Range(1, 4);
+                int potatoCount = Random.Range(1, 4);
+
+                for (int i = 0; i < tomatoCount; i++)
+                {
+                    Vector3 offset = new Vector3(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
+                    Vector3 spawnPos = basePos + offset;
+                    ItemSpawnManager.instance.SpawnItem(spawnPos, tomato, 1);
+                }
+
+                for (int i = 0; i < potatoCount; i++)
+                {
+                    Vector3 offset = new Vector3(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
+                    Vector3 spawnPos = basePos + offset;
+                    ItemSpawnManager.instance.SpawnItem(spawnPos, potato, 1);
+                }
             }
-
-            for (int i = 0; i < count; i++)
+            else
             {
-                Vector3 offset = new Vector3(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
-                GameObject drop = new GameObject("HarvestedItem");
-                drop.transform.position = basePos + offset;
+                int count = 1;
+                string itemName = null;
 
-                SpriteRenderer sr = drop.AddComponent<SpriteRenderer>();
-                sr.sprite = spriteToUse;
-                sr.sortingOrder = 20;
+                switch (selectedCrop)
+                {
+                    case CropType.Carrot:
+                        itemName = "Carrot";
+                        count = 1;
+                        break;
+                    case CropType.Tomato:
+                        itemName = "Tomato";
+                        count = Random.Range(1, 4);
+                        break;
+                    case CropType.Potato:
+                        itemName = "Potato";
+                        count = Random.Range(1, 4);
+                        break;
+                }
+
+                if (itemName != null)
+                {
+                    Item harvestedItem = ItemDatabase.instance.GetItemByName(itemName);
+
+                    if (harvestedItem != null)
+                    {
+                        for (int i = 0; i < count; i++)
+                        {
+                            Vector3 offset = new Vector3(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
+                            Vector3 spawnPos = basePos + offset;
+                            ItemSpawnManager.instance.SpawnItem(spawnPos, harvestedItem, 1);
+                        }
+                    }
+                    else
+                    {
+                        Debug.LogError($"ItemDatabase에서 {itemName} 아이템을 찾을 수 없습니다.");
+                    }
+                }
             }
 
             Destroy(lastSpawnedGround);
@@ -136,11 +135,16 @@ public class ComputerUIController : MonoBehaviour
             return;
         }
 
-        // ✅ 땅 제거
         if (lastSpawnedGround != null)
         {
             Destroy(lastSpawnedGround);
             lastSpawnedGround = null;
+        }
+
+        if (seedIconManager != null && InventoryManager.instance != null)
+        {
+            seedIconManager.inventory = InventoryManager.instance.inventoryContainer;
+            seedIconManager.UpdateSeedIcons();
         }
 
         cropPanel.SetActive(true);
@@ -159,14 +163,12 @@ public class ComputerUIController : MonoBehaviour
         string temperatureText = temperatureInput != null ? temperatureInput.text : "null";
 
         Debug.Log($"습도: {humidityText}, 온도: {temperatureText}");
-
         ConfirmEnvironment(humidityText, temperatureText);
     }
 
     public void ConfirmEnvironment(string humidityText, string temperatureText)
     {
-        if (float.TryParse(humidityText, out humidity) &&
-            float.TryParse(temperatureText, out temperature))
+        if (float.TryParse(humidityText, out humidity) && float.TryParse(temperatureText, out temperature))
         {
             EnvironmentManager.currentHumidity = humidity;
             EnvironmentManager.currentTemperature = temperature;
@@ -189,14 +191,20 @@ public class ComputerUIController : MonoBehaviour
 
     void PlaceFieldAndCrop()
     {
-        // ✅ 땅 중복 방지
         if (lastSpawnedGround != null)
         {
             Destroy(lastSpawnedGround);
             lastSpawnedGround = null;
         }
 
-        Vector3 groundPos = spawnPoint.position + new Vector3(0, 0.5f, 1f);
+        string seedName = selectedCrop.ToString() + " Seed";
+        if (!InventoryManager.instance.inventoryContainer.HasSeed(seedName))
+        {
+            Debug.LogWarning($"❌ {seedName} 씨앗이 없습니다. 작물을 생성할 수 없습니다.");
+            return;
+        }
+
+        Vector3 groundPos = spawnPoint.position + new Vector3(0, 1f, 1f);
         lastSpawnedGround = Instantiate(groundPrefabs[(int)selectedGround], groundPos, Quaternion.identity);
 
         if (greenhousePrefab != null)
@@ -232,6 +240,9 @@ public class ComputerUIController : MonoBehaviour
             {
                 plant.isEnvironmentSensitive = true;
             }
+
+            InventoryManager.instance.inventoryContainer.ConsumeSeed(seedName, 1);
+            seedIconManager?.UpdateSeedIcons();
         }
         else
         {

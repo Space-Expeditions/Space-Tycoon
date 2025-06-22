@@ -8,6 +8,9 @@ TagManager:
   - BrownSoil
   - MapGrid
   - Laser
+  - Monster
+  - Undefined
+  - PurpleSoil
   layers:
   - Default
   - TransparentFX

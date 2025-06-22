@@ -5,6 +5,7 @@ public class Plant : MonoBehaviour
 {
     public PlantData plantData;
     public bool isEnvironmentSensitive = false;
+    public CropType cropType; // ✅ 작물 종류 저장
 
     private float growthTimer = 0f;
     private bool isGrowing = true;
@@ -28,7 +29,6 @@ public class Plant : MonoBehaviour
             UpdateStageVisual(plantData.growthStages[0].stageSprite);
         }
 
-        // 시작 시 이미 6단계면 성장 완료로 처리
         if (currentStageIndex == 6)
         {
             isFullyGrown = true;
@@ -98,7 +98,6 @@ public class Plant : MonoBehaviour
         growthTimer = 0f;
         badEnvironmentCounter = 0;
 
-        // ✅ 6단계 이상이면 성장 완료로 처리
         if (currentStageIndex == 6)
         {
             isFullyGrown = true;
@@ -109,7 +108,6 @@ public class Plant : MonoBehaviour
             isFullyGrown = false;
         }
 
-        // 단계가 배열 범위 내에 있으면 시각 갱신
         if (currentStageIndex < plantData.growthStages.Length)
         {
             var stage = plantData.growthStages[currentStageIndex];
