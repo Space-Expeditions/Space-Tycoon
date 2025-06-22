@@ -15,6 +15,10 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject hpBarPanel;
     [SerializeField] private GameObject uiMessagePanel;
     [SerializeField] private GameObject questUIPanel;
+    [SerializeField] private GameObject computerUI;
+    [SerializeField] private GameObject cropShopPanel;
+    [SerializeField] private GameObject seedCombinationPanel;
+    [SerializeField] private GameObject seedSelectionPanel;
     [SerializeField] private GameObject player;
 
     [Header("Player Scripts")]
