@@ -15,8 +15,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject hpBarPanel;
     [SerializeField] private GameObject uiMessagePanel;
     [SerializeField] private GameObject questUIPanel;
-    [SerializeField] private GameObject pauseMenuPanel;
-    // [SerializeField] private GameObject player;
+    [SerializeField] private GameObject player;
 
     [Header("Player Scripts")]
     [SerializeField] private PlayerMovement playerMovement;
@@ -79,23 +78,6 @@ public class UIManager : MonoBehaviour
             if (miniMapPanel != null) miniMapPanel.SetActive(!anyPanelActive);
 
             wasAnyPanelActive = anyPanelActive;
-        }
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            // 다른 패널이 없을 때만 PauseMenu 열기/닫기
-            if (activePanels.Count == 0)
-            {
-                bool isActive = pauseMenuPanel.activeSelf;
-                pauseMenuPanel.SetActive(!isActive);
-            }
-            else
-            {
-                // 다른 UI 열려있으면 ESC로 닫기
-                foreach (var panel in activePanels)
-                {
-                    panel.SetActive(false);
-                }
-            }
         }
     }
 }

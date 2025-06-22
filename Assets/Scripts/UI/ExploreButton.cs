@@ -25,12 +25,16 @@ public class ExploreButton : MonoBehaviour
             SceneManager.LoadScene(1);
         }
         else if (SceneManager.GetActiveScene().buildIndex == 1)
-        {
-            spawnManager = GameObject.FindFirstObjectByType<PlayerSpawnManager>();
+{
+    spawnManager = GameObject.FindFirstObjectByType<PlayerSpawnManager>();
+    if (spawnManager == null)
+    {
+        Debug.LogError("❌ PlayerSpawnManager가 활성화된 오브젝트에 없습니다.");
+        return;
+    }
 
-            transform.parent.gameObject.SetActive(false);
-
-            spawnManager.Warp(nums);
-        }
+    transform.parent.gameObject.SetActive(false);
+    spawnManager.Warp(nums);
+}
     }
 }
