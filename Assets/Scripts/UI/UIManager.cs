@@ -16,7 +16,10 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject hpBarPanel;
     [SerializeField] private GameObject uiMessagePanel;
     [SerializeField] private GameObject questUIPanel;
+    [SerializeField] private GameObject pauseMenuPanel;
+
     [SerializeField] private GameObject player;
+    
 
     [Header("Player Scripts")]
     [SerializeField] private PlayerMovement playerMovement;
@@ -53,8 +56,8 @@ public class UIManager : MonoBehaviour
 
         foreach (Transform child in transform)
         {
-            if (child.gameObject.activeSelf && 
-                child.gameObject != miniMapPanel && 
+            if (child.gameObject.activeSelf &&
+                child.gameObject != miniMapPanel &&
                 child.gameObject != toolbarPanel &&
                 child.gameObject != oxygenPanel &&
                 child.gameObject != hpBarPanel &&
@@ -65,11 +68,11 @@ public class UIManager : MonoBehaviour
                 hasPanelChanged = true;
             }
         }
-        
+
         if (hasPanelChanged || wasAnyPanelActive != (activePanels.Count > 0))
         {
             bool anyPanelActive = activePanels.Count > 0;
-            
+
             if (playerMovement != null) playerMovement.enabled = !anyPanelActive;
             if (toolbarController != null) toolbarController.enabled = !anyPanelActive;
             if (inventoryController != null && !inventorPanel.activeInHierarchy) inventoryController.enabled = !anyPanelActive;
@@ -79,6 +82,23 @@ public class UIManager : MonoBehaviour
             if (miniMapPanel != null) miniMapPanel.SetActive(!anyPanelActive);
 
             wasAnyPanelActive = anyPanelActive;
+        }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            // 다른 패널이 없을 때만 PauseMenu 열기/닫기
+            if (activePanels.Count == 0)
+            {
+                bool isActive = pauseMenuPanel.activeSelf;
+                pauseMenuPanel.SetActive(!isActive);
+            }
+            else
+            {
+                // 다른 UI 열려있으면 ESC로 닫기
+                foreach (var panel in activePanels)
+                {
+                    panel.SetActive(false);
+                }
+            }
         }
     }
 }
