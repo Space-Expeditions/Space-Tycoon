@@ -4,14 +4,12 @@ using UnityEngine.SceneManagement;
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
-
     public bool canMove = true;
 
     Vector3 move;
 
     SpriteRenderer spriteRenderer;
     Animator animator;
-
     WaypointManager waypointManager;
 
     public Sprite idleFront;
@@ -23,8 +21,12 @@ public class PlayerMovement : MonoBehaviour
 
     public bool anotherAnim = false;
 
-
     static public PlayerMovement instance;
+
+    // 발소리 관련
+    public AudioClip footstepSound;
+    private AudioSource audioSource;
+
     void Awake()
     {
         if (instance != null && instance != this)
@@ -43,6 +45,15 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
         waypointManager = GameObject.FindFirstObjectByType<WaypointManager>();
 
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+            audioSource = gameObject.AddComponent<AudioSource>();
+
+        // 발소리 세팅 (루프, 볼륨 조절)
+        audioSource.clip = footstepSound;
+        audioSource.loop = true;
+        audioSource.volume = 0.5f; // 필요하면 조절
+
         if (SceneManager.GetActiveScene().buildIndex == 0 && waypointManager.isReturn)
         {
             transform.position = GameObject.FindFirstObjectByType<VehicleControl>().transform.GetChild(0).transform.position;
@@ -52,7 +63,6 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         move = Vector3.zero;
-
         bool isMoving = false;
 
         if (Input.GetKey(KeyCode.W))
@@ -81,8 +91,6 @@ public class PlayerMovement : MonoBehaviour
         }
 
         move = move.normalized;
-
-        // 🔽 여기서 실제 이동 중인지 확인
         isMoving = move.magnitude > 0;
 
         if (isMoving)
@@ -94,15 +102,16 @@ public class PlayerMovement : MonoBehaviour
                 animator.SetFloat("MoveX", move.x);
                 animator.SetFloat("MoveY", move.y);
 
-                // 이동 중에도 flipX 처리
                 if (Mathf.Abs(move.x) > Mathf.Abs(move.y))
-                {
                     spriteRenderer.flipX = move.x < 0;
-                }
                 else
-                {
                     spriteRenderer.flipX = false;
-                }
+            }
+
+            // 발소리 재생중이 아니면 재생 시작
+            if (!audioSource.isPlaying && footstepSound != null)
+            {
+                audioSource.Play();
             }
         }
         else
@@ -110,13 +119,18 @@ public class PlayerMovement : MonoBehaviour
             if (!anotherAnim)
             {
                 animator.enabled = false;
-                UpdateIdleSprite(); // 멈췄을 때 idle 이미지 설정
+                UpdateIdleSprite();
+            }
+
+            // 멈췄으면 발소리 정지
+            if (audioSource.isPlaying)
+            {
+                audioSource.Pause();
             }
         }
     }
 
     public GameObject target;
-
     public bool goal = false;
 
     void FixedUpdate()
@@ -124,7 +138,6 @@ public class PlayerMovement : MonoBehaviour
         if (canMove)
         {
             transform.Translate(move * moveSpeed * Time.fixedDeltaTime);
-
             goal = false;
         }
         else
@@ -143,7 +156,6 @@ public class PlayerMovement : MonoBehaviour
 
     void UpdateIdleSprite()
     {
-        // 마지막 방향 기준으로 정지 이미지 설정
         if (Mathf.Abs(lastMoveX) > Mathf.Abs(lastMoveY))
         {
             spriteRenderer.sprite = idleSide;
@@ -169,9 +181,7 @@ public class PlayerMovement : MonoBehaviour
             anotherAnim = true;
             canMove = false;
             if (!animator.enabled)
-            {
                 animator.enabled = true;
-            }
 
             if (animName == "Climb")
                 GetComponent<BoxCollider2D>().enabled = false;
@@ -191,13 +201,11 @@ public class PlayerMovement : MonoBehaviour
     public void RetunAnimation()
     {
         animator.SetTrigger("Return");
-
         GetComponent<BoxCollider2D>().enabled = true;
-
         anotherAnim = false;
         animCheck = false;
     }
-    
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.CompareTag("Wall"))

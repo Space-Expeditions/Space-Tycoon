@@ -18,27 +18,31 @@ public class VehicleControl : MonoBehaviour
     GunController gunController;
 
     public float vehicleSpeed = 7f;
-
     public bool canMove = true;
     public bool isRiding;
+
+    // 🔊 차량 부릉부릉 소리
+    public AudioClip vehicleEngineSound;
+    private AudioSource audioSource;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         spRenderer = GetComponent<SpriteRenderer>();
-        
+
         player = GameObject.FindAnyObjectByType<PlayerMovement>();
         followCamera = GameObject.FindWithTag("MainCamera")?.GetComponent<FollowCamera>();
         spawnManager = GameObject.FindFirstObjectByType<PlayerSpawnManager>();
         gunController = player?.GetComponentInChildren<GunController>();
-        // gunController = player?.transform.GetChild(0).GetComponent<GunController>();
-        // gunController = player?.GetComponentsInChildren<GunController>(true).FirstOrDefault();
-        
-        if (player == null || gunController == null || followCamera == null || spawnManager == null)
-        {
-            Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않습니다.");
-            return;
-        }
+
+        // 🔊 오디오 소스 설정
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+            audioSource = gameObject.AddComponent<AudioSource>();
+
+        audioSource.clip = vehicleEngineSound;
+        audioSource.loop = true;
+        audioSource.playOnAwake = false;
 
         if (isRiding)
         {
@@ -53,22 +57,23 @@ public class VehicleControl : MonoBehaviour
             else
                 gunController.SetGunRenderer();
             player.GetComponent<PlayerMovement>().enabled = false;
+
+            if (vehicleEngineSound != null)
+                audioSource.Play(); // 시작 시 탑승 상태면 소리 재생
         }
     }
 
     void Update()
     {
         if (player == null) return;
-        
+
         if (Input.GetKeyDown(KeyCode.Space) && SceneManager.GetActiveScene().buildIndex == 1)
         {
             if (!isRiding)
             {
                 float distance = Vector2.Distance(player.transform.position, transform.position);
                 if (distance <= 2f)
-                {
                     Riding();
-                }
             }
             else
             {
@@ -76,7 +81,8 @@ public class VehicleControl : MonoBehaviour
 
                 for (int i = 0; i < spawnManager.waypointPos.Count; i++)
                 {
-                    if (spawnManager.waypointPos[i].GetComponent<Teleporter>().NearTeleporter() && spawnManager.waypointPos[i].GetComponent<Animator>().enabled)
+                    if (spawnManager.waypointPos[i].GetComponent<Teleporter>().NearTeleporter() &&
+                        spawnManager.waypointPos[i].GetComponent<Animator>().enabled)
                     {
                         near = true;
                         break;
@@ -91,13 +97,11 @@ public class VehicleControl : MonoBehaviour
                     {
                         spawnManager.grid.SetActive(true);
                         spawnManager.grid.transform.parent.gameObject.GetComponent<ButtonGrid>().SetWaypointButtons();
-
                         canMove = false;
                     }
                     else
                     {
                         spawnManager.grid.SetActive(false);
-
                         canMove = true;
                     }
                 }
@@ -110,7 +114,6 @@ public class VehicleControl : MonoBehaviour
             float moveY = Input.GetAxisRaw("Vertical");
 
             Vector3 move = new Vector3(moveX, moveY, 0f).normalized;
-
             transform.position += move * vehicleSpeed * Time.deltaTime;
 
             if (move != Vector3.zero)
@@ -140,6 +143,9 @@ public class VehicleControl : MonoBehaviour
             else
                 gunController.SetGunRenderer();
             player.GetComponent<PlayerMovement>().enabled = false;
+
+            if (vehicleEngineSound != null)
+                audioSource.Play(); // 🚗 소리 재생
         }
         else
         {
@@ -148,13 +154,14 @@ public class VehicleControl : MonoBehaviour
             rb.constraints = RigidbodyConstraints2D.FreezeAll;
 
             followCamera.target = player.transform;
-
             player.transform.position = point.transform.position;
 
             player.GetComponent<BoxCollider2D>().enabled = true;
             player.GetComponent<SpriteRenderer>().enabled = true;
             gunController.SetGunRenderer();
             player.GetComponent<PlayerMovement>().enabled = true;
+
+            audioSource.Stop(); // 🛑 소리 정지
         }
 
         player.canMove = !isRiding;

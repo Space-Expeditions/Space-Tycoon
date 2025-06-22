@@ -152,3 +152,5 @@ MonoBehaviour:
   pickupDistance: 1
   item: {fileID: 11400000, guid: 8a6a8c11973124fcb90111c6d83df2f2, type: 2}
   count: 1
+  pickupSound: {fileID: 8300000, guid: 6040c186311b2ab4b97de804be061be2, type: 3}
+  pickupSoundVolume: 1

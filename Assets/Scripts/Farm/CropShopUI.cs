@@ -32,21 +32,26 @@ public class CropShopUI : MonoBehaviour
 
         foreach (var priceData in cropPrices)
         {
-            string itemName = priceData.cropId.Trim();
-            string itemKey = itemName.ToLower();
-            int ownedCount = inventory.GetItemCount(itemName);
+            string cropNameKey = priceData.cropId.Trim().ToLower();
+            int ownedCount = inventory.GetItemCount(priceData.cropId);
 
             GameObject buttonObj = Instantiate(cropButtonPrefab, cropButtonParent);
-            Item itemInfo = ItemDatabase.instance.GetItemByName(itemName);
+
+            // 인벤토리에 있는 해당 작물 슬롯 찾기
+            ItemSlot slot = inventory.slots.Find(s =>
+                s.item != null &&
+                s.item.itemType == ItemType.Crop &&
+                s.item.Name.Trim().ToLower() == cropNameKey
+            );
 
             // 아이콘 설정
             Transform iconTransform = buttonObj.transform.Find("Icon");
             if (iconTransform != null)
             {
                 Image iconImage = iconTransform.GetComponent<Image>();
-                if (iconImage != null && itemInfo != null)
+                if (iconImage != null)
                 {
-                    iconImage.sprite = itemInfo.icon;
+                    iconImage.sprite = slot?.item?.icon;
                 }
             }
 
@@ -57,47 +62,24 @@ public class CropShopUI : MonoBehaviour
                 TextMeshProUGUI label = labelTransform.GetComponent<TextMeshProUGUI>();
                 if (label != null)
                 {
-                    string displayName = itemInfo != null ? itemInfo.Name : itemName;
-                    if (itemInfo.itemType == ItemType.Crop)
-                        label.text = $"{displayName} ({ownedCount}개) - {priceData.CurrentPrice}G (판매)";
-                    else if (itemInfo.itemType == ItemType.Equipment)
-                        label.text = $"{displayName} - {priceData.CurrentPrice}G (구매)";
-                    else
-                        label.text = $"{displayName} - {priceData.CurrentPrice}G";
+                    string displayName = slot?.item?.Name ?? priceData.cropId;
+                    label.text = $"{displayName} ({ownedCount}개) - {priceData.CurrentPrice}G";
                 }
             }
 
-            // 버튼 이벤트 설정
-            Button button = buttonObj.GetComponent<Button>();
-
-            if (itemInfo.itemType == ItemType.Crop)
+            // 클릭 이벤트: 보유 중인 작물만 가능
+            if (ownedCount > 0)
             {
-                if (ownedCount > 0)
+                string nameCopy = priceData.cropId;
+                buttonObj.GetComponent<Button>().onClick.AddListener(() =>
                 {
-                    string nameCopy = itemName;
-                    button.onClick.AddListener(() =>
-                    {
-                        SellCrop(nameCopy, 1);
-                        RefreshSellList();
-                    });
-                }
-                else
-                {
-                    button.interactable = false;
-                }
-            }
-            else if (itemInfo.itemType == ItemType.Equipment)
-            {
-                string nameCopy = itemName;
-                button.onClick.AddListener(() =>
-                {
-                    TryBuyEquipment(nameCopy);
+                    SellCrop(nameCopy, 1);
                     RefreshSellList();
                 });
             }
             else
             {
-                button.interactable = false;
+                buttonObj.GetComponent<Button>().interactable = false;
             }
         }
     }
@@ -110,8 +92,8 @@ public class CropShopUI : MonoBehaviour
             return;
         }
 
-        string cropKey = cropName.Trim().ToLower();
-        var priceData = cropPrices.Find(p => p.cropId.Trim().ToLower() == cropKey);
+        string cropNameKey = cropName.Trim().ToLower();
+        var priceData = cropPrices.Find(p => p.cropId.Trim().ToLower() == cropNameKey);
 
         if (priceData == null)
         {
@@ -123,130 +105,4 @@ public class CropShopUI : MonoBehaviour
         GoldManager.Instance.AddGold(totalGold);
         Debug.Log($"✅ {cropName} 판매 완료: {totalGold}G 획득");
     }
-
-    public void TryBuyEquipment(string itemName)
-    {
-        var item = ItemDatabase.instance.GetItemByName(itemName);
-        var priceData = cropPrices.Find(p => p.cropId.Trim().ToLower() == itemName.ToLower());
-
-        if (item == null || priceData == null)
-        {
-            Debug.LogWarning("❌ 잘못된 아이템 정보");
-            return;
-        }
-
-        int price = priceData.CurrentPrice;
-
-        // 안전하게 골드 차감 시도
-        if (GoldManager.Instance.TrySpendGold(price))
-        {
-            inventory.Add(item, 1);
-            Debug.Log($"🛒 {item.Name} 구매 완료!");
-        }
-        else
-        {
-            Debug.LogWarning("❌ 골드가 부족합니다.");
-        }
-    }
-
-    //[Header("Reference")]
-    //public ItemContainer inventory;
-    //public List<CropPriceData> cropPrices;
-
-    //[Header("UI")]
-    //public GameObject cropButtonPrefab;
-    //public Transform cropButtonParent;
-    //public GameObject shopPanel;
-
-    //private void OnMouseDown()
-    //{
-    //    if (!shopPanel.activeSelf)
-    //    {
-    //        shopPanel.SetActive(true);
-    //        RefreshSellList();
-    //    }
-    //}
-
-    //public void RefreshSellList()
-    //{
-    //    foreach (Transform child in cropButtonParent)
-    //    {
-    //        Destroy(child.gameObject);
-    //    }
-
-    //    foreach (var priceData in cropPrices)
-    //    {
-    //        string cropNameKey = priceData.cropId.Trim().ToLower();
-    //        int ownedCount = inventory.GetItemCount(priceData.cropId);
-
-    //        GameObject buttonObj = Instantiate(cropButtonPrefab, cropButtonParent);
-
-    //        // 인벤토리에 있는 해당 작물 슬롯 찾기
-    //        ItemSlot slot = inventory.slots.Find(s =>
-    //            s.item != null &&
-    //            s.item.itemType == ItemType.Crop &&
-    //            s.item.Name.Trim().ToLower() == cropNameKey
-    //        );
-
-    //        // 아이콘 설정
-    //        Transform iconTransform = buttonObj.transform.Find("Icon");
-    //        if (iconTransform != null)
-    //        {
-    //            Image iconImage = iconTransform.GetComponent<Image>();
-    //            if (iconImage != null)
-    //            {
-    //                iconImage.sprite = slot?.item?.icon;
-    //            }
-    //        }
-
-    //        // 텍스트 설정
-    //        Transform labelTransform = buttonObj.transform.Find("Label");
-    //        if (labelTransform != null)
-    //        {
-    //            TextMeshProUGUI label = labelTransform.GetComponent<TextMeshProUGUI>();
-    //            if (label != null)
-    //            {
-    //                string displayName = slot?.item?.Name ?? priceData.cropId;
-    //                label.text = $"{displayName} ({ownedCount}개) - {priceData.CurrentPrice}G";
-    //            }
-    //        }
-
-    //        // 클릭 이벤트: 보유 중인 작물만 가능
-    //        if (ownedCount > 0)
-    //        {
-    //            string nameCopy = priceData.cropId;
-    //            buttonObj.GetComponent<Button>().onClick.AddListener(() =>
-    //            {
-    //                SellCrop(nameCopy, 1);
-    //                RefreshSellList();
-    //            });
-    //        }
-    //        else
-    //        {
-    //            buttonObj.GetComponent<Button>().interactable = false;
-    //        }
-    //    }
-    //}
-
-    //public void SellCrop(string cropName, int amount)
-    //{
-    //    if (!inventory.RemoveItem(cropName, amount))
-    //    {
-    //        Debug.LogWarning($"❌ 인벤토리에 '{cropName}'이 부족합니다.");
-    //        return;
-    //    }
-
-    //    string cropNameKey = cropName.Trim().ToLower();
-    //    var priceData = cropPrices.Find(p => p.cropId.Trim().ToLower() == cropNameKey);
-
-    //    if (priceData == null)
-    //    {
-    //        Debug.LogWarning($"❌ 가격 정보를 찾을 수 없습니다: {cropName}");
-    //        return;
-    //    }
-
-    //    int totalGold = priceData.CurrentPrice * amount;
-    //    GoldManager.Instance.AddGold(totalGold);
-    //    Debug.Log($"✅ {cropName} 판매 완료: {totalGold}G 획득");
-    //}
 }

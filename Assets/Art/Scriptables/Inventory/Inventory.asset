@@ -21,18 +21,10 @@ MonoBehaviour:
     count: 88
   - item: {fileID: 11400000, guid: 7a122a6763fab404e89c5ddcc359ade2, type: 2}
     count: 88
-  - item: {fileID: 11400000, guid: 0b8be69ff49ccb04e9571aadc905bf6a, type: 2}
-    count: 50
-  - item: {fileID: 11400000, guid: 1eea78bc27ac9e84aa099ad0eb1c9411, type: 2}
-    count: 50
-  - item: {fileID: 11400000, guid: b4c37088bd1bce54ba323f8cafd66875, type: 2}
-    count: 49
-  - item: {fileID: 11400000, guid: c5f6cb45830ed5c4c881614f9acc2bfe, type: 2}
-    count: 50
-  - item: {fileID: 11400000, guid: 558b3470592d49242993f2108f11f89e, type: 2}
-    count: 50
-  - item: {fileID: 11400000, guid: a4a7c44458cb9e34f9bbfc41e7406c09, type: 2}
-    count: 50
+  - item: {fileID: 11400000, guid: 9e2606e65289142d79e1dc01dbd92855, type: 2}
+    count: 3
+  - item: {fileID: 11400000, guid: c1c59b5fcb17c864ebabc4ac171e9d49, type: 2}
+    count: 1
   - item: {fileID: 0}
     count: 0
   - item: {fileID: 0}
@@ -47,8 +39,16 @@ MonoBehaviour:
     count: 0
   - item: {fileID: 0}
     count: 0
-  - item: {fileID: 11400000, guid: 3fa0d4948931ff24a8324ef67e325f59, type: 2}
-    count: 9
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
+  - item: {fileID: 0}
+    count: 0
   - item: {fileID: 0}
     count: 0
   - item: {fileID: 0}

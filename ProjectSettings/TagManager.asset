@@ -9,6 +9,9 @@ TagManager:
   - MapGrid
   - Laser
   - NPC
+  - Monster
+  - talkPanel
+  - Rock
   layers:
   - Default
   - TransparentFX

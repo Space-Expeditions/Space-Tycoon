@@ -6,10 +6,17 @@ public class MonsterHealth : MonoBehaviour
     private int currentHealth;
     private SpriteRenderer spriteRenderer;
 
+    public AudioClip hitSound; // 피격 시 나는 소리
+    private AudioSource audioSource;
+
     void Start()
     {
         currentHealth = maxHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+            audioSource = gameObject.AddComponent<AudioSource>();
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -17,7 +24,7 @@ public class MonsterHealth : MonoBehaviour
         if (other.CompareTag("Laser"))
         {
             TakeDamage(1);
-            Destroy(other.gameObject); // 맞은 총알 삭제
+            Destroy(other.gameObject);
         }
     }
 
@@ -25,6 +32,12 @@ public class MonsterHealth : MonoBehaviour
     {
         currentHealth -= amount;
         Debug.Log(gameObject.name + " 체력: " + currentHealth);
+
+        // 피격 사운드 재생
+        if (hitSound != null)
+        {
+            audioSource.PlayOneShot(hitSound);
+        }
 
         StartCoroutine(Blink());
 

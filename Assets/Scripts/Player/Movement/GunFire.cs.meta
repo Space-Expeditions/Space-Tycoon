@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: 301e777e4c625a44fafae5775c6b3233
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - laserEffectPrefab: {instanceID: 0}
+  - fireSound: {fileID: 8300000, guid: ad57b0d54feda4a4e8c8ddb7337606d8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

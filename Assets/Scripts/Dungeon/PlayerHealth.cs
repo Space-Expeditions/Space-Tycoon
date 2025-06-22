@@ -9,6 +9,11 @@ public class PlayerHealth : MonoBehaviour
 
     WaypointManager waypointManager;
 
+    // 사운드 재생용
+    public AudioClip hitSound;
+    public AudioClip deathSound;
+    private AudioSource audioSource;
+
     public int GetCurrentHealth() => currentHealth;
 
     void Start()
@@ -17,6 +22,10 @@ public class PlayerHealth : MonoBehaviour
 
         currentHealth = maxHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
+
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+            audioSource = gameObject.AddComponent<AudioSource>();
     }
 
     public void TakeDamage(int amount)
@@ -24,6 +33,7 @@ public class PlayerHealth : MonoBehaviour
         currentHealth -= amount;
         Debug.Log("공격받음! 현재 체력: " + currentHealth);
 
+        PlaySound(hitSound);
         StartCoroutine(Blink());
 
         if (currentHealth <= 0)
@@ -36,13 +46,13 @@ public class PlayerHealth : MonoBehaviour
     {
         Debug.Log("사망!");
 
-        // 체력을 최대 체력의 20%로 리셋
+        PlaySound(deathSound);
+
         currentHealth = Mathf.CeilToInt(maxHealth * 0.2f);
 
         waypointManager.isReturn = true;
         SceneManager.LoadScene("MainScene");
     }
-
 
     private System.Collections.IEnumerator Blink()
     {
@@ -55,4 +65,11 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    private void PlaySound(AudioClip clip)
+    {
+        if (clip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(clip);
+        }
+    }
 }

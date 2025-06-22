@@ -19,21 +19,19 @@ public class MineralHealth : MonoBehaviour
         if (other.CompareTag("Laser"))
         {
             TakeDamage(1);
-            Destroy(other.gameObject); // ���� �Ѿ� ����
+            Destroy(other.gameObject);
         }
     }
 
     public void TakeDamage(int amount)
     {
         currentHealth -= amount;
-        Debug.Log(gameObject.name + " ü��: " + currentHealth);
-
         StartCoroutine(Blink());
 
         if (currentHealth <= 0)
         {
-            Die();
             DropItem();
+            Die();
         }
     }
 
@@ -47,31 +45,27 @@ public class MineralHealth : MonoBehaviour
             yield return new WaitForSeconds(0.1f);
         }
     }
-    
+
     void DropItem()
     {
         if (itemPrefab != null)
         {
             for (int i = 0; i < dropCount; i++)
             {
-                Vector3 randomOffset = new Vector3(
-                    Random.Range(-0.3f, 0.3f),
-                    0f,
-                    Random.Range(-0.3f, 0.3f)
-                );
-
-                Instantiate(itemPrefab, transform.position + randomOffset, Quaternion.identity);
+                Vector3 offset = new Vector3(Random.Range(-0.3f, 0.3f), 0f, Random.Range(-0.3f, 0.3f));
+                Instantiate(itemPrefab, transform.position + offset, Quaternion.identity);
             }
-        }
-        else
-        {
-            Debug.LogWarning("Item Prefab�� �����Ǿ� ���� �ʽ��ϴ�.");
         }
     }
 
     void Die()
     {
-        Debug.Log(gameObject.name + " ���� ���!");
+        // ✅ 여기서 소리 재생
+        if (CompareTag("Rock") && MineralSoundManager.instance != null)
+        {
+            MineralSoundManager.instance.PlayBreakSound(transform.position);
+        }
+
         Destroy(gameObject);
     }
 }

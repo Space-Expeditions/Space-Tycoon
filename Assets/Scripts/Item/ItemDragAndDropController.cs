@@ -9,7 +9,11 @@ public class ItemDragAndDropController : MonoBehaviour
     RectTransform iconTransform;
     Image itemIconImage;
 
-    // �巡�� ���� ���¸� �����ϴ� �÷���
+    // 효과음용 변수 추가
+    public AudioClip dragSound;          // 드래그 시작, 드래그 중 재생용(필요하면)
+    public AudioClip dropSound;          // 아이템 드롭 시 재생용
+    private AudioSource audioSource;
+
     private bool canDrag = false;
 
     private void Start()
@@ -18,27 +22,31 @@ public class ItemDragAndDropController : MonoBehaviour
         iconTransform = itemIcon.GetComponent<RectTransform>();
         itemIconImage = itemIcon.GetComponent<Image>();
 
-        // ���� �� ������ ��Ȱ��ȭ
         itemIcon.SetActive(false);
+
+        // AudioSource 컴포넌트 가져오기 (없으면 추가)
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
     }
 
     private void Update()
     {
-        // canDrag �� true �̰� �������� Ȱ��ȭ�� ��쿡�� ����
         if (canDrag && itemIcon.activeInHierarchy)
         {
             iconTransform.position = Input.mousePosition;
 
+            // 마우스 클릭으로 아이템 드롭 시 효과음 재생
             if (Input.GetMouseButtonDown(0))
             {
-                // ���콺�� UI ���� ���� ���� ���� �α� ��� (�Ǵ� ��� ����)
                 if (!EventSystem.current.IsPointerOverGameObject())
                 {
                     Transform player = GameObject.FindGameObjectWithTag("Player").transform;
 
-                    // ���� �Ÿ� ������ ������ �������� ������ ���
-                    float distance = Random.Range(1.5f, 2f); // ��� �Ÿ� ����
-                    float angle = Random.Range(0, 2 * Mathf.PI); // ������ ����
+                    float distance = Random.Range(1.5f, 2f);
+                    float angle = Random.Range(0, 2 * Mathf.PI);
 
                     Vector3 offset = new Vector3(Mathf.Cos(angle), Mathf.Sin(angle), 0) * distance;
                     Vector3 spawnPos = player.position + offset;
@@ -46,12 +54,14 @@ public class ItemDragAndDropController : MonoBehaviour
                     ItemSpawnManager.instance.SpawnItem(spawnPos, itemSlot.item, itemSlot.count);
                     itemSlot.Clear();
                     itemIcon.SetActive(false);
+
+                    // 드롭 사운드 재생
+                    PlaySound(dropSound);
                 }
             }
         }
     }
 
-    // ������ ���� Ŭ�� �� ȣ���ϴ� �Լ�
     internal void Onclick(ItemSlot slot)
     {
         if (this.itemSlot.item == null)
@@ -69,25 +79,32 @@ public class ItemDragAndDropController : MonoBehaviour
         }
 
         UpdateIcon();
+
+        // 드래그 시작 시 사운드 재생 (옵션)
+        PlaySound(dragSound);
     }
 
-    // ������ Ȱ��ȭ ���¿� canDrag �÷��׸� itemSlot ���¿� �°� ����ȭ
     private void UpdateIcon()
     {
         if (itemSlot.item == null)
         {
-            itemIconImage.sprite = null;
-            itemIconImage.enabled = false;
             itemIcon.SetActive(false);
             canDrag = false;
         }
         else
         {
-            itemIconImage.sprite = itemSlot.item.icon;
-            itemIconImage.enabled = true;
             itemIcon.SetActive(true);
+            itemIconImage.sprite = itemSlot.item.icon;
             canDrag = true;
         }
     }
 
+    // 사운드 재생용 함수
+    private void PlaySound(AudioClip clip)
+    {
+        if (clip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(clip);
+        }
+    }
 }
