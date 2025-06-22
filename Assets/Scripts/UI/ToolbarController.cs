@@ -14,44 +14,34 @@ public class ToolbarController : MonoBehaviour
 
     public ItemSlot selectSlot;
 
-    private void Start()
-    {
-        // 툴바 컨테이너가 설정되어 있는지 다시 체크
-        if (toolbarContainer == null)
-        {
-            toolbarContainer = InventoryManager.instance.toolbarContainer;
-        }
-
-        // 초기 선택 슬롯 설정
-        selectSlot = toolbarContainer.slots[selectedTool];
-
-        // 🔁 시작할 때 총 장착 여부 반영
-        if (selectSlot.item != null && selectSlot.item.Name == "Gun" && playerSR.enabled)
-        {
-            gunSR.enabled = true;
-        }
-        else
-        {
-            gunSR.enabled = false;
-        }
-
-        onChange?.Invoke(selectedTool); // UI 슬롯 선택 반영
-    }
-
-
     private void Awake()
     {
-        // GameManager에서 자동 연결
         if (toolbarContainer == null)
         {
             toolbarContainer = InventoryManager.instance.toolbarContainer;
         }
+    }
+
+    private void Start()
+    {
+        if (toolbarContainer == null)
+        {
+            toolbarContainer = InventoryManager.instance.toolbarContainer;
+        }
+
+        selectedTool = Mathf.Clamp(selectedTool, 0, toolbarSize - 1);
+        selectSlot = toolbarContainer.slots[selectedTool];
+
+        UpdateGunEquipState(); // 시작할 때 총 반영
+
+        onChange?.Invoke(selectedTool);
     }
 
     private void Update()
     {
         HandleScrollSelection();
         HandleLeftClickUse();
+        UpdateGunEquipState(); // 매 프레임 슬롯 상태 체크 (드랍 반영)
     }
 
     private void HandleScrollSelection()
@@ -66,16 +56,6 @@ public class ToolbarController : MonoBehaviour
             onChange?.Invoke(selectedTool);
 
             selectSlot = toolbarContainer.slots[selectedTool];
-
-            // 🔁 총 장착/해제 처리
-            if (selectSlot.item != null && selectSlot.item.Name == "Gun" && playerSR.enabled)
-            {
-                gunSR.enabled = true;
-            }
-            else
-            {
-                gunSR.enabled = false;
-            }
         }
     }
 
@@ -83,11 +63,9 @@ public class ToolbarController : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            // UI 클릭 무시
             if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject())
                 return;
 
-            // 인벤토리 창이 닫혀 있을 때만 사용 허용
             if (InventoryManager.instance.inventoryPanel != null &&
                 !InventoryManager.instance.inventoryPanel.gameObject.activeInHierarchy)
             {
@@ -116,7 +94,6 @@ public class ToolbarController : MonoBehaviour
         {
             if (slot.item.Name == "Gun")
             {
-                // 🔒 총이 장착되어 있어야 발사 가능
                 if (gunSR != null && gunSR.enabled)
                 {
                     GunFire gun = GameObject.FindGameObjectWithTag("Player")?.GetComponentInChildren<GunFire>();
@@ -146,8 +123,24 @@ public class ToolbarController : MonoBehaviour
         }
     }
 
+    // ✅ 드랍 반영 포함: 아이템 상태에 따라 총 스프라이트 켜고 끄기
+    private void UpdateGunEquipState()
+    {
+        if (selectSlot != null && selectSlot.item != null &&
+            selectSlot.item.Name == "Gun" && playerSR.enabled)
+        {
+            gunSR.enabled = true;
+        }
+        else
+        {
+            gunSR.enabled = false;
+        }
+    }
+
     internal void Set(int id)
     {
-        selectedTool = id;
+        selectedTool = Mathf.Clamp(id, 0, toolbarSize - 1);
+        selectSlot = toolbarContainer.slots[selectedTool];
+        UpdateGunEquipState(); // 직접 슬롯 설정 시에도 총 상태 반영
     }
 }
