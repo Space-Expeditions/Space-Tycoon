@@ -32,26 +32,23 @@ public class CropShopUI : MonoBehaviour
 
         foreach (var priceData in cropPrices)
         {
-            string cropNameKey = priceData.cropId.Trim().ToLower();
-            int ownedCount = inventory.GetItemCount(priceData.cropId);
+            string cropName = priceData.cropId.Trim();
+            string cropKey = cropName.ToLower();
+            int ownedCount = inventory.GetItemCount(cropName);
 
             GameObject buttonObj = Instantiate(cropButtonPrefab, cropButtonParent);
 
-            // 인벤토리에 있는 해당 작물 슬롯 찾기
-            ItemSlot slot = inventory.slots.Find(s =>
-                s.item != null &&
-                s.item.itemType == ItemType.Crop &&
-                s.item.Name.Trim().ToLower() == cropNameKey
-            );
+            // 아이템 정보를 ItemDatabase에서 가져옴 (인벤토리에 없어도 가능)
+            Item itemInfo = ItemDatabase.instance.GetItemByName(cropName);
 
             // 아이콘 설정
             Transform iconTransform = buttonObj.transform.Find("Icon");
             if (iconTransform != null)
             {
                 Image iconImage = iconTransform.GetComponent<Image>();
-                if (iconImage != null)
+                if (iconImage != null && itemInfo != null)
                 {
-                    iconImage.sprite = slot?.item?.icon;
+                    iconImage.sprite = itemInfo.icon;
                 }
             }
 
@@ -62,16 +59,17 @@ public class CropShopUI : MonoBehaviour
                 TextMeshProUGUI label = labelTransform.GetComponent<TextMeshProUGUI>();
                 if (label != null)
                 {
-                    string displayName = slot?.item?.Name ?? priceData.cropId;
+                    string displayName = itemInfo != null ? itemInfo.Name : cropName;
                     label.text = $"{displayName} ({ownedCount}개) - {priceData.CurrentPrice}G";
                 }
             }
 
-            // 클릭 이벤트: 보유 중인 작물만 가능
+            // 클릭 이벤트: 보유 중일 때만 판매 가능
+            Button button = buttonObj.GetComponent<Button>();
             if (ownedCount > 0)
             {
-                string nameCopy = priceData.cropId;
-                buttonObj.GetComponent<Button>().onClick.AddListener(() =>
+                string nameCopy = cropName;
+                button.onClick.AddListener(() =>
                 {
                     SellCrop(nameCopy, 1);
                     RefreshSellList();
@@ -79,7 +77,7 @@ public class CropShopUI : MonoBehaviour
             }
             else
             {
-                buttonObj.GetComponent<Button>().interactable = false;
+                button.interactable = false; // 버튼은 비활성화하지만 표시됨
             }
         }
     }
@@ -92,8 +90,8 @@ public class CropShopUI : MonoBehaviour
             return;
         }
 
-        string cropNameKey = cropName.Trim().ToLower();
-        var priceData = cropPrices.Find(p => p.cropId.Trim().ToLower() == cropNameKey);
+        string cropKey = cropName.Trim().ToLower();
+        var priceData = cropPrices.Find(p => p.cropId.Trim().ToLower() == cropKey);
 
         if (priceData == null)
         {

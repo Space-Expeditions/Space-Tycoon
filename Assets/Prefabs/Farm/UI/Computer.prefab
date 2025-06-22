@@ -175,6 +175,7 @@ MonoBehaviour:
   groundPanel: {fileID: 6609347870920057543, guid: 5f936bcbf63b320408412ab7d6da8319, type: 3}
   humidityInput: {fileID: 8005866234126287335, guid: 0abec8011e5e7364b8a7e43752906eec, type: 3}
   temperatureInput: {fileID: 2067700096287877223, guid: 1c4fe2f18a25d3949b61204d2857b977, type: 3}
+  spawnPoint: {fileID: 6377833748245122457}
   groundPrefabs:
   - {fileID: 3919346962551613078, guid: e1056a232ed3bf34bbb1505fa1fb00e8, type: 3}
   - {fileID: 3919346962551613078, guid: 6b2415f6c1e8c044491ca92306138e9d, type: 3}
@@ -191,12 +192,18 @@ MonoBehaviour:
   - cropType: 1
     groundType: 1
     prefab: {fileID: 3044315359431512621, guid: f34585696da5e5a45bcf0de6dfe0cb94, type: 3}
-  - cropType: 2
+  - cropType: 3
     groundType: 0
     prefab: {fileID: 3044315359431512621, guid: d6f22a1fdb8761949ae9e35d33968247, type: 3}
-  - cropType: 2
+  - cropType: 3
     groundType: 1
     prefab: {fileID: 3044315359431512621, guid: 8a7cce99d624bd94ca655485e8e25ff0, type: 3}
+  - cropType: 2
+    groundType: 1
+    prefab: {fileID: 3044315359431512621, guid: 42458ff487b27c24693c56ae817df2f7, type: 3}
+  - cropType: 2
+    groundType: 0
+    prefab: {fileID: 3044315359431512621, guid: ac9e16977729bae409313fb290232f92, type: 3}
   greenhousePrefab: {fileID: 191132627185023646, guid: 42dfd4e1d567fe6448e357652b324c1a, type: 3}
   harvestedCarrotSprite: {fileID: 21300000, guid: ec54eebf998107046a25125737b06872, type: 2}
   harvestedTomatoSprite: {fileID: 21300000, guid: 4b68122c9520f1f43b821b6e78fe6c19, type: 2}
