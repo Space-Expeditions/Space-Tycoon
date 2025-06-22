@@ -170,11 +170,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75910380dba74e74abe251a7ffbb10ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cropPanel: {fileID: 6164410586256680819, guid: aa2aa23d27965074f92eb7be69dc34f2, type: 3}
-  envPanel: {fileID: 8956193312933805519, guid: 0647965b44dd57c48b5644741e368bc4, type: 3}
-  groundPanel: {fileID: 6609347870920057543, guid: 5f936bcbf63b320408412ab7d6da8319, type: 3}
-  humidityInput: {fileID: 8005866234126287335, guid: 0abec8011e5e7364b8a7e43752906eec, type: 3}
-  temperatureInput: {fileID: 2067700096287877223, guid: 1c4fe2f18a25d3949b61204d2857b977, type: 3}
+  cropPanel: {fileID: 0}
+  envPanel: {fileID: 0}
+  groundPanel: {fileID: 0}
+  humidityInput: {fileID: 0}
+  temperatureInput: {fileID: 0}
   spawnPoint: {fileID: 6377833748245122457}
   groundPrefabs:
   - {fileID: 3919346962551613078, guid: e1056a232ed3bf34bbb1505fa1fb00e8, type: 3}

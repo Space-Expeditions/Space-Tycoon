@@ -17,6 +17,8 @@ public class CropVariant
 
 public class ComputerUIController : MonoBehaviour
 {
+    public static ComputerUIController currentComputer;
+
     [Header("UI Panels")]
     public GameObject cropPanel;
     public GameObject envPanel;
@@ -27,17 +29,9 @@ public class ComputerUIController : MonoBehaviour
     public TMP_InputField temperatureInput;
 
     [Header("Spawn Settings")]
-    public Transform spawnPoint;
     public GameObject[] groundPrefabs;
     public List<CropVariant> cropVariants;
-
-    [Header("Greenhouse")]
     public GameObject greenhousePrefab;
-
-    [Header("Harvest Sprites")]
-    public Sprite harvestedCarrotSprite;
-    public Sprite harvestedTomatoSprite;
-    public Sprite harvestedPotatoSprite;
 
     [Header("Seed Icon Manager")]
     public SeedIconManager seedIconManager;
@@ -47,13 +41,23 @@ public class ComputerUIController : MonoBehaviour
     private float humidity;
     private float temperature;
 
-    private GameObject lastSpawnedGround;
+    private Vector3 spawnOrigin;
+    private Dictionary<Vector3, GameObject> spawnedGrounds = new();
 
     void Start()
     {
-        cropPanel.SetActive(false);
-        envPanel.SetActive(false);
-        groundPanel.SetActive(false);
+        Transform canvas = GameObject.Find("FarmingCanvas")?.transform;
+
+        cropPanel = canvas.Find("ComputerUI/CropPanel")?.gameObject;
+        envPanel = canvas.Find("ComputerUI/EnvPanel")?.gameObject;
+        groundPanel = canvas.Find("ComputerUI/GroundPanel")?.gameObject;
+
+        humidityInput = canvas.Find("ComputerUI/EnvPanel/Humidity")?.GetComponent<TMP_InputField>();
+        temperatureInput = canvas.Find("ComputerUI/EnvPanel/Temperature")?.GetComponent<TMP_InputField>();
+
+        cropPanel?.SetActive(false);
+        envPanel?.SetActive(false);
+        groundPanel?.SetActive(false);
     }
 
     void OnMouseDown()
@@ -61,84 +65,22 @@ public class ComputerUIController : MonoBehaviour
         if (cropPanel.activeSelf || envPanel.activeSelf || groundPanel.activeSelf)
             return;
 
-        Plant plant = lastSpawnedGround != null ? lastSpawnedGround.GetComponentInChildren<Plant>() : null;
+        currentComputer = this;
+        currentComputer.spawnOrigin = transform.position;
 
-        if (plant != null && plant.isFullyGrown)
+        if (currentComputer.spawnedGrounds.TryGetValue(currentComputer.spawnOrigin, out GameObject existingGround))
         {
-            Vector3 basePos = lastSpawnedGround.transform.position + new Vector3(0, 0.3f, 0.5f);
-
-            if (plant.plantData != null && plant.plantData.plantName == "토감")
+            Plant plant = existingGround.GetComponentInChildren<Plant>();
+            if (plant != null && plant.isFullyGrown)
             {
-                Item tomato = ItemDatabase.instance.GetItemByName("Tomato");
-                Item potato = ItemDatabase.instance.GetItemByName("Potato");
-
-                int tomatoCount = Random.Range(1, 4);
-                int potatoCount = Random.Range(1, 4);
-
-                for (int i = 0; i < tomatoCount; i++)
-                {
-                    Vector3 offset = new Vector3(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
-                    Vector3 spawnPos = basePos + offset;
-                    ItemSpawnManager.instance.SpawnItem(spawnPos, tomato, 1);
-                }
-
-                for (int i = 0; i < potatoCount; i++)
-                {
-                    Vector3 offset = new Vector3(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
-                    Vector3 spawnPos = basePos + offset;
-                    ItemSpawnManager.instance.SpawnItem(spawnPos, potato, 1);
-                }
-            }
-            else
-            {
-                int count = 1;
-                string itemName = null;
-
-                switch (selectedCrop)
-                {
-                    case CropType.Carrot:
-                        itemName = "Carrot";
-                        count = 1;
-                        break;
-                    case CropType.Tomato:
-                        itemName = "Tomato";
-                        count = Random.Range(1, 4);
-                        break;
-                    case CropType.Potato:
-                        itemName = "Potato";
-                        count = Random.Range(1, 4);
-                        break;
-                }
-
-                if (itemName != null)
-                {
-                    Item harvestedItem = ItemDatabase.instance.GetItemByName(itemName);
-
-                    if (harvestedItem != null)
-                    {
-                        for (int i = 0; i < count; i++)
-                        {
-                            Vector3 offset = new Vector3(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
-                            Vector3 spawnPos = basePos + offset;
-                            ItemSpawnManager.instance.SpawnItem(spawnPos, harvestedItem, 1);
-                        }
-                    }
-                    else
-                    {
-                        Debug.LogError($"ItemDatabase에서 {itemName} 아이템을 찾을 수 없습니다.");
-                    }
-                }
+                currentComputer.HarvestPlant(plant, currentComputer.spawnOrigin);
+                Destroy(existingGround);
+                currentComputer.spawnedGrounds.Remove(currentComputer.spawnOrigin);
+                return;
             }
 
-            Destroy(lastSpawnedGround);
-            lastSpawnedGround = null;
-            return;
-        }
-
-        if (lastSpawnedGround != null)
-        {
-            Destroy(lastSpawnedGround);
-            lastSpawnedGround = null;
+            Destroy(existingGround);
+            currentComputer.spawnedGrounds.Remove(currentComputer.spawnOrigin);
         }
 
         if (seedIconManager != null && InventoryManager.instance != null)
@@ -147,34 +89,77 @@ public class ComputerUIController : MonoBehaviour
             seedIconManager.UpdateSeedIcons();
         }
 
-        cropPanel.SetActive(true);
+        cropPanel?.SetActive(true);
     }
 
-    public void SelectCrop(int index)
+    void HarvestPlant(Plant plant, Vector3 basePos)
+    {
+        basePos += new Vector3(0, 1f, 0.5f);
+
+        if (plant.plantData != null && plant.plantData.plantName == "토감")
+        {
+            Item tomato = ItemDatabase.instance.GetItemByName("Tomato");
+            Item potato = ItemDatabase.instance.GetItemByName("Potato");
+
+            for (int i = 0; i < Random.Range(1, 4); i++)
+                ItemSpawnManager.instance.SpawnItem(basePos + RandomOffset(), tomato, 1);
+
+            for (int i = 0; i < Random.Range(1, 4); i++)
+                ItemSpawnManager.instance.SpawnItem(basePos + RandomOffset(), potato, 1);
+        }
+        else
+        {
+            string itemName = selectedCrop.ToString();
+            int count = selectedCrop == CropType.Carrot ? 1 : Random.Range(1, 4);
+            Item harvestedItem = ItemDatabase.instance.GetItemByName(itemName);
+
+            if (harvestedItem != null)
+            {
+                for (int i = 0; i < count; i++)
+                    ItemSpawnManager.instance.SpawnItem(basePos + RandomOffset(), harvestedItem, 1);
+            }
+            else
+            {
+                Debug.LogError($"ItemDatabase에서 {itemName} 아이템을 찾을 수 없습니다.");
+            }
+        }
+    }
+
+    Vector3 RandomOffset() => new(Random.Range(-0.2f, 0.2f), 0, Random.Range(-0.1f, 0.1f));
+
+    public static void StaticSelectCrop(int index)
+    {
+        currentComputer?.SelectCrop(index);
+    }
+
+    void SelectCrop(int index)
     {
         selectedCrop = (CropType)index;
-        cropPanel.SetActive(false);
-        envPanel.SetActive(true);
+        cropPanel?.SetActive(false);
+        envPanel?.SetActive(true);
     }
 
-    public void OnConfirmButtonClick()
+    public static void StaticOnConfirmButtonClick()
     {
-        string humidityText = humidityInput != null ? humidityInput.text : "null";
-        string temperatureText = temperatureInput != null ? temperatureInput.text : "null";
+        currentComputer?.OnConfirmButtonClick();
+    }
 
-        Debug.Log($"습도: {humidityText}, 온도: {temperatureText}");
+    void OnConfirmButtonClick()
+    {
+        string humidityText = humidityInput?.text ?? "null";
+        string temperatureText = temperatureInput?.text ?? "null";
         ConfirmEnvironment(humidityText, temperatureText);
     }
 
-    public void ConfirmEnvironment(string humidityText, string temperatureText)
+    void ConfirmEnvironment(string humidityText, string temperatureText)
     {
         if (float.TryParse(humidityText, out humidity) && float.TryParse(temperatureText, out temperature))
         {
             EnvironmentManager.currentHumidity = humidity;
             EnvironmentManager.currentTemperature = temperature;
 
-            envPanel.SetActive(false);
-            groundPanel.SetActive(true);
+            envPanel?.SetActive(false);
+            groundPanel?.SetActive(true);
         }
         else
         {
@@ -182,58 +167,49 @@ public class ComputerUIController : MonoBehaviour
         }
     }
 
-    public void SelectGround(int index)
+    public static void StaticSelectGround(int index)
+    {
+        currentComputer?.SelectGround(index);
+    }
+
+    void SelectGround(int index)
     {
         selectedGround = (GroundType)index;
-        groundPanel.SetActive(false);
+        groundPanel?.SetActive(false);
         PlaceFieldAndCrop();
     }
 
     void PlaceFieldAndCrop()
     {
-        if (lastSpawnedGround != null)
-        {
-            Destroy(lastSpawnedGround);
-            lastSpawnedGround = null;
-        }
-
-        string seedName = selectedCrop.ToString() + " Seed";
+        string seedName = selectedCrop + " Seed";
         if (!InventoryManager.instance.inventoryContainer.HasSeed(seedName))
         {
             Debug.LogWarning($"❌ {seedName} 씨앗이 없습니다. 작물을 생성할 수 없습니다.");
             return;
         }
 
-        Vector3 groundPos = spawnPoint.position + new Vector3(0, 1f, 1f);
-        lastSpawnedGround = Instantiate(groundPrefabs[(int)selectedGround], groundPos, Quaternion.identity);
+        Vector3 groundPos = currentComputer.spawnOrigin + new Vector3(0, 1f, 1f);
+        GameObject newGround = Instantiate(currentComputer.groundPrefabs[(int)currentComputer.selectedGround], groundPos, Quaternion.identity);
+        currentComputer.spawnedGrounds[currentComputer.spawnOrigin] = newGround;
 
-        if (greenhousePrefab != null)
+        if (currentComputer.greenhousePrefab != null)
         {
-            Vector3 greenhousePos = new Vector3(groundPos.x, groundPos.y, 0.5f);
-            GameObject greenhouse = Instantiate(greenhousePrefab, greenhousePos, Quaternion.identity);
-            greenhouse.transform.SetParent(lastSpawnedGround.transform);
+            GameObject greenhouse = Instantiate(currentComputer.greenhousePrefab, new Vector3(groundPos.x, groundPos.y, 0.5f), Quaternion.identity);
+            greenhouse.transform.SetParent(newGround.transform);
 
-            SpriteRenderer[] srs = greenhouse.GetComponentsInChildren<SpriteRenderer>();
-            foreach (var sr in srs)
+            foreach (var sr in greenhouse.GetComponentsInChildren<SpriteRenderer>())
             {
                 sr.sortingLayerName = "Default";
                 sr.sortingOrder = 10;
             }
         }
 
-        var cropPrefab = cropVariants
-            .FirstOrDefault(cv => cv.cropType == selectedCrop && cv.groundType == selectedGround)
-            ?.prefab;
+        var cropPrefab = currentComputer.cropVariants.FirstOrDefault(cv => cv.cropType == currentComputer.selectedCrop && cv.groundType == currentComputer.selectedGround)?.prefab;
 
         if (cropPrefab != null)
         {
-            GameObject crop = Instantiate(
-                cropPrefab,
-                new Vector3(groundPos.x, groundPos.y + 0.04f, 0.9f),
-                Quaternion.identity
-            );
-
-            crop.transform.SetParent(lastSpawnedGround.transform);
+            GameObject crop = Instantiate(cropPrefab, new Vector3(groundPos.x, groundPos.y + 0.04f, 0.9f), Quaternion.identity);
+            crop.transform.SetParent(newGround.transform);
 
             Plant plant = crop.GetComponent<Plant>();
             if (plant != null)
@@ -242,11 +218,11 @@ public class ComputerUIController : MonoBehaviour
             }
 
             InventoryManager.instance.inventoryContainer.ConsumeSeed(seedName, 1);
-            seedIconManager?.UpdateSeedIcons();
+            currentComputer.seedIconManager?.UpdateSeedIcons();
         }
         else
         {
-            Debug.LogError($"Crop prefab not found for {selectedCrop} + {selectedGround}");
+            Debug.LogError($"Crop prefab not found for {currentComputer.selectedCrop} + {currentComputer.selectedGround}");
         }
     }
 }
