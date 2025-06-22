@@ -76,14 +76,18 @@ public class ItemDragAndDropController : MonoBehaviour
     {
         if (itemSlot.item == null)
         {
+            itemIconImage.sprite = null;
+            itemIconImage.enabled = false;
             itemIcon.SetActive(false);
             canDrag = false;
         }
         else
         {
-            itemIcon.SetActive(true);
             itemIconImage.sprite = itemSlot.item.icon;
+            itemIconImage.enabled = true;
+            itemIcon.SetActive(true);
             canDrag = true;
         }
     }
+
 }
