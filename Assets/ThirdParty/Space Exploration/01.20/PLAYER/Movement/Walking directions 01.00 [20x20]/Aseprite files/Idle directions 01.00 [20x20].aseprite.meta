@@ -294,6 +294,11 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
+    uuid:
+      value0: 0
+      value1: 0
+      value2: 0
+      value3: 0
     guid: 1211255279
     name: 'Idle directions 01.00 [20x20]'
     layerFlags: 0

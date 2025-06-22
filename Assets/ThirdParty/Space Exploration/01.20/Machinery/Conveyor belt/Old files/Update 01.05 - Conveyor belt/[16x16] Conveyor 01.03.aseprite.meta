@@ -462,6 +462,11 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
+    uuid:
+      value0: 0
+      value1: 0
+      value2: 0
+      value3: 0
     guid: -761938565
     name: '[16x16] Conveyor 01.03'
     layerFlags: 0

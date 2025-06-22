@@ -3,8 +3,11 @@ using System.Collections.Generic;
 
 public class UIManager : MonoBehaviour
 {
-    // TODO: Instance 
     
+    private static UIManager instance;
+    public static UIManager Instance => instance;
+    // TODO: Instance 
+
     [Header("UI Panels")]
     [SerializeField] private GameObject miniMapPanel;
     [SerializeField] private GameObject toolbarPanel;
@@ -23,11 +26,24 @@ public class UIManager : MonoBehaviour
     private List<GameObject> activePanels = new List<GameObject>();
     private bool wasAnyPanelActive = false;
 
-    private void Start()
+    private void Awake()
     {
-        if (playerMovement != null) playerMovement.enabled = true;
-        if (toolbarController != null) toolbarController.enabled = true;
-        if (inventoryController != null) inventoryController.enabled = true;
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+            
+            if (player != null)
+            {
+                if (playerMovement != null) playerMovement.enabled = true;
+                if (toolbarController != null) toolbarController.enabled = true;
+                if (inventoryController != null) inventoryController.enabled = true;
+            }
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void Update()

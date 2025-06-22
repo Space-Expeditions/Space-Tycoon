@@ -33,13 +33,13 @@ public class GunController : MonoBehaviour
         {
             gunRenderer.flipY = true; // 왼쪽 보면 뒤집음
 
-            firePoint.localPosition = new Vector3(firePoint.localPosition.x, -10, 0);
+            firePoint.localPosition = new Vector3(firePoint.localPosition.x, -1.85f, 0);
         }
         else
         {
             gunRenderer.flipY = false;
 
-            firePoint.localPosition = new Vector3(firePoint.localPosition.x, -8, 0);
+            firePoint.localPosition = new Vector3(firePoint.localPosition.x, -1.75f, 0);
         }
 
         // 🔽 총이 플레이어 앞/뒤에 보이도록 처리

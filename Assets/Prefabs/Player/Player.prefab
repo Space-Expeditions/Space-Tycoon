@@ -157,7 +157,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.9, y: -0.15, z: 0}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8700185812376455814}
@@ -233,6 +233,7 @@ MonoBehaviour:
   player: {fileID: 2836027104145502771}
   offsetDistance: 0.9
   firePoint: {fileID: 8700185812376455814}
+  isEquip: 0
 --- !u!114 &3145637045427501438
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -473,7 +474,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b295fdff38177bd49a5e800df0182b3e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 0}
+  inventoryPanel: {fileID: 0}
   toolbarPanel: {fileID: 0}
 --- !u!114 &691549272952755136
 MonoBehaviour:
@@ -491,6 +492,9 @@ MonoBehaviour:
   toolbarContainer: {fileID: 11400000, guid: 20d3723689306714fabc8f97417820f8, type: 2}
   gunSR: {fileID: 1267350436174858801}
   playerSR: {fileID: 1479283757287519329}
+  selectSlot:
+    item: {fileID: 0}
+    count: 0
 --- !u!1 &7443103430197693302
 GameObject:
   m_ObjectHideFlags: 0
@@ -516,7 +520,7 @@ Transform:
   m_GameObject: {fileID: 7443103430197693302}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.8, y: -8, z: 0}
+  m_LocalPosition: {x: 0.56, y: 0.12, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

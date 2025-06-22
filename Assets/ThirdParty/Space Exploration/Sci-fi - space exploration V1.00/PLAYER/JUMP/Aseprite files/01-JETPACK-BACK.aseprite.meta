@@ -567,6 +567,11 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
+    uuid:
+      value0: 0
+      value1: 0
+      value2: 0
+      value3: 0
     guid: -1583291122
     name: 01-JETPACK-BACK
     layerFlags: 0
