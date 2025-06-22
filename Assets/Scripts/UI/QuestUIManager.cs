@@ -21,7 +21,6 @@ public class QuestUIManager : MonoBehaviour
         if (instance == null)
         {
             instance = this;
-            // 부모가 있으면 분리하여 루트 GameObject로 만듦
             if (transform.parent != null)
             {
                 transform.SetParent(null);
@@ -40,7 +39,8 @@ public class QuestUIManager : MonoBehaviour
         {
             if (Input.GetKeyDown(KeyCode.Backspace) || Input.GetMouseButtonDown(0))
             {
-                HideQuestUI();
+                if (instance != null && instance.questPanel != null)
+                    instance.questPanel.SetActive(false);
             }
         }
     }
@@ -145,12 +145,6 @@ public class QuestUIManager : MonoBehaviour
             }
         }
         ShowQuestDetail(quest);
-    }
-
-    public static void HideQuestUI()
-    {
-        if (instance != null && instance.questPanel != null)
-            instance.questPanel.SetActive(false);
     }
 
     private static string GetQuestStateString(QuestState state)

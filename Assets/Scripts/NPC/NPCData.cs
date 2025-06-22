@@ -67,7 +67,7 @@ public class NPCData : ScriptableObject
     };
     
     /// <summary>
-    /// 예시 NPC 데이터 (퀘스트 & 시나리오)
+    /// 예시 퀘스트 데이터
     /// </summary>
     public static List<NPCData> GetSampleNPCs()
     {

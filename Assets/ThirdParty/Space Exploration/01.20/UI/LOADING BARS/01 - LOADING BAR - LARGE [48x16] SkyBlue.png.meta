@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 64a5aa9da7b1648c290f228b368413ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5245100714120421123
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_0
+  - first:
+      213: -5271158655979693250
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_1
+  - first:
+      213: -1691094516310633608
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_2
+  - first:
+      213: 6529938999731610159
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_3
+  - first:
+      213: 9168001326622762445
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_4
+  - first:
+      213: -6296741921826393113
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_5
+  - first:
+      213: -59319830326785167
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_6
+  - first:
+      213: -7416465335791300054
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_7
+  - first:
+      213: 7876377214717696885
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_8
+  - first:
+      213: -6604485623929315833
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_9
+  - first:
+      213: 9005706702977071104
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_10
+  - first:
+      213: -1413340321722689373
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_11
+  - first:
+      213: -7803632967883638689
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_12
+  - first:
+      213: 7194421171590895310
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_13
+  - first:
+      213: 5554322654065413100
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_14
+  - first:
+      213: -3765167362612533502
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_15
+  - first:
+      213: 2950489567102071189
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_16
+  - first:
+      213: 5253872906451240981
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_17
+  - first:
+      213: 6383216626337930340
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_18
+  - first:
+      213: -1615459347717319433
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_19
+  - first:
+      213: -1027212671098233104
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_20
+  - first:
+      213: 1969132296632154324
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_21
+  - first:
+      213: -5809841937899920706
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_22
+  - first:
+      213: -574505281355044784
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_23
+  - first:
+      213: -6602728998870121015
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_24
+  - first:
+      213: -146589064013836812
+    second: 01 - LOADING BAR - LARGE [48x16] SkyBlue_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df064b3b0b8a537b0800000000000000
+      internalID: -5245100714120421123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bda93512519d6b0800000000000000
+      internalID: -5271158655979693250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87391b94f760888e0800000000000000
+      internalID: -1691094516310633608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 130
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22e8f35ce00f9a50800000000000000
+      internalID: 6529938999731610159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5e8a5e1a84b3f70800000000000000
+      internalID: 9168001326622762445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 114
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e33a3b659a7d98a0800000000000000
+      internalID: -6296741921826393113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4c39bde04d2ff0800000000000000
+      internalID: -59319830326785167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22592b321c631990800000000000000
+      internalID: -7416465335791300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9a3098538e4d60800000000000000
+      internalID: 7876377214717696885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ed48d21572854a0800000000000000
+      internalID: -6604485623929315833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087d463882bafc70800000000000000
+      internalID: 9005706702977071104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89bf0377ec26ce0800000000000000
+      internalID: -1413340321722689373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58b4cf392de3b390800000000000000
+      internalID: -7803632967883638689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6993910f7b7d360800000000000000
+      internalID: 7194421171590895310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb497b960be41d40800000000000000
+      internalID: 5554322654065413100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207e59f7b307fbbc0800000000000000
+      internalID: -3765167362612533502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917d9001ae32f820800000000000000
+      internalID: 2950489567102071189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518431c729189e840800000000000000
+      internalID: 5253872906451240981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c5d31b3bdb59850800000000000000
+      internalID: 6383216626337930340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f49936484cb499e0800000000000000
+      internalID: -1615459347717319433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fed86e948b9eb1f0800000000000000
+      internalID: -1027212671098233104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d832801463c35b10800000000000000
+      internalID: 1969132296632154324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2ee421a8b4f5fa0800000000000000
+      internalID: -5809841937899920706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0582f3f8d72f608f0800000000000000
+      internalID: -574505281355044784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50d2255f46e54a0800000000000000
+      internalID: -6602728998870121015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] SkyBlue_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd8f7fd50637fdf0800000000000000
+      internalID: -146589064013836812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_0: -5245100714120421123
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_1: -5271158655979693250
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_10: 9005706702977071104
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_11: -1413340321722689373
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_12: -7803632967883638689
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_13: 7194421171590895310
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_14: 5554322654065413100
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_15: -3765167362612533502
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_16: 2950489567102071189
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_17: 5253872906451240981
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_18: 6383216626337930340
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_19: -1615459347717319433
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_2: -1691094516310633608
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_20: -1027212671098233104
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_21: 1969132296632154324
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_22: -5809841937899920706
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_23: -574505281355044784
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_24: -6602728998870121015
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_25: -146589064013836812
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_3: 6529938999731610159
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_4: 9168001326622762445
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_5: -6296741921826393113
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_6: -59319830326785167
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_7: -7416465335791300054
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_8: 7876377214717696885
+      01 - LOADING BAR - LARGE [48x16] SkyBlue_9: -6604485623929315833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

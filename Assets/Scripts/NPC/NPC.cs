@@ -18,15 +18,15 @@ public class NPC : MonoBehaviour
         if (player == null) return;
         float dist = Vector2.Distance(player.transform.position, transform.position);
         bool nowNear = dist <= interactDistance;
-        
+
         // 대화 호출
-        if (nowNear && Input.GetKeyDown(KeyCode.T))
+        if (nowNear && Input.GetKeyDown(KeyCode.T) && (QuestUIManager.instance == null || !QuestUIManager.instance.questPanel.activeSelf))
         {
             MessageUIManager.instance.ShowMessage(npcName);
         }
-        
+
         // 퀘스트 호출
-        if (nowNear && Input.GetKeyDown(KeyCode.Q))
+        if (nowNear && Input.GetKeyDown(KeyCode.Q) && (MessageUIManager.instance == null || !MessageUIManager.instance.messagePanel.activeSelf))
         {
             if (!string.IsNullOrEmpty(npcName) && QuestManager.instance != null && QuestUIManager.instance != null)
             {
@@ -34,13 +34,15 @@ public class NPC : MonoBehaviour
                 bool completedAny = false;
                 foreach (var quest in quests.Where(q => q.state == QuestState.InProgress))
                 {
-                    bool allMet = quest.requiredItems.All(req => InventoryManager.instance.GetItemCount(req.itemName) >= req.count);
+                    bool allMet = quest.requiredItems.All(req =>
+                        InventoryManager.instance.GetItemCount(req.itemName) >= req.count);
                     if (allMet)
                     {
                         QuestUIManager.TryCompleteQuest(quest);
                         completedAny = true;
                     }
                 }
+
                 if (!completedAny)
                 {
                     QuestUIManager.ShowQuestsForNPC(npcName);
@@ -50,11 +52,6 @@ public class NPC : MonoBehaviour
             {
                 Debug.LogWarning("필수 오브젝트가 씬에 존재하지 않습니다.");
             }
-        }
-        
-        if (Input.GetKeyDown(KeyCode.Backspace))
-        {
-            QuestUIManager.HideQuestUI();
         }
     }
 } 

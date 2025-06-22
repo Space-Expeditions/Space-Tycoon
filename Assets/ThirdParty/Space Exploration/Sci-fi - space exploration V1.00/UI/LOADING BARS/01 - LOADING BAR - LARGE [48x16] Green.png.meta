@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: c4190a724a945477ab758b2e48739296
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3106267459873597972
+    second: 01 - LOADING BAR - LARGE [48x16] Green_0
+  - first:
+      213: 5484555379450198892
+    second: 01 - LOADING BAR - LARGE [48x16] Green_1
+  - first:
+      213: -8578781673849754443
+    second: 01 - LOADING BAR - LARGE [48x16] Green_2
+  - first:
+      213: -5428594011632916382
+    second: 01 - LOADING BAR - LARGE [48x16] Green_3
+  - first:
+      213: 2006820127080858428
+    second: 01 - LOADING BAR - LARGE [48x16] Green_4
+  - first:
+      213: 7239141980014882933
+    second: 01 - LOADING BAR - LARGE [48x16] Green_5
+  - first:
+      213: 938837964892234148
+    second: 01 - LOADING BAR - LARGE [48x16] Green_6
+  - first:
+      213: 2366881760873195689
+    second: 01 - LOADING BAR - LARGE [48x16] Green_7
+  - first:
+      213: -8849555384467830494
+    second: 01 - LOADING BAR - LARGE [48x16] Green_8
+  - first:
+      213: 8701334325879882561
+    second: 01 - LOADING BAR - LARGE [48x16] Green_9
+  - first:
+      213: -6047291363175092374
+    second: 01 - LOADING BAR - LARGE [48x16] Green_10
+  - first:
+      213: 951655967800645632
+    second: 01 - LOADING BAR - LARGE [48x16] Green_11
+  - first:
+      213: 6451452944043766547
+    second: 01 - LOADING BAR - LARGE [48x16] Green_12
+  - first:
+      213: -8620618330513795564
+    second: 01 - LOADING BAR - LARGE [48x16] Green_13
+  - first:
+      213: 6796137094127707407
+    second: 01 - LOADING BAR - LARGE [48x16] Green_14
+  - first:
+      213: -5473851601449557442
+    second: 01 - LOADING BAR - LARGE [48x16] Green_15
+  - first:
+      213: 5178016031886631096
+    second: 01 - LOADING BAR - LARGE [48x16] Green_16
+  - first:
+      213: -8346872633217464075
+    second: 01 - LOADING BAR - LARGE [48x16] Green_17
+  - first:
+      213: 7582530359590962650
+    second: 01 - LOADING BAR - LARGE [48x16] Green_18
+  - first:
+      213: 7282357215666976577
+    second: 01 - LOADING BAR - LARGE [48x16] Green_19
+  - first:
+      213: -4579916783498695517
+    second: 01 - LOADING BAR - LARGE [48x16] Green_20
+  - first:
+      213: -2702815460228764847
+    second: 01 - LOADING BAR - LARGE [48x16] Green_21
+  - first:
+      213: -6133568182634454652
+    second: 01 - LOADING BAR - LARGE [48x16] Green_22
+  - first:
+      213: 3282520679858239301
+    second: 01 - LOADING BAR - LARGE [48x16] Green_23
+  - first:
+      213: -7671835035727277029
+    second: 01 - LOADING BAR - LARGE [48x16] Green_24
+  - first:
+      213: -6677716474662707841
+    second: 01 - LOADING BAR - LARGE [48x16] Green_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aee1b0ccdab1b20800000000000000
+      internalID: 3106267459873597972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b36172f0e0d1c40800000000000000
+      internalID: 5484555379450198892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bced8c158b02f880800000000000000
+      internalID: -8578781673849754443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 130
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268aec22282c9a4b0800000000000000
+      internalID: -5428594011632916382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3342c2e548a9db10800000000000000
+      internalID: 2006820127080858428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 114
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570b765b649967460800000000000000
+      internalID: 7239141980014882933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a16d07a72c670d00800000000000000
+      internalID: 938837964892234148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a236db6ad8d020800000000000000
+      internalID: 2366881760873195689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22946a8c340103580800000000000000
+      internalID: -8849555384467830494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143cbfdb77951c870800000000000000
+      internalID: 8701334325879882561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f29ac8b84b31ca0800000000000000
+      internalID: -6047291363175092374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00853258f06f43d00800000000000000
+      internalID: 951655967800645632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31370e6754a288950800000000000000
+      internalID: 6451452944043766547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 46
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41611896d496d5880800000000000000
+      internalID: -8620618330513795564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05665cfdaab05e50800000000000000
+      internalID: 6796137094127707407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32656e58f8f804b0800000000000000
+      internalID: -5473851601449557442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b061ed85220cd740800000000000000
+      internalID: 5178016031886631096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c4af4093f92c80800000000000000
+      internalID: -8346872633217464075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_18
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c806203f8a3960800000000000000
+      internalID: 7582530359590962650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1473557dd41201560800000000000000
+      internalID: 7282357215666976577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace5ba63fdd070c0800000000000000
+      internalID: -4579916783498695517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_21
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b61a7b8abad7ad0800000000000000
+      internalID: -2702815460228764847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4816f642c3031eaa0800000000000000
+      internalID: -6133568182634454652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547f2d2ba2bdd8d20800000000000000
+      internalID: 3282520679858239301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145410aeaa288590800000000000000
+      internalID: -7671835035727277029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01 - LOADING BAR - LARGE [48x16] Green_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d94f01f3cf353a0800000000000000
+      internalID: -6677716474662707841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      01 - LOADING BAR - LARGE [48x16] Green_0: 3106267459873597972
+      01 - LOADING BAR - LARGE [48x16] Green_1: 5484555379450198892
+      01 - LOADING BAR - LARGE [48x16] Green_10: -6047291363175092374
+      01 - LOADING BAR - LARGE [48x16] Green_11: 951655967800645632
+      01 - LOADING BAR - LARGE [48x16] Green_12: 6451452944043766547
+      01 - LOADING BAR - LARGE [48x16] Green_13: -8620618330513795564
+      01 - LOADING BAR - LARGE [48x16] Green_14: 6796137094127707407
+      01 - LOADING BAR - LARGE [48x16] Green_15: -5473851601449557442
+      01 - LOADING BAR - LARGE [48x16] Green_16: 5178016031886631096
+      01 - LOADING BAR - LARGE [48x16] Green_17: -8346872633217464075
+      01 - LOADING BAR - LARGE [48x16] Green_18: 7582530359590962650
+      01 - LOADING BAR - LARGE [48x16] Green_19: 7282357215666976577
+      01 - LOADING BAR - LARGE [48x16] Green_2: -8578781673849754443
+      01 - LOADING BAR - LARGE [48x16] Green_20: -4579916783498695517
+      01 - LOADING BAR - LARGE [48x16] Green_21: -2702815460228764847
+      01 - LOADING BAR - LARGE [48x16] Green_22: -6133568182634454652
+      01 - LOADING BAR - LARGE [48x16] Green_23: 3282520679858239301
+      01 - LOADING BAR - LARGE [48x16] Green_24: -7671835035727277029
+      01 - LOADING BAR - LARGE [48x16] Green_25: -6677716474662707841
+      01 - LOADING BAR - LARGE [48x16] Green_3: -5428594011632916382
+      01 - LOADING BAR - LARGE [48x16] Green_4: 2006820127080858428
+      01 - LOADING BAR - LARGE [48x16] Green_5: 7239141980014882933
+      01 - LOADING BAR - LARGE [48x16] Green_6: 938837964892234148
+      01 - LOADING BAR - LARGE [48x16] Green_7: 2366881760873195689
+      01 - LOADING BAR - LARGE [48x16] Green_8: -8849555384467830494
+      01 - LOADING BAR - LARGE [48x16] Green_9: 8701334325879882561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

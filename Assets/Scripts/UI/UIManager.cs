@@ -3,10 +3,9 @@ using System.Collections.Generic;
 
 public class UIManager : MonoBehaviour
 {
-    
-    private static UIManager instance;
-    public static UIManager Instance => instance;
-    // TODO: Instance 
+    // TODO: Instance
+    // private static UIManager instance;
+    // public static UIManager Instance => instance;
 
     [Header("UI Panels")]
     [SerializeField] private GameObject miniMapPanel;
@@ -16,7 +15,7 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject hpBarPanel;
     [SerializeField] private GameObject uiMessagePanel;
     [SerializeField] private GameObject questUIPanel;
-    [SerializeField] private GameObject player;
+    // [SerializeField] private GameObject player;
 
     [Header("Player Scripts")]
     [SerializeField] private PlayerMovement playerMovement;
@@ -28,22 +27,22 @@ public class UIManager : MonoBehaviour
 
     private void Awake()
     {
-        if (instance == null)
-        {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
-            
-            if (player != null)
-            {
+        // if (instance == null)
+        // {
+        //     instance = this;
+                DontDestroyOnLoad(gameObject);
+        //     
+        //     if (player != null)
+        //     {
                 if (playerMovement != null) playerMovement.enabled = true;
                 if (toolbarController != null) toolbarController.enabled = true;
                 if (inventoryController != null) inventoryController.enabled = true;
-            }
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
+        //     }
+        // }
+        // else
+        // {
+        //     Destroy(gameObject);
+        // }
     }
 
     private void Update()

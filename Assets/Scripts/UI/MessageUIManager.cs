@@ -16,20 +16,13 @@ public class MessageUIManager : MonoBehaviour
 
     private void Awake()
     {
-        if (instance == null)
-        {
-            instance = this;
-            // 부모가 있으면 분리하여 루트 GameObject로 만듦
-            if (transform.parent != null)
-            {
-                transform.SetParent(null);
-            }
-            DontDestroyOnLoad(gameObject);
-        }
-        else
+        if (instance != null && instance != this)
         {
             Destroy(gameObject);
+            return;
         }
+        instance = this;
+        DontDestroyOnLoad(gameObject);
     }
 
     public void ShowMessage(string npcName)
@@ -57,7 +50,6 @@ public class MessageUIManager : MonoBehaviour
         if (!isActive || !messagePanel.activeSelf) return;
         if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Backspace))
         {
-            // 대화 하나만 보여주고 클릭/Backspace 시 바로 닫기
             messagePanel.SetActive(false);
             isActive = false;
         }
