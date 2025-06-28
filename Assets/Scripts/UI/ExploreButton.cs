@@ -22,7 +22,7 @@ public class ExploreButton : MonoBehaviour
             PlayerMovement playerMovement = PlayerMovement.FindAnyObjectByType<PlayerMovement>();
             playerMovement.RetunAnimation();
             Debug.Log("씬 이동");
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene("ExploreScene");
         }
         else if (SceneManager.GetActiveScene().buildIndex == 1)
 {

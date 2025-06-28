@@ -58,7 +58,7 @@ public class ButtonGrid : MonoBehaviour
         playerMovement.canMove = true;
         playerMovement.RetunAnimation();
 
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene("MainScene");
     }
 
     public void CancelBtn()
